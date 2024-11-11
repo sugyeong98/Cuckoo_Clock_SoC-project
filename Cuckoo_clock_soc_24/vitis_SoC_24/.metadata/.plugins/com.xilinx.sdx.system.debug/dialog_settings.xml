@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item value="Mblaze_fnd_app_system" key="programflash.hwplatform"/>
+	<item value="" key="Mblaze_fnd_app_system-fsblFile"/>
+	<item value="28f00am29ew-bpi-x16" key="Mblaze_fnd_app_system-flashType"/>
+	<item value="false" key="Mblaze_fnd_app_system-blankCheck"/>
+	<item value="" key="Mblaze_fnd_app_system-offSet"/>
+	<item value="" key="Mblaze_fnd_app_system-imgFile"/>
+	<item value="false" key="Mblaze_fnd_app_system-verifyFlash"/>
+	<item value="Auto Detect" key="Mblaze_fnd_app_system-device"/>
+	<item value="Local" key="Mblaze_fnd_app_system-target"/>
+</section>

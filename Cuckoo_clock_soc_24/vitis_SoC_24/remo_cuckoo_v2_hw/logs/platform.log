@@ -1,0 +1,1185 @@
+TRACE::2024-11-07.12:24:03::SCWPlatform::Trying to open the hw design at C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/hw/Remo_cuckoo_wrapper.xsa
+TRACE::2024-11-07.12:24:03::SCWPlatform::DSA given C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/hw/Remo_cuckoo_wrapper.xsa
+TRACE::2024-11-07.12:24:03::SCWPlatform::DSA absoulate path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/hw/Remo_cuckoo_wrapper.xsa
+TRACE::2024-11-07.12:24:03::SCWPlatform::DSA directory C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/hw
+TRACE::2024-11-07.12:24:03::SCWPlatform:: Platform Path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/hw/Remo_cuckoo_wrapper.xsa
+TRACE::2024-11-07.12:24:03::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2024-11-07.12:24:03::SCWPlatform::Do not have an existing db opened. 
+TRACE::2024-11-07.12:24:04::SCWPlatform::Opened new HwDB with name Remo_cuckoo_wrapper_3
+TRACE::2024-11-07.12:24:04::SCWWriter::formatted JSON is {
+	"platformName":	"remo_cuckoo_v2_hw",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"remo_cuckoo_v2_hw",
+	"platHandOff":	"C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/Remo_cuckoo_wrapper.xsa",
+	"platIntHandOff":	"<platformDir>/hw/Remo_cuckoo_wrapper.xsa",
+	"deviceType":	"FPGA",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	""
+}
+TRACE::2024-11-07.12:24:04::SCWWriter::formatted JSON is {
+	"platformName":	"remo_cuckoo_v2_hw",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"remo_cuckoo_v2_hw",
+	"platHandOff":	"C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/Remo_cuckoo_wrapper.xsa",
+	"platIntHandOff":	"<platformDir>/hw/Remo_cuckoo_wrapper.xsa",
+	"deviceType":	"FPGA",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"remo_cuckoo_v2_hw",
+	"systems":	[{
+			"systemName":	"remo_cuckoo_v2_hw",
+			"systemDesc":	"remo_cuckoo_v2_hw",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"remo_cuckoo_v2_hw"
+		}]
+}
+TRACE::2024-11-07.12:24:04::SCWPlatform::Boot application domains not present, creating them
+TRACE::2024-11-07.12:24:04::SCWPlatform::Pure FPGA device, no boot application will be created.
+TRACE::2024-11-07.12:24:04::SCWWriter::formatted JSON is {
+	"platformName":	"remo_cuckoo_v2_hw",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"remo_cuckoo_v2_hw",
+	"platHandOff":	"C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/Remo_cuckoo_wrapper.xsa",
+	"platIntHandOff":	"<platformDir>/hw/Remo_cuckoo_wrapper.xsa",
+	"deviceType":	"FPGA",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"remo_cuckoo_v2_hw",
+	"systems":	[{
+			"systemName":	"remo_cuckoo_v2_hw",
+			"systemDesc":	"remo_cuckoo_v2_hw",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"remo_cuckoo_v2_hw"
+		}]
+}
+TRACE::2024-11-07.12:24:04::SCWPlatform::Trying to open the hw design at C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/hw/Remo_cuckoo_wrapper.xsa
+TRACE::2024-11-07.12:24:04::SCWPlatform::DSA given C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/hw/Remo_cuckoo_wrapper.xsa
+TRACE::2024-11-07.12:24:04::SCWPlatform::DSA absoulate path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/hw/Remo_cuckoo_wrapper.xsa
+TRACE::2024-11-07.12:24:04::SCWPlatform::DSA directory C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/hw
+TRACE::2024-11-07.12:24:04::SCWPlatform:: Platform Path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/hw/Remo_cuckoo_wrapper.xsa
+TRACE::2024-11-07.12:24:04::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2024-11-07.12:24:04::SCWPlatform::Trying to set the existing hwdb with name Remo_cuckoo_wrapper_3
+TRACE::2024-11-07.12:24:04::SCWPlatform::Opened existing hwdb Remo_cuckoo_wrapper_3
+TRACE::2024-11-07.12:24:04::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-11-07.12:24:04::SCWDomain::checking for install qemu data   : 
+TRACE::2024-11-07.12:24:04::SCWPlatform::Trying to open the hw design at C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/hw/Remo_cuckoo_wrapper.xsa
+TRACE::2024-11-07.12:24:04::SCWPlatform::DSA given C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/hw/Remo_cuckoo_wrapper.xsa
+TRACE::2024-11-07.12:24:04::SCWPlatform::DSA absoulate path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/hw/Remo_cuckoo_wrapper.xsa
+TRACE::2024-11-07.12:24:04::SCWPlatform::DSA directory C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/hw
+TRACE::2024-11-07.12:24:04::SCWPlatform:: Platform Path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/hw/Remo_cuckoo_wrapper.xsa
+TRACE::2024-11-07.12:24:04::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2024-11-07.12:24:04::SCWPlatform::Trying to set the existing hwdb with name Remo_cuckoo_wrapper_3
+TRACE::2024-11-07.12:24:04::SCWPlatform::Opened existing hwdb Remo_cuckoo_wrapper_3
+TRACE::2024-11-07.12:24:04::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-11-07.12:24:04::SCWPlatform::Trying to open the hw design at C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/hw/Remo_cuckoo_wrapper.xsa
+TRACE::2024-11-07.12:24:04::SCWPlatform::DSA given C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/hw/Remo_cuckoo_wrapper.xsa
+TRACE::2024-11-07.12:24:04::SCWPlatform::DSA absoulate path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/hw/Remo_cuckoo_wrapper.xsa
+TRACE::2024-11-07.12:24:04::SCWPlatform::DSA directory C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/hw
+TRACE::2024-11-07.12:24:04::SCWPlatform:: Platform Path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/hw/Remo_cuckoo_wrapper.xsa
+TRACE::2024-11-07.12:24:04::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2024-11-07.12:24:04::SCWPlatform::Trying to set the existing hwdb with name Remo_cuckoo_wrapper_3
+TRACE::2024-11-07.12:24:04::SCWPlatform::Opened existing hwdb Remo_cuckoo_wrapper_3
+TRACE::2024-11-07.12:24:04::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-11-07.12:24:04::SCWMssOS::Checking the sw design at  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-11-07.12:24:04::SCWMssOS::DEBUG:  swdes dump  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_hw/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2024-11-07.12:24:04::SCWMssOS::No sw design opened at  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-11-07.12:24:04::SCWMssOS::mss does not exists at C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-11-07.12:24:04::SCWMssOS::Creating sw design at  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-11-07.12:24:04::SCWMssOS::Adding the swdes entry, created swdb C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/microblaze_0/standalone_domain/bsp/system.mss with des name C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-11-07.12:24:04::SCWMssOS::updating the scw layer changes to swdes at   C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-11-07.12:24:04::SCWMssOS::Writing mss at C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-11-07.12:24:04::SCWMssOS::Completed writing the mss file at C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/microblaze_0/standalone_domain/bsp
+TRACE::2024-11-07.12:24:04::SCWMssOS::Picking up changes from newly written mss file into SCW Layer. 
+TRACE::2024-11-07.12:24:04::SCWMssOS::Updated the changes from newly written mss file into SCW Layer. 
+TRACE::2024-11-07.12:24:04::SCWPlatform::Trying to open the hw design at C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/hw/Remo_cuckoo_wrapper.xsa
+TRACE::2024-11-07.12:24:04::SCWPlatform::DSA given C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/hw/Remo_cuckoo_wrapper.xsa
+TRACE::2024-11-07.12:24:04::SCWPlatform::DSA absoulate path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/hw/Remo_cuckoo_wrapper.xsa
+TRACE::2024-11-07.12:24:04::SCWPlatform::DSA directory C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/hw
+TRACE::2024-11-07.12:24:04::SCWPlatform:: Platform Path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/hw/Remo_cuckoo_wrapper.xsa
+TRACE::2024-11-07.12:24:04::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2024-11-07.12:24:04::SCWPlatform::Trying to set the existing hwdb with name Remo_cuckoo_wrapper_3
+TRACE::2024-11-07.12:24:04::SCWPlatform::Opened existing hwdb Remo_cuckoo_wrapper_3
+TRACE::2024-11-07.12:24:04::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-11-07.12:24:04::SCWMssOS::Checking the sw design at  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-11-07.12:24:04::SCWMssOS::DEBUG:  swdes dump  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_hw/microblaze_0/standalone_domain/bsp/system.mss|system||
+C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/microblaze_0/standalone_domain/bsp/system.mss|C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/microblaze_0/standalone_domain/bsp/system.mss||
+
+TRACE::2024-11-07.12:24:04::SCWMssOS::Sw design exists and opened at  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-11-07.12:24:04::SCWPlatform::Trying to open the hw design at C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/hw/Remo_cuckoo_wrapper.xsa
+TRACE::2024-11-07.12:24:04::SCWPlatform::DSA given C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/hw/Remo_cuckoo_wrapper.xsa
+TRACE::2024-11-07.12:24:04::SCWPlatform::DSA absoulate path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/hw/Remo_cuckoo_wrapper.xsa
+TRACE::2024-11-07.12:24:04::SCWPlatform::DSA directory C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/hw
+TRACE::2024-11-07.12:24:04::SCWPlatform:: Platform Path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/hw/Remo_cuckoo_wrapper.xsa
+TRACE::2024-11-07.12:24:04::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2024-11-07.12:24:04::SCWPlatform::Trying to set the existing hwdb with name Remo_cuckoo_wrapper_3
+TRACE::2024-11-07.12:24:04::SCWPlatform::Opened existing hwdb Remo_cuckoo_wrapper_3
+TRACE::2024-11-07.12:24:04::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-11-07.12:24:04::SCWMssOS::Checking the sw design at  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-11-07.12:24:04::SCWMssOS::DEBUG:  swdes dump  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_hw/microblaze_0/standalone_domain/bsp/system.mss|system||
+C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/microblaze_0/standalone_domain/bsp/system.mss|C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/microblaze_0/standalone_domain/bsp/system.mss||
+
+TRACE::2024-11-07.12:24:04::SCWMssOS::Sw design exists and opened at  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-11-07.12:24:04::SCWPlatform::Trying to open the hw design at C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/hw/Remo_cuckoo_wrapper.xsa
+TRACE::2024-11-07.12:24:04::SCWPlatform::DSA given C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/hw/Remo_cuckoo_wrapper.xsa
+TRACE::2024-11-07.12:24:04::SCWPlatform::DSA absoulate path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/hw/Remo_cuckoo_wrapper.xsa
+TRACE::2024-11-07.12:24:04::SCWPlatform::DSA directory C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/hw
+TRACE::2024-11-07.12:24:04::SCWPlatform:: Platform Path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/hw/Remo_cuckoo_wrapper.xsa
+TRACE::2024-11-07.12:24:04::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2024-11-07.12:24:04::SCWPlatform::Trying to set the existing hwdb with name Remo_cuckoo_wrapper_3
+TRACE::2024-11-07.12:24:04::SCWPlatform::Opened existing hwdb Remo_cuckoo_wrapper_3
+TRACE::2024-11-07.12:24:04::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-11-07.12:24:04::SCWMssOS::Checking the sw design at  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-11-07.12:24:04::SCWMssOS::DEBUG:  swdes dump  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_hw/microblaze_0/standalone_domain/bsp/system.mss|system||
+C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/microblaze_0/standalone_domain/bsp/system.mss|C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/microblaze_0/standalone_domain/bsp/system.mss||
+
+TRACE::2024-11-07.12:24:04::SCWMssOS::Sw design exists and opened at  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-11-07.12:24:04::SCWWriter::formatted JSON is {
+	"platformName":	"remo_cuckoo_v2_hw",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"remo_cuckoo_v2_hw",
+	"platHandOff":	"C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/Remo_cuckoo_wrapper.xsa",
+	"platIntHandOff":	"<platformDir>/hw/Remo_cuckoo_wrapper.xsa",
+	"deviceType":	"FPGA",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"remo_cuckoo_v2_hw",
+	"systems":	[{
+			"systemName":	"remo_cuckoo_v2_hw",
+			"systemDesc":	"remo_cuckoo_v2_hw",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"remo_cuckoo_v2_hw",
+			"sysActiveDom":	"standalone_domain",
+			"sysDefaultDom":	"standalone_domain",
+			"domains":	[{
+					"domainName":	"standalone_domain",
+					"domainDispName":	"standalone_domain",
+					"domainDesc":	"standalone_domain",
+					"processors":	"microblaze_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"7.1",
+					"mssFile":	"",
+					"md5Digest":	"",
+					"compatibleApp":	"",
+					"domType":	"mssDomain",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	[],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+TRACE::2024-11-07.12:24:04::SCWPlatform::Trying to open the hw design at C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/hw/Remo_cuckoo_wrapper.xsa
+TRACE::2024-11-07.12:24:04::SCWPlatform::DSA given C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/hw/Remo_cuckoo_wrapper.xsa
+TRACE::2024-11-07.12:24:04::SCWPlatform::DSA absoulate path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/hw/Remo_cuckoo_wrapper.xsa
+TRACE::2024-11-07.12:24:04::SCWPlatform::DSA directory C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/hw
+TRACE::2024-11-07.12:24:04::SCWPlatform:: Platform Path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/hw/Remo_cuckoo_wrapper.xsa
+TRACE::2024-11-07.12:24:04::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2024-11-07.12:24:04::SCWPlatform::Trying to set the existing hwdb with name Remo_cuckoo_wrapper_3
+TRACE::2024-11-07.12:24:04::SCWPlatform::Opened existing hwdb Remo_cuckoo_wrapper_3
+TRACE::2024-11-07.12:24:04::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-11-07.12:24:04::SCWMssOS::Checking the sw design at  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-11-07.12:24:04::SCWMssOS::DEBUG:  swdes dump  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_hw/microblaze_0/standalone_domain/bsp/system.mss|system||
+C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/microblaze_0/standalone_domain/bsp/system.mss|C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/microblaze_0/standalone_domain/bsp/system.mss||
+
+TRACE::2024-11-07.12:24:04::SCWMssOS::Sw design exists and opened at  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-11-07.12:24:04::SCWMssOS::Completed writing the mss file at C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/microblaze_0/standalone_domain/bsp
+TRACE::2024-11-07.12:24:04::SCWMssOS::Forcing BSP Sources regeneration.
+LOG::2024-11-07.12:24:10::SCWPlatform::Started generating the artifacts platform remo_cuckoo_v2_hw
+TRACE::2024-11-07.12:24:10::SCWPlatform::Sanity checking of platform is completed
+LOG::2024-11-07.12:24:10::SCWPlatform::Started generating the artifacts for system configuration remo_cuckoo_v2_hw
+LOG::2024-11-07.12:24:10::SCWSystem::Checking the domain standalone_domain
+LOG::2024-11-07.12:24:10::SCWSystem::Not a boot domain 
+LOG::2024-11-07.12:24:10::SCWSystem::Started Processing the domain standalone_domain
+TRACE::2024-11-07.12:24:10::SCWDomain::Generating domain artifcats
+TRACE::2024-11-07.12:24:10::SCWMssOS::Generating standalone artifcats
+TRACE::2024-11-07.12:24:10::SCWMssOS:: Copying the user libraries. 
+TRACE::2024-11-07.12:24:10::SCWPlatform::Trying to open the hw design at C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/hw/Remo_cuckoo_wrapper.xsa
+TRACE::2024-11-07.12:24:10::SCWPlatform::DSA given C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/hw/Remo_cuckoo_wrapper.xsa
+TRACE::2024-11-07.12:24:10::SCWPlatform::DSA absoulate path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/hw/Remo_cuckoo_wrapper.xsa
+TRACE::2024-11-07.12:24:10::SCWPlatform::DSA directory C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/hw
+TRACE::2024-11-07.12:24:10::SCWPlatform:: Platform Path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/hw/Remo_cuckoo_wrapper.xsa
+TRACE::2024-11-07.12:24:10::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2024-11-07.12:24:10::SCWPlatform::Trying to set the existing hwdb with name Remo_cuckoo_wrapper_3
+TRACE::2024-11-07.12:24:10::SCWPlatform::Opened existing hwdb Remo_cuckoo_wrapper_3
+TRACE::2024-11-07.12:24:10::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-11-07.12:24:10::SCWMssOS::Checking the sw design at  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-11-07.12:24:10::SCWMssOS::DEBUG:  swdes dump  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_hw/microblaze_0/standalone_domain/bsp/system.mss|system||
+C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/microblaze_0/standalone_domain/bsp/system.mss|C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/microblaze_0/standalone_domain/bsp/system.mss||
+
+KEYINFO::2024-11-07.12:24:10::SCWMssOS::Could not open the swdb for C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/microblaze_0/standalone_domain/bsp/system.mss
+KEYINFO::2024-11-07.12:24:10::SCWMssOS::Could not open the sw design at  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/microblaze_0/standalone_domain/bsp/system.mss
+ERROR: [Hsi 55-1558] Software Design C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/microblaze_0/standalone_domain/bsp/system.mss is not found
+
+TRACE::2024-11-07.12:24:10::SCWMssOS::Cleared the swdb table entry
+TRACE::2024-11-07.12:24:10::SCWMssOS::No sw design opened at  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-11-07.12:24:10::SCWMssOS::mss exists loading the mss file  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-11-07.12:24:10::SCWMssOS::Opened the sw design from mss  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-11-07.12:24:10::SCWMssOS::Adding the swdes entry C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/microblaze_0/standalone_domain/bsp/system.mss with des name system_0
+TRACE::2024-11-07.12:24:10::SCWMssOS::updating the scw layer about changes
+TRACE::2024-11-07.12:24:10::SCWMssOS::Opened the sw design.  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-11-07.12:24:10::SCWMssOS::Completed writing the mss file at C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/microblaze_0/standalone_domain/bsp
+TRACE::2024-11-07.12:24:10::SCWMssOS::Mss edits present, copying mssfile into export location C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-11-07.12:24:10::SCWMssOS::bsp generated is upto date with the mss file. Skipping bsp generation.
+TRACE::2024-11-07.12:24:10::SCWMssOS::BSP is already built. skipping the bsp build ... 
+TRACE::2024-11-07.12:24:10::SCWDomain::Skipping the build for domain :  standalone_domain
+TRACE::2024-11-07.12:24:10::SCWMssOS::skipping the bsp build ... 
+TRACE::2024-11-07.12:24:10::SCWMssOS::Copying to export directory.
+TRACE::2024-11-07.12:24:10::SCWMssOS:: Checking if to create the Supporting Applications
+TRACE::2024-11-07.12:24:10::SCWMssOS:: No Linux domain exists, trying to generate FSBL 
+LOG::2024-11-07.12:24:10::SCWSystem::Completed Processing the domain standalone_domain
+LOG::2024-11-07.12:24:10::SCWSystem::Completed Processing the sysconfig remo_cuckoo_v2_hw
+LOG::2024-11-07.12:24:10::SCWPlatform::Completed generating the artifacts for system configuration remo_cuckoo_v2_hw
+TRACE::2024-11-07.12:24:10::SCWPlatform::Started preparing the platform 
+TRACE::2024-11-07.12:24:10::SCWSystem::Writing the bif file for system config remo_cuckoo_v2_hw
+TRACE::2024-11-07.12:24:10::SCWSystem::dir created 
+TRACE::2024-11-07.12:24:10::SCWSystem::Writing the bif 
+TRACE::2024-11-07.12:24:10::SCWPlatform::Started writing the spfm file 
+TRACE::2024-11-07.12:24:10::SCWPlatform::Started writing the xpfm file 
+TRACE::2024-11-07.12:24:10::SCWPlatform::Completed generating the platform
+TRACE::2024-11-07.12:24:10::SCWPlatform::Trying to open the hw design at C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/hw/Remo_cuckoo_wrapper.xsa
+TRACE::2024-11-07.12:24:10::SCWPlatform::DSA given C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/hw/Remo_cuckoo_wrapper.xsa
+TRACE::2024-11-07.12:24:10::SCWPlatform::DSA absoulate path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/hw/Remo_cuckoo_wrapper.xsa
+TRACE::2024-11-07.12:24:10::SCWPlatform::DSA directory C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/hw
+TRACE::2024-11-07.12:24:10::SCWPlatform:: Platform Path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/hw/Remo_cuckoo_wrapper.xsa
+TRACE::2024-11-07.12:24:10::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2024-11-07.12:24:10::SCWPlatform::Trying to set the existing hwdb with name Remo_cuckoo_wrapper_3
+TRACE::2024-11-07.12:24:10::SCWPlatform::Opened existing hwdb Remo_cuckoo_wrapper_3
+TRACE::2024-11-07.12:24:10::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-11-07.12:24:10::SCWMssOS::Checking the sw design at  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-11-07.12:24:10::SCWMssOS::DEBUG:  swdes dump  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_hw/microblaze_0/standalone_domain/bsp/system.mss|system||
+C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/microblaze_0/standalone_domain/bsp/system.mss|system_0||
+
+TRACE::2024-11-07.12:24:10::SCWMssOS::Sw design exists and opened at  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-11-07.12:24:10::SCWPlatform::Trying to open the hw design at C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/hw/Remo_cuckoo_wrapper.xsa
+TRACE::2024-11-07.12:24:10::SCWPlatform::DSA given C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/hw/Remo_cuckoo_wrapper.xsa
+TRACE::2024-11-07.12:24:10::SCWPlatform::DSA absoulate path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/hw/Remo_cuckoo_wrapper.xsa
+TRACE::2024-11-07.12:24:10::SCWPlatform::DSA directory C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/hw
+TRACE::2024-11-07.12:24:10::SCWPlatform:: Platform Path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/hw/Remo_cuckoo_wrapper.xsa
+TRACE::2024-11-07.12:24:10::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2024-11-07.12:24:10::SCWPlatform::Trying to set the existing hwdb with name Remo_cuckoo_wrapper_3
+TRACE::2024-11-07.12:24:10::SCWPlatform::Opened existing hwdb Remo_cuckoo_wrapper_3
+TRACE::2024-11-07.12:24:10::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-11-07.12:24:10::SCWMssOS::Checking the sw design at  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-11-07.12:24:10::SCWMssOS::DEBUG:  swdes dump  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_hw/microblaze_0/standalone_domain/bsp/system.mss|system||
+C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/microblaze_0/standalone_domain/bsp/system.mss|system_0||
+
+TRACE::2024-11-07.12:24:10::SCWMssOS::Sw design exists and opened at  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-11-07.12:24:10::SCWPlatform::Trying to open the hw design at C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/hw/Remo_cuckoo_wrapper.xsa
+TRACE::2024-11-07.12:24:10::SCWPlatform::DSA given C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/hw/Remo_cuckoo_wrapper.xsa
+TRACE::2024-11-07.12:24:10::SCWPlatform::DSA absoulate path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/hw/Remo_cuckoo_wrapper.xsa
+TRACE::2024-11-07.12:24:10::SCWPlatform::DSA directory C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/hw
+TRACE::2024-11-07.12:24:10::SCWPlatform:: Platform Path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/hw/Remo_cuckoo_wrapper.xsa
+TRACE::2024-11-07.12:24:10::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2024-11-07.12:24:10::SCWPlatform::Trying to set the existing hwdb with name Remo_cuckoo_wrapper_3
+TRACE::2024-11-07.12:24:10::SCWPlatform::Opened existing hwdb Remo_cuckoo_wrapper_3
+TRACE::2024-11-07.12:24:10::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-11-07.12:24:10::SCWMssOS::Checking the sw design at  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-11-07.12:24:10::SCWMssOS::DEBUG:  swdes dump  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_hw/microblaze_0/standalone_domain/bsp/system.mss|system||
+C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/microblaze_0/standalone_domain/bsp/system.mss|system_0||
+
+TRACE::2024-11-07.12:24:10::SCWMssOS::Sw design exists and opened at  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-11-07.12:24:10::SCWWriter::formatted JSON is {
+	"platformName":	"remo_cuckoo_v2_hw",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"remo_cuckoo_v2_hw",
+	"platHandOff":	"C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/Remo_cuckoo_wrapper.xsa",
+	"platIntHandOff":	"<platformDir>/hw/Remo_cuckoo_wrapper.xsa",
+	"deviceType":	"FPGA",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"remo_cuckoo_v2_hw",
+	"systems":	[{
+			"systemName":	"remo_cuckoo_v2_hw",
+			"systemDesc":	"remo_cuckoo_v2_hw",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"remo_cuckoo_v2_hw",
+			"sysActiveDom":	"standalone_domain",
+			"sysDefaultDom":	"standalone_domain",
+			"domains":	[{
+					"domainName":	"standalone_domain",
+					"domainDispName":	"standalone_domain",
+					"domainDesc":	"standalone_domain",
+					"processors":	"microblaze_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"7.1",
+					"mssFile":	"",
+					"md5Digest":	"ab9893328450e2be475bcfe09f05ee21",
+					"compatibleApp":	"",
+					"domType":	"mssDomain",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	[],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+KEYINFO::2024-11-07.12:24:10::SCWPlatform::updated the xpfm file.
+TRACE::2024-11-07.12:24:11::SCWPlatform::Trying to open the hw design at C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/hw/Remo_cuckoo_wrapper.xsa
+TRACE::2024-11-07.12:24:11::SCWPlatform::DSA given C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/hw/Remo_cuckoo_wrapper.xsa
+TRACE::2024-11-07.12:24:11::SCWPlatform::DSA absoulate path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/hw/Remo_cuckoo_wrapper.xsa
+TRACE::2024-11-07.12:24:11::SCWPlatform::DSA directory C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/hw
+TRACE::2024-11-07.12:24:11::SCWPlatform:: Platform Path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/hw/Remo_cuckoo_wrapper.xsa
+TRACE::2024-11-07.12:24:11::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2024-11-07.12:24:11::SCWPlatform::Trying to set the existing hwdb with name Remo_cuckoo_wrapper_3
+TRACE::2024-11-07.12:24:11::SCWPlatform::Opened existing hwdb Remo_cuckoo_wrapper_3
+TRACE::2024-11-07.12:24:11::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-11-07.12:24:11::SCWMssOS::Checking the sw design at  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-11-07.12:24:11::SCWMssOS::DEBUG:  swdes dump  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_hw/microblaze_0/standalone_domain/bsp/system.mss|system||
+C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/microblaze_0/standalone_domain/bsp/system.mss|system_0||
+
+TRACE::2024-11-07.12:24:11::SCWMssOS::Sw design exists and opened at  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-11-07.12:24:11::SCWPlatform::Trying to open the hw design at C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/hw/Remo_cuckoo_wrapper.xsa
+TRACE::2024-11-07.12:24:11::SCWPlatform::DSA given C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/hw/Remo_cuckoo_wrapper.xsa
+TRACE::2024-11-07.12:24:11::SCWPlatform::DSA absoulate path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/hw/Remo_cuckoo_wrapper.xsa
+TRACE::2024-11-07.12:24:11::SCWPlatform::DSA directory C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/hw
+TRACE::2024-11-07.12:24:11::SCWPlatform:: Platform Path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/hw/Remo_cuckoo_wrapper.xsa
+TRACE::2024-11-07.12:24:11::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2024-11-07.12:24:11::SCWPlatform::Trying to set the existing hwdb with name Remo_cuckoo_wrapper_3
+TRACE::2024-11-07.12:24:11::SCWPlatform::Opened existing hwdb Remo_cuckoo_wrapper_3
+TRACE::2024-11-07.12:24:11::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-11-07.12:24:11::SCWMssOS::Checking the sw design at  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-11-07.12:24:11::SCWMssOS::DEBUG:  swdes dump  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_hw/microblaze_0/standalone_domain/bsp/system.mss|system||
+C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/microblaze_0/standalone_domain/bsp/system.mss|system_0||
+
+TRACE::2024-11-07.12:24:11::SCWMssOS::Sw design exists and opened at  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-11-07.12:24:11::SCWPlatform::Trying to open the hw design at C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/hw/Remo_cuckoo_wrapper.xsa
+TRACE::2024-11-07.12:24:11::SCWPlatform::DSA given C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/hw/Remo_cuckoo_wrapper.xsa
+TRACE::2024-11-07.12:24:11::SCWPlatform::DSA absoulate path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/hw/Remo_cuckoo_wrapper.xsa
+TRACE::2024-11-07.12:24:11::SCWPlatform::DSA directory C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/hw
+TRACE::2024-11-07.12:24:11::SCWPlatform:: Platform Path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/hw/Remo_cuckoo_wrapper.xsa
+TRACE::2024-11-07.12:24:11::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2024-11-07.12:24:11::SCWPlatform::Trying to set the existing hwdb with name Remo_cuckoo_wrapper_3
+TRACE::2024-11-07.12:24:11::SCWPlatform::Opened existing hwdb Remo_cuckoo_wrapper_3
+TRACE::2024-11-07.12:24:11::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-11-07.12:24:11::SCWMssOS::Checking the sw design at  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-11-07.12:24:11::SCWMssOS::DEBUG:  swdes dump  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_hw/microblaze_0/standalone_domain/bsp/system.mss|system||
+C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/microblaze_0/standalone_domain/bsp/system.mss|system_0||
+
+TRACE::2024-11-07.12:24:11::SCWMssOS::Sw design exists and opened at  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-11-07.12:24:11::SCWPlatform::Trying to open the hw design at C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/hw/Remo_cuckoo_wrapper.xsa
+TRACE::2024-11-07.12:24:11::SCWPlatform::DSA given C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/hw/Remo_cuckoo_wrapper.xsa
+TRACE::2024-11-07.12:24:11::SCWPlatform::DSA absoulate path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/hw/Remo_cuckoo_wrapper.xsa
+TRACE::2024-11-07.12:24:11::SCWPlatform::DSA directory C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/hw
+TRACE::2024-11-07.12:24:11::SCWPlatform:: Platform Path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/hw/Remo_cuckoo_wrapper.xsa
+TRACE::2024-11-07.12:24:11::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2024-11-07.12:24:11::SCWPlatform::Trying to set the existing hwdb with name Remo_cuckoo_wrapper_3
+TRACE::2024-11-07.12:24:11::SCWPlatform::Opened existing hwdb Remo_cuckoo_wrapper_3
+TRACE::2024-11-07.12:24:11::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-11-07.12:24:11::SCWMssOS::Checking the sw design at  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-11-07.12:24:11::SCWMssOS::DEBUG:  swdes dump  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_hw/microblaze_0/standalone_domain/bsp/system.mss|system||
+C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/microblaze_0/standalone_domain/bsp/system.mss|system_0||
+
+TRACE::2024-11-07.12:24:11::SCWMssOS::Sw design exists and opened at  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-11-07.12:24:11::SCWWriter::formatted JSON is {
+	"platformName":	"remo_cuckoo_v2_hw",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"remo_cuckoo_v2_hw",
+	"platHandOff":	"C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/Remo_cuckoo_wrapper.xsa",
+	"platIntHandOff":	"<platformDir>/hw/Remo_cuckoo_wrapper.xsa",
+	"deviceType":	"FPGA",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"remo_cuckoo_v2_hw",
+	"systems":	[{
+			"systemName":	"remo_cuckoo_v2_hw",
+			"systemDesc":	"remo_cuckoo_v2_hw",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"remo_cuckoo_v2_hw",
+			"sysActiveDom":	"standalone_domain",
+			"sysDefaultDom":	"standalone_domain",
+			"domains":	[{
+					"domainName":	"standalone_domain",
+					"domainDispName":	"standalone_domain",
+					"domainDesc":	"standalone_domain",
+					"processors":	"microblaze_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"7.1",
+					"mssFile":	"",
+					"md5Digest":	"ab9893328450e2be475bcfe09f05ee21",
+					"compatibleApp":	"",
+					"domType":	"mssDomain",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	[],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+TRACE::2024-11-07.12:24:11::SCWPlatform::Trying to open the hw design at C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/hw/Remo_cuckoo_wrapper.xsa
+TRACE::2024-11-07.12:24:11::SCWPlatform::DSA given C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/hw/Remo_cuckoo_wrapper.xsa
+TRACE::2024-11-07.12:24:11::SCWPlatform::DSA absoulate path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/hw/Remo_cuckoo_wrapper.xsa
+TRACE::2024-11-07.12:24:11::SCWPlatform::DSA directory C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/hw
+TRACE::2024-11-07.12:24:11::SCWPlatform:: Platform Path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/hw/Remo_cuckoo_wrapper.xsa
+TRACE::2024-11-07.12:24:11::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2024-11-07.12:24:11::SCWPlatform::Trying to set the existing hwdb with name Remo_cuckoo_wrapper_3
+TRACE::2024-11-07.12:24:11::SCWPlatform::Opened existing hwdb Remo_cuckoo_wrapper_3
+TRACE::2024-11-07.12:24:11::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-11-07.12:24:11::SCWMssOS::Checking the sw design at  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-11-07.12:24:11::SCWMssOS::DEBUG:  swdes dump  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_hw/microblaze_0/standalone_domain/bsp/system.mss|system||
+C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/microblaze_0/standalone_domain/bsp/system.mss|system_0||
+
+TRACE::2024-11-07.12:24:11::SCWMssOS::Sw design exists and opened at  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-11-07.12:24:11::SCWPlatform::Trying to open the hw design at C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/hw/Remo_cuckoo_wrapper.xsa
+TRACE::2024-11-07.12:24:11::SCWPlatform::DSA given C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/hw/Remo_cuckoo_wrapper.xsa
+TRACE::2024-11-07.12:24:11::SCWPlatform::DSA absoulate path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/hw/Remo_cuckoo_wrapper.xsa
+TRACE::2024-11-07.12:24:11::SCWPlatform::DSA directory C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/hw
+TRACE::2024-11-07.12:24:11::SCWPlatform:: Platform Path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/hw/Remo_cuckoo_wrapper.xsa
+TRACE::2024-11-07.12:24:11::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2024-11-07.12:24:11::SCWPlatform::Trying to set the existing hwdb with name Remo_cuckoo_wrapper_3
+TRACE::2024-11-07.12:24:11::SCWPlatform::Opened existing hwdb Remo_cuckoo_wrapper_3
+TRACE::2024-11-07.12:24:11::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-11-07.12:24:11::SCWMssOS::Checking the sw design at  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-11-07.12:24:11::SCWMssOS::DEBUG:  swdes dump  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_hw/microblaze_0/standalone_domain/bsp/system.mss|system||
+C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/microblaze_0/standalone_domain/bsp/system.mss|system_0||
+
+TRACE::2024-11-07.12:24:11::SCWMssOS::Sw design exists and opened at  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-11-07.12:24:11::SCWPlatform::Trying to open the hw design at C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/hw/Remo_cuckoo_wrapper.xsa
+TRACE::2024-11-07.12:24:11::SCWPlatform::DSA given C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/hw/Remo_cuckoo_wrapper.xsa
+TRACE::2024-11-07.12:24:11::SCWPlatform::DSA absoulate path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/hw/Remo_cuckoo_wrapper.xsa
+TRACE::2024-11-07.12:24:11::SCWPlatform::DSA directory C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/hw
+TRACE::2024-11-07.12:24:11::SCWPlatform:: Platform Path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/hw/Remo_cuckoo_wrapper.xsa
+TRACE::2024-11-07.12:24:11::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2024-11-07.12:24:11::SCWPlatform::Trying to set the existing hwdb with name Remo_cuckoo_wrapper_3
+TRACE::2024-11-07.12:24:11::SCWPlatform::Opened existing hwdb Remo_cuckoo_wrapper_3
+TRACE::2024-11-07.12:24:11::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-11-07.12:24:11::SCWMssOS::Checking the sw design at  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-11-07.12:24:11::SCWMssOS::DEBUG:  swdes dump  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_hw/microblaze_0/standalone_domain/bsp/system.mss|system||
+C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/microblaze_0/standalone_domain/bsp/system.mss|system_0||
+
+TRACE::2024-11-07.12:24:11::SCWMssOS::Sw design exists and opened at  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-11-07.12:24:11::SCWPlatform::Trying to open the hw design at C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/hw/Remo_cuckoo_wrapper.xsa
+TRACE::2024-11-07.12:24:11::SCWPlatform::DSA given C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/hw/Remo_cuckoo_wrapper.xsa
+TRACE::2024-11-07.12:24:11::SCWPlatform::DSA absoulate path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/hw/Remo_cuckoo_wrapper.xsa
+TRACE::2024-11-07.12:24:11::SCWPlatform::DSA directory C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/hw
+TRACE::2024-11-07.12:24:11::SCWPlatform:: Platform Path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/hw/Remo_cuckoo_wrapper.xsa
+TRACE::2024-11-07.12:24:11::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2024-11-07.12:24:11::SCWPlatform::Trying to set the existing hwdb with name Remo_cuckoo_wrapper_3
+TRACE::2024-11-07.12:24:11::SCWPlatform::Opened existing hwdb Remo_cuckoo_wrapper_3
+TRACE::2024-11-07.12:24:11::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-11-07.12:24:11::SCWMssOS::Checking the sw design at  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-11-07.12:24:11::SCWMssOS::DEBUG:  swdes dump  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_hw/microblaze_0/standalone_domain/bsp/system.mss|system||
+C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/microblaze_0/standalone_domain/bsp/system.mss|system_0||
+
+TRACE::2024-11-07.12:24:11::SCWMssOS::Sw design exists and opened at  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-11-07.12:24:11::SCWPlatform::Trying to open the hw design at C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/hw/Remo_cuckoo_wrapper.xsa
+TRACE::2024-11-07.12:24:11::SCWPlatform::DSA given C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/hw/Remo_cuckoo_wrapper.xsa
+TRACE::2024-11-07.12:24:11::SCWPlatform::DSA absoulate path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/hw/Remo_cuckoo_wrapper.xsa
+TRACE::2024-11-07.12:24:11::SCWPlatform::DSA directory C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/hw
+TRACE::2024-11-07.12:24:11::SCWPlatform:: Platform Path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/hw/Remo_cuckoo_wrapper.xsa
+TRACE::2024-11-07.12:24:11::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2024-11-07.12:24:11::SCWPlatform::Trying to set the existing hwdb with name Remo_cuckoo_wrapper_3
+TRACE::2024-11-07.12:24:11::SCWPlatform::Opened existing hwdb Remo_cuckoo_wrapper_3
+TRACE::2024-11-07.12:24:11::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-11-07.12:24:11::SCWMssOS::Checking the sw design at  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-11-07.12:24:11::SCWMssOS::DEBUG:  swdes dump  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_hw/microblaze_0/standalone_domain/bsp/system.mss|system||
+C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/microblaze_0/standalone_domain/bsp/system.mss|system_0||
+
+TRACE::2024-11-07.12:24:11::SCWMssOS::Sw design exists and opened at  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-11-07.12:24:11::SCWPlatform::Trying to open the hw design at C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/hw/Remo_cuckoo_wrapper.xsa
+TRACE::2024-11-07.12:24:11::SCWPlatform::DSA given C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/hw/Remo_cuckoo_wrapper.xsa
+TRACE::2024-11-07.12:24:11::SCWPlatform::DSA absoulate path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/hw/Remo_cuckoo_wrapper.xsa
+TRACE::2024-11-07.12:24:11::SCWPlatform::DSA directory C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/hw
+TRACE::2024-11-07.12:24:11::SCWPlatform:: Platform Path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/hw/Remo_cuckoo_wrapper.xsa
+TRACE::2024-11-07.12:24:11::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2024-11-07.12:24:11::SCWPlatform::Trying to set the existing hwdb with name Remo_cuckoo_wrapper_3
+TRACE::2024-11-07.12:24:11::SCWPlatform::Opened existing hwdb Remo_cuckoo_wrapper_3
+TRACE::2024-11-07.12:24:11::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-11-07.12:24:11::SCWMssOS::Checking the sw design at  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-11-07.12:24:11::SCWMssOS::DEBUG:  swdes dump  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_hw/microblaze_0/standalone_domain/bsp/system.mss|system||
+C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/microblaze_0/standalone_domain/bsp/system.mss|system_0||
+
+TRACE::2024-11-07.12:24:11::SCWMssOS::Sw design exists and opened at  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-11-07.12:24:11::SCWWriter::formatted JSON is {
+	"platformName":	"remo_cuckoo_v2_hw",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"remo_cuckoo_v2_hw",
+	"platHandOff":	"C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/Remo_cuckoo_wrapper.xsa",
+	"platIntHandOff":	"<platformDir>/hw/Remo_cuckoo_wrapper.xsa",
+	"deviceType":	"FPGA",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"remo_cuckoo_v2_hw",
+	"systems":	[{
+			"systemName":	"remo_cuckoo_v2_hw",
+			"systemDesc":	"remo_cuckoo_v2_hw",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"remo_cuckoo_v2_hw",
+			"sysActiveDom":	"standalone_domain",
+			"sysDefaultDom":	"standalone_domain",
+			"domains":	[{
+					"domainName":	"standalone_domain",
+					"domainDispName":	"standalone on microblaze_0",
+					"domainDesc":	"standalone_domain",
+					"processors":	"microblaze_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"7.1",
+					"mssFile":	"",
+					"md5Digest":	"ab9893328450e2be475bcfe09f05ee21",
+					"compatibleApp":	"",
+					"domType":	"mssDomain",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	[],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+TRACE::2024-11-07.12:24:11::SCWPlatform::Trying to open the hw design at C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/hw/Remo_cuckoo_wrapper.xsa
+TRACE::2024-11-07.12:24:11::SCWPlatform::DSA given C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/hw/Remo_cuckoo_wrapper.xsa
+TRACE::2024-11-07.12:24:11::SCWPlatform::DSA absoulate path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/hw/Remo_cuckoo_wrapper.xsa
+TRACE::2024-11-07.12:24:11::SCWPlatform::DSA directory C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/hw
+TRACE::2024-11-07.12:24:11::SCWPlatform:: Platform Path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/hw/Remo_cuckoo_wrapper.xsa
+TRACE::2024-11-07.12:24:11::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2024-11-07.12:24:11::SCWPlatform::Trying to set the existing hwdb with name Remo_cuckoo_wrapper_3
+TRACE::2024-11-07.12:24:11::SCWPlatform::Opened existing hwdb Remo_cuckoo_wrapper_3
+TRACE::2024-11-07.12:24:11::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-11-07.12:24:11::SCWMssOS::Checking the sw design at  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-11-07.12:24:11::SCWMssOS::DEBUG:  swdes dump  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_hw/microblaze_0/standalone_domain/bsp/system.mss|system||
+C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/microblaze_0/standalone_domain/bsp/system.mss|system_0||
+
+TRACE::2024-11-07.12:24:11::SCWMssOS::Sw design exists and opened at  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-11-07.12:24:11::SCWPlatform::Trying to open the hw design at C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/hw/Remo_cuckoo_wrapper.xsa
+TRACE::2024-11-07.12:24:11::SCWPlatform::DSA given C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/hw/Remo_cuckoo_wrapper.xsa
+TRACE::2024-11-07.12:24:11::SCWPlatform::DSA absoulate path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/hw/Remo_cuckoo_wrapper.xsa
+TRACE::2024-11-07.12:24:11::SCWPlatform::DSA directory C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/hw
+TRACE::2024-11-07.12:24:11::SCWPlatform:: Platform Path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/hw/Remo_cuckoo_wrapper.xsa
+TRACE::2024-11-07.12:24:11::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2024-11-07.12:24:11::SCWPlatform::Trying to set the existing hwdb with name Remo_cuckoo_wrapper_3
+TRACE::2024-11-07.12:24:11::SCWPlatform::Opened existing hwdb Remo_cuckoo_wrapper_3
+TRACE::2024-11-07.12:24:11::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-11-07.12:24:11::SCWMssOS::Checking the sw design at  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-11-07.12:24:11::SCWMssOS::DEBUG:  swdes dump  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_hw/microblaze_0/standalone_domain/bsp/system.mss|system||
+C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/microblaze_0/standalone_domain/bsp/system.mss|system_0||
+
+TRACE::2024-11-07.12:24:11::SCWMssOS::Sw design exists and opened at  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-11-07.12:24:11::SCWPlatform::Trying to open the hw design at C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/hw/Remo_cuckoo_wrapper.xsa
+TRACE::2024-11-07.12:24:11::SCWPlatform::DSA given C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/hw/Remo_cuckoo_wrapper.xsa
+TRACE::2024-11-07.12:24:11::SCWPlatform::DSA absoulate path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/hw/Remo_cuckoo_wrapper.xsa
+TRACE::2024-11-07.12:24:11::SCWPlatform::DSA directory C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/hw
+TRACE::2024-11-07.12:24:11::SCWPlatform:: Platform Path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/hw/Remo_cuckoo_wrapper.xsa
+TRACE::2024-11-07.12:24:11::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2024-11-07.12:24:11::SCWPlatform::Trying to set the existing hwdb with name Remo_cuckoo_wrapper_3
+TRACE::2024-11-07.12:24:11::SCWPlatform::Opened existing hwdb Remo_cuckoo_wrapper_3
+TRACE::2024-11-07.12:24:11::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-11-07.12:24:11::SCWMssOS::Checking the sw design at  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-11-07.12:24:11::SCWMssOS::DEBUG:  swdes dump  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_hw/microblaze_0/standalone_domain/bsp/system.mss|system||
+C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/microblaze_0/standalone_domain/bsp/system.mss|system_0||
+
+TRACE::2024-11-07.12:24:11::SCWMssOS::Sw design exists and opened at  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-11-07.12:24:11::SCWWriter::formatted JSON is {
+	"platformName":	"remo_cuckoo_v2_hw",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"remo_cuckoo_v2_hw",
+	"platHandOff":	"C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/Remo_cuckoo_wrapper.xsa",
+	"platIntHandOff":	"<platformDir>/hw/Remo_cuckoo_wrapper.xsa",
+	"deviceType":	"FPGA",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"remo_cuckoo_v2_hw",
+	"systems":	[{
+			"systemName":	"remo_cuckoo_v2_hw",
+			"systemDesc":	"remo_cuckoo_v2_hw",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"remo_cuckoo_v2_hw",
+			"sysActiveDom":	"standalone_domain",
+			"sysDefaultDom":	"standalone_domain",
+			"domains":	[{
+					"domainName":	"standalone_domain",
+					"domainDispName":	"standalone on microblaze_0",
+					"domainDesc":	"standalone_domain",
+					"processors":	"microblaze_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"7.1",
+					"mssFile":	"",
+					"md5Digest":	"ab9893328450e2be475bcfe09f05ee21",
+					"compatibleApp":	"",
+					"domType":	"mssDomain",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	[],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+TRACE::2024-11-07.12:24:12::SCWPlatform::Clearing the existing platform
+TRACE::2024-11-07.12:24:12::SCWSystem::Clearing the existing sysconfig
+TRACE::2024-11-07.12:24:12::SCWMssOS::Removing the swdes entry for  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-11-07.12:24:12::SCWSystem::Clearing the domains completed.
+TRACE::2024-11-07.12:24:12::SCWPlatform::Clearing the opened hw db.
+TRACE::2024-11-07.12:24:12::SCWPlatform::DSA given C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/hw/Remo_cuckoo_wrapper.xsa
+TRACE::2024-11-07.12:24:12::SCWPlatform::DSA absoulate path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/hw/Remo_cuckoo_wrapper.xsa
+TRACE::2024-11-07.12:24:12::SCWPlatform:: Platform location is C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/hw
+TRACE::2024-11-07.12:24:12::SCWPlatform:: Platform Path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/hw/Remo_cuckoo_wrapper.xsa
+TRACE::2024-11-07.12:24:12::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2024-11-07.12:24:12::SCWPlatform::Removing the HwDB with name C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/hw/Remo_cuckoo_wrapper.xsa
+TRACE::2024-11-07.12:24:12::SCWPlatform::Trying to open the hw design at C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/hw/Remo_cuckoo_wrapper.xsa
+TRACE::2024-11-07.12:24:12::SCWPlatform::DSA given C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/hw/Remo_cuckoo_wrapper.xsa
+TRACE::2024-11-07.12:24:12::SCWPlatform::DSA absoulate path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/hw/Remo_cuckoo_wrapper.xsa
+TRACE::2024-11-07.12:24:12::SCWPlatform::DSA directory C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/hw
+TRACE::2024-11-07.12:24:12::SCWPlatform:: Platform Path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/hw/Remo_cuckoo_wrapper.xsa
+TRACE::2024-11-07.12:24:12::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2024-11-07.12:24:12::SCWPlatform::Do not have an existing db opened. 
+TRACE::2024-11-07.12:24:12::SCWPlatform::Opened new HwDB with name Remo_cuckoo_wrapper_4
+TRACE::2024-11-07.12:24:12::SCWReader::Active system found as  remo_cuckoo_v2_hw
+TRACE::2024-11-07.12:24:12::SCWReader::Handling sysconfig remo_cuckoo_v2_hw
+TRACE::2024-11-07.12:24:12::SCWDomain::checking for install qemu data   : 
+TRACE::2024-11-07.12:24:12::SCWPlatform::Trying to open the hw design at C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/hw/Remo_cuckoo_wrapper.xsa
+TRACE::2024-11-07.12:24:12::SCWPlatform::DSA given C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/hw/Remo_cuckoo_wrapper.xsa
+TRACE::2024-11-07.12:24:12::SCWPlatform::DSA absoulate path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/hw/Remo_cuckoo_wrapper.xsa
+TRACE::2024-11-07.12:24:12::SCWPlatform::DSA directory C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/hw
+TRACE::2024-11-07.12:24:12::SCWPlatform:: Platform Path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/hw/Remo_cuckoo_wrapper.xsa
+TRACE::2024-11-07.12:24:12::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2024-11-07.12:24:12::SCWPlatform::Trying to set the existing hwdb with name Remo_cuckoo_wrapper_4
+TRACE::2024-11-07.12:24:12::SCWPlatform::Opened existing hwdb Remo_cuckoo_wrapper_4
+TRACE::2024-11-07.12:24:12::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-11-07.12:24:12::SCWPlatform::Trying to open the hw design at C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/hw/Remo_cuckoo_wrapper.xsa
+TRACE::2024-11-07.12:24:12::SCWPlatform::DSA given C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/hw/Remo_cuckoo_wrapper.xsa
+TRACE::2024-11-07.12:24:12::SCWPlatform::DSA absoulate path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/hw/Remo_cuckoo_wrapper.xsa
+TRACE::2024-11-07.12:24:12::SCWPlatform::DSA directory C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/hw
+TRACE::2024-11-07.12:24:12::SCWPlatform:: Platform Path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/hw/Remo_cuckoo_wrapper.xsa
+TRACE::2024-11-07.12:24:12::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2024-11-07.12:24:12::SCWPlatform::Trying to set the existing hwdb with name Remo_cuckoo_wrapper_4
+TRACE::2024-11-07.12:24:12::SCWPlatform::Opened existing hwdb Remo_cuckoo_wrapper_4
+TRACE::2024-11-07.12:24:12::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-11-07.12:24:12::SCWPlatform::Trying to open the hw design at C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/hw/Remo_cuckoo_wrapper.xsa
+TRACE::2024-11-07.12:24:12::SCWPlatform::DSA given C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/hw/Remo_cuckoo_wrapper.xsa
+TRACE::2024-11-07.12:24:12::SCWPlatform::DSA absoulate path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/hw/Remo_cuckoo_wrapper.xsa
+TRACE::2024-11-07.12:24:12::SCWPlatform::DSA directory C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/hw
+TRACE::2024-11-07.12:24:12::SCWPlatform:: Platform Path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/hw/Remo_cuckoo_wrapper.xsa
+TRACE::2024-11-07.12:24:12::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2024-11-07.12:24:12::SCWPlatform::Trying to set the existing hwdb with name Remo_cuckoo_wrapper_4
+TRACE::2024-11-07.12:24:12::SCWPlatform::Opened existing hwdb Remo_cuckoo_wrapper_4
+TRACE::2024-11-07.12:24:12::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-11-07.12:24:12::SCWMssOS::Checking the sw design at  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-11-07.12:24:12::SCWMssOS::DEBUG:  swdes dump  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_hw/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2024-11-07.12:24:12::SCWMssOS::No sw design opened at  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-11-07.12:24:12::SCWMssOS::mss exists loading the mss file  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-11-07.12:24:12::SCWMssOS::Opened the sw design from mss  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-11-07.12:24:12::SCWMssOS::Adding the swdes entry C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/microblaze_0/standalone_domain/bsp/system.mss with des name system_0
+TRACE::2024-11-07.12:24:12::SCWMssOS::updating the scw layer about changes
+TRACE::2024-11-07.12:24:12::SCWMssOS::Opened the sw design.  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-11-07.12:24:12::SCWReader::Adding prebuilt librarypaths as   
+TRACE::2024-11-07.12:24:12::SCWReader::Adding prebuilt incpaths  as   
+TRACE::2024-11-07.12:24:12::SCWPlatform::Trying to open the hw design at C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/hw/Remo_cuckoo_wrapper.xsa
+TRACE::2024-11-07.12:24:12::SCWPlatform::DSA given C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/hw/Remo_cuckoo_wrapper.xsa
+TRACE::2024-11-07.12:24:12::SCWPlatform::DSA absoulate path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/hw/Remo_cuckoo_wrapper.xsa
+TRACE::2024-11-07.12:24:12::SCWPlatform::DSA directory C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/hw
+TRACE::2024-11-07.12:24:12::SCWPlatform:: Platform Path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/hw/Remo_cuckoo_wrapper.xsa
+TRACE::2024-11-07.12:24:12::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2024-11-07.12:24:12::SCWPlatform::Trying to set the existing hwdb with name Remo_cuckoo_wrapper_4
+TRACE::2024-11-07.12:24:12::SCWPlatform::Opened existing hwdb Remo_cuckoo_wrapper_4
+TRACE::2024-11-07.12:24:12::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-11-07.12:24:12::SCWMssOS::Checking the sw design at  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-11-07.12:24:12::SCWMssOS::DEBUG:  swdes dump  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_hw/microblaze_0/standalone_domain/bsp/system.mss|system||
+C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/microblaze_0/standalone_domain/bsp/system.mss|system_0||
+
+TRACE::2024-11-07.12:24:12::SCWMssOS::Sw design exists and opened at  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-11-07.12:24:12::SCWReader::No isolation master present  
+TRACE::2024-11-07.12:24:13::SCWPlatform::Trying to open the hw design at C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/hw/Remo_cuckoo_wrapper.xsa
+TRACE::2024-11-07.12:24:13::SCWPlatform::DSA given C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/hw/Remo_cuckoo_wrapper.xsa
+TRACE::2024-11-07.12:24:13::SCWPlatform::DSA absoulate path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/hw/Remo_cuckoo_wrapper.xsa
+TRACE::2024-11-07.12:24:13::SCWPlatform::DSA directory C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/hw
+TRACE::2024-11-07.12:24:13::SCWPlatform:: Platform Path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/hw/Remo_cuckoo_wrapper.xsa
+TRACE::2024-11-07.12:24:13::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2024-11-07.12:24:13::SCWPlatform::Trying to set the existing hwdb with name Remo_cuckoo_wrapper_4
+TRACE::2024-11-07.12:24:13::SCWPlatform::Opened existing hwdb Remo_cuckoo_wrapper_4
+TRACE::2024-11-07.12:24:13::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-11-07.12:24:13::SCWMssOS::Checking the sw design at  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-11-07.12:24:13::SCWMssOS::DEBUG:  swdes dump  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_hw/microblaze_0/standalone_domain/bsp/system.mss|system||
+C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/microblaze_0/standalone_domain/bsp/system.mss|system_0||
+
+TRACE::2024-11-07.12:24:13::SCWMssOS::Sw design exists and opened at  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-11-07.12:24:14::SCWMssOS::In reload Mss file.
+TRACE::2024-11-07.12:24:14::SCWPlatform::Trying to open the hw design at C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/hw/Remo_cuckoo_wrapper.xsa
+TRACE::2024-11-07.12:24:14::SCWPlatform::DSA given C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/hw/Remo_cuckoo_wrapper.xsa
+TRACE::2024-11-07.12:24:14::SCWPlatform::DSA absoulate path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/hw/Remo_cuckoo_wrapper.xsa
+TRACE::2024-11-07.12:24:14::SCWPlatform::DSA directory C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/hw
+TRACE::2024-11-07.12:24:14::SCWPlatform:: Platform Path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/hw/Remo_cuckoo_wrapper.xsa
+TRACE::2024-11-07.12:24:14::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2024-11-07.12:24:14::SCWPlatform::Trying to set the existing hwdb with name Remo_cuckoo_wrapper_4
+TRACE::2024-11-07.12:24:14::SCWPlatform::Opened existing hwdb Remo_cuckoo_wrapper_4
+TRACE::2024-11-07.12:24:14::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-11-07.12:24:14::SCWMssOS::Checking the sw design at  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-11-07.12:24:14::SCWMssOS::DEBUG:  swdes dump  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_hw/microblaze_0/standalone_domain/bsp/system.mss|system||
+C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/microblaze_0/standalone_domain/bsp/system.mss|system_0||
+
+KEYINFO::2024-11-07.12:24:14::SCWMssOS::Could not open the swdb for system_0
+KEYINFO::2024-11-07.12:24:14::SCWMssOS::Could not open the sw design at  system_0
+ERROR: [Hsi 55-1558] Software Design system_0 is not found
+
+TRACE::2024-11-07.12:24:14::SCWMssOS::Cleared the swdb table entry
+TRACE::2024-11-07.12:24:14::SCWMssOS::No sw design opened at  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-11-07.12:24:14::SCWMssOS::mss exists loading the mss file  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-11-07.12:24:14::SCWMssOS::Opened the sw design from mss  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-11-07.12:24:14::SCWMssOS::Adding the swdes entry C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/microblaze_0/standalone_domain/bsp/system.mss with des name system_0
+TRACE::2024-11-07.12:24:14::SCWMssOS::updating the scw layer about changes
+TRACE::2024-11-07.12:24:14::SCWMssOS::Opened the sw design.  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-11-07.12:24:14::SCWPlatform::Trying to open the hw design at C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/hw/Remo_cuckoo_wrapper.xsa
+TRACE::2024-11-07.12:24:14::SCWPlatform::DSA given C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/hw/Remo_cuckoo_wrapper.xsa
+TRACE::2024-11-07.12:24:14::SCWPlatform::DSA absoulate path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/hw/Remo_cuckoo_wrapper.xsa
+TRACE::2024-11-07.12:24:14::SCWPlatform::DSA directory C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/hw
+TRACE::2024-11-07.12:24:14::SCWPlatform:: Platform Path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/hw/Remo_cuckoo_wrapper.xsa
+TRACE::2024-11-07.12:24:14::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2024-11-07.12:24:14::SCWPlatform::Trying to set the existing hwdb with name Remo_cuckoo_wrapper_4
+TRACE::2024-11-07.12:24:14::SCWPlatform::Opened existing hwdb Remo_cuckoo_wrapper_4
+TRACE::2024-11-07.12:24:14::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-11-07.12:24:14::SCWMssOS::Checking the sw design at  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-11-07.12:24:14::SCWMssOS::DEBUG:  swdes dump  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_hw/microblaze_0/standalone_domain/bsp/system.mss|system||
+C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/microblaze_0/standalone_domain/bsp/system.mss|system_0||
+
+TRACE::2024-11-07.12:24:14::SCWMssOS::Sw design exists and opened at  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-11-07.12:24:14::SCWMssOS::Removing the swdes entry for  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/microblaze_0/standalone_domain/bsp/system.mss
+LOG::2024-11-07.12:24:58::SCWPlatform::Started generating the artifacts platform remo_cuckoo_v2_hw
+TRACE::2024-11-07.12:24:58::SCWPlatform::Sanity checking of platform is completed
+LOG::2024-11-07.12:24:58::SCWPlatform::Started generating the artifacts for system configuration remo_cuckoo_v2_hw
+LOG::2024-11-07.12:24:58::SCWSystem::Checking the domain standalone_domain
+LOG::2024-11-07.12:24:58::SCWSystem::Not a boot domain 
+LOG::2024-11-07.12:24:58::SCWSystem::Started Processing the domain standalone_domain
+TRACE::2024-11-07.12:24:58::SCWDomain::Generating domain artifcats
+TRACE::2024-11-07.12:24:58::SCWMssOS::Generating standalone artifcats
+TRACE::2024-11-07.12:24:58::SCWMssOS:: Copying the user libraries. 
+TRACE::2024-11-07.12:24:58::SCWPlatform::Trying to open the hw design at C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/hw/Remo_cuckoo_wrapper.xsa
+TRACE::2024-11-07.12:24:58::SCWPlatform::DSA given C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/hw/Remo_cuckoo_wrapper.xsa
+TRACE::2024-11-07.12:24:58::SCWPlatform::DSA absoulate path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/hw/Remo_cuckoo_wrapper.xsa
+TRACE::2024-11-07.12:24:58::SCWPlatform::DSA directory C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/hw
+TRACE::2024-11-07.12:24:58::SCWPlatform:: Platform Path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/hw/Remo_cuckoo_wrapper.xsa
+TRACE::2024-11-07.12:24:58::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2024-11-07.12:24:58::SCWPlatform::Trying to set the existing hwdb with name Remo_cuckoo_wrapper_4
+TRACE::2024-11-07.12:24:58::SCWPlatform::Opened existing hwdb Remo_cuckoo_wrapper_4
+TRACE::2024-11-07.12:24:58::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-11-07.12:24:58::SCWMssOS::Checking the sw design at  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-11-07.12:24:58::SCWMssOS::DEBUG:  swdes dump  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_hw/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2024-11-07.12:24:58::SCWMssOS::No sw design opened at  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-11-07.12:24:58::SCWMssOS::mss exists loading the mss file  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-11-07.12:24:58::SCWMssOS::Opened the sw design from mss  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-11-07.12:24:58::SCWMssOS::Adding the swdes entry C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/microblaze_0/standalone_domain/bsp/system.mss with des name system_0
+TRACE::2024-11-07.12:24:58::SCWMssOS::updating the scw layer about changes
+TRACE::2024-11-07.12:24:58::SCWMssOS::Opened the sw design.  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-11-07.12:24:58::SCWMssOS::Completed writing the mss file at C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/microblaze_0/standalone_domain/bsp
+TRACE::2024-11-07.12:24:58::SCWMssOS::Mss edits present, copying mssfile into export location C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-11-07.12:24:58::SCWMssOS::bsp generated is upto date with the mss file. Skipping bsp generation.
+TRACE::2024-11-07.12:24:58::SCWMssOS::BSP is already built. skipping the bsp build ... 
+TRACE::2024-11-07.12:24:58::SCWDomain::Building the domain as part of full build :  standalone_domain
+TRACE::2024-11-07.12:24:58::SCWMssOS::doing bsp build ... 
+TRACE::2024-11-07.12:24:58::SCWMssOS::System Command Ran  C: & cd  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/microblaze_0/standalone_domain/bsp & make 
+TRACE::2024-11-07.12:24:58::SCWMssOS::"Running Make include in microblaze_0/libsrc/bram_v4_3/src"
+
+TRACE::2024-11-07.12:24:58::SCWMssOS::make -C microblaze_0/libsrc/bram_v4_3/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILE
+TRACE::2024-11-07.12:24:58::SCWMssOS::R_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall 
+TRACE::2024-11-07.12:24:58::SCWMssOS::-Wextra"
+
+TRACE::2024-11-07.12:24:58::SCWMssOS::"Running Make include in microblaze_0/libsrc/cpu_v2_10/src"
+
+TRACE::2024-11-07.12:24:58::SCWMssOS::make -C microblaze_0/libsrc/cpu_v2_10/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILE
+TRACE::2024-11-07.12:24:58::SCWMssOS::R_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall 
+TRACE::2024-11-07.12:24:58::SCWMssOS::-Wextra"
+
+TRACE::2024-11-07.12:24:58::SCWMssOS::"Running Make include in microblaze_0/libsrc/iic_v3_5/src"
+
+TRACE::2024-11-07.12:24:59::SCWMssOS::make -C microblaze_0/libsrc/iic_v3_5/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILER
+TRACE::2024-11-07.12:24:59::SCWMssOS::_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall -
+TRACE::2024-11-07.12:24:59::SCWMssOS::Wextra"
+
+TRACE::2024-11-07.12:24:59::SCWMssOS::"Running Make include in microblaze_0/libsrc/intc_v3_10/src"
+
+TRACE::2024-11-07.12:24:59::SCWMssOS::make -C microblaze_0/libsrc/intc_v3_10/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPIL
+TRACE::2024-11-07.12:24:59::SCWMssOS::ER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall
+TRACE::2024-11-07.12:24:59::SCWMssOS:: -Wextra"
+
+TRACE::2024-11-07.12:24:59::SCWMssOS::"Running Make include in microblaze_0/libsrc/myip_bluetooth_v1_0/src"
+
+TRACE::2024-11-07.12:24:59::SCWMssOS::make -C microblaze_0/libsrc/myip_bluetooth_v1_0/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar
+TRACE::2024-11-07.12:24:59::SCWMssOS::" "COMPILER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-secti
+TRACE::2024-11-07.12:24:59::SCWMssOS::ons -Wall -Wextra"
+
+TRACE::2024-11-07.12:24:59::SCWMssOS::"Running Make include in microblaze_0/libsrc/myip_clock_timer_v1_0/src"
+
+TRACE::2024-11-07.12:24:59::SCWMssOS::make -C microblaze_0/libsrc/myip_clock_timer_v1_0/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-
+TRACE::2024-11-07.12:24:59::SCWMssOS::ar" "COMPILER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sec
+TRACE::2024-11-07.12:24:59::SCWMssOS::tions -Wall -Wextra"
+
+TRACE::2024-11-07.12:24:59::SCWMssOS::"Running Make include in microblaze_0/libsrc/myip_pwm_v1_0/src"
+
+TRACE::2024-11-07.12:24:59::SCWMssOS::make -C microblaze_0/libsrc/myip_pwm_v1_0/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COM
+TRACE::2024-11-07.12:24:59::SCWMssOS::PILER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -W
+TRACE::2024-11-07.12:24:59::SCWMssOS::all -Wextra"
+
+TRACE::2024-11-07.12:24:59::SCWMssOS::"Running Make include in microblaze_0/libsrc/standalone_v7_1/src"
+
+TRACE::2024-11-07.12:24:59::SCWMssOS::make -C microblaze_0/libsrc/standalone_v7_1/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "C
+TRACE::2024-11-07.12:24:59::SCWMssOS::OMPILER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections 
+TRACE::2024-11-07.12:24:59::SCWMssOS::-Wall -Wextra"
+
+TRACE::2024-11-07.12:24:59::SCWMssOS::"Running Make include in microblaze_0/libsrc/uartlite_v3_3/src"
+
+TRACE::2024-11-07.12:24:59::SCWMssOS::make -C microblaze_0/libsrc/uartlite_v3_3/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COM
+TRACE::2024-11-07.12:24:59::SCWMssOS::PILER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -W
+TRACE::2024-11-07.12:24:59::SCWMssOS::all -Wextra"
+
+TRACE::2024-11-07.12:25:00::SCWMssOS::"Running Make libs in microblaze_0/libsrc/bram_v4_3/src"
+
+TRACE::2024-11-07.12:25:00::SCWMssOS::make -C microblaze_0/libsrc/bram_v4_3/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILER_F
+TRACE::2024-11-07.12:25:00::SCWMssOS::LAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall -We
+TRACE::2024-11-07.12:25:00::SCWMssOS::xtra"
+
+TRACE::2024-11-07.12:25:00::SCWMssOS::"Compiling bram"
+
+TRACE::2024-11-07.12:25:01::SCWMssOS::"Running Make libs in microblaze_0/libsrc/cpu_v2_10/src"
+
+TRACE::2024-11-07.12:25:01::SCWMssOS::make -C microblaze_0/libsrc/cpu_v2_10/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILER_F
+TRACE::2024-11-07.12:25:01::SCWMssOS::LAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall -We
+TRACE::2024-11-07.12:25:01::SCWMssOS::xtra"
+
+TRACE::2024-11-07.12:25:01::SCWMssOS::"Compiling cpu"
+
+TRACE::2024-11-07.12:25:01::SCWMssOS::"Running Make libs in microblaze_0/libsrc/iic_v3_5/src"
+
+TRACE::2024-11-07.12:25:01::SCWMssOS::make -C microblaze_0/libsrc/iic_v3_5/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILER_FL
+TRACE::2024-11-07.12:25:01::SCWMssOS::AGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall -Wex
+TRACE::2024-11-07.12:25:01::SCWMssOS::tra"
+
+TRACE::2024-11-07.12:25:01::SCWMssOS::"Compiling iic"
+
+TRACE::2024-11-07.12:25:03::SCWMssOS::"Running Make libs in microblaze_0/libsrc/intc_v3_10/src"
+
+TRACE::2024-11-07.12:25:03::SCWMssOS::make -C microblaze_0/libsrc/intc_v3_10/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILER_
+TRACE::2024-11-07.12:25:03::SCWMssOS::FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall -W
+TRACE::2024-11-07.12:25:03::SCWMssOS::extra"
+
+TRACE::2024-11-07.12:25:03::SCWMssOS::"Compiling intc"
+
+TRACE::2024-11-07.12:25:04::SCWMssOS::"Running Make libs in microblaze_0/libsrc/myip_bluetooth_v1_0/src"
+
+TRACE::2024-11-07.12:25:04::SCWMssOS::make -C microblaze_0/libsrc/myip_bluetooth_v1_0/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "
+TRACE::2024-11-07.12:25:04::SCWMssOS::COMPILER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections
+TRACE::2024-11-07.12:25:04::SCWMssOS:: -Wall -Wextra"
+
+TRACE::2024-11-07.12:25:04::SCWMssOS::"Compiling myip_bluetooth..."
+
+TRACE::2024-11-07.12:25:04::SCWMssOS::"Running Make libs in microblaze_0/libsrc/myip_clock_timer_v1_0/src"
+
+TRACE::2024-11-07.12:25:04::SCWMssOS::make -C microblaze_0/libsrc/myip_clock_timer_v1_0/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar"
+TRACE::2024-11-07.12:25:04::SCWMssOS:: "COMPILER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sectio
+TRACE::2024-11-07.12:25:04::SCWMssOS::ns -Wall -Wextra"
+
+TRACE::2024-11-07.12:25:04::SCWMssOS::"Compiling myip_clock_timer..."
+
+TRACE::2024-11-07.12:25:05::SCWMssOS::"Running Make libs in microblaze_0/libsrc/myip_pwm_v1_0/src"
+
+TRACE::2024-11-07.12:25:05::SCWMssOS::make -C microblaze_0/libsrc/myip_pwm_v1_0/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPIL
+TRACE::2024-11-07.12:25:05::SCWMssOS::ER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall
+TRACE::2024-11-07.12:25:05::SCWMssOS:: -Wextra"
+
+TRACE::2024-11-07.12:25:05::SCWMssOS::"Compiling myip_pwm..."
+
+TRACE::2024-11-07.12:25:05::SCWMssOS::"Running Make libs in microblaze_0/libsrc/standalone_v7_1/src"
+
+TRACE::2024-11-07.12:25:05::SCWMssOS::make -C microblaze_0/libsrc/standalone_v7_1/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMP
+TRACE::2024-11-07.12:25:05::SCWMssOS::ILER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wa
+TRACE::2024-11-07.12:25:05::SCWMssOS::ll -Wextra"
+
+TRACE::2024-11-07.12:25:05::SCWMssOS::"Compiling standalone";
+
+TRACE::2024-11-07.12:25:09::SCWMssOS::"Running Make libs in microblaze_0/libsrc/uartlite_v3_3/src"
+
+TRACE::2024-11-07.12:25:09::SCWMssOS::make -C microblaze_0/libsrc/uartlite_v3_3/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPIL
+TRACE::2024-11-07.12:25:09::SCWMssOS::ER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall
+TRACE::2024-11-07.12:25:09::SCWMssOS:: -Wextra"
+
+TRACE::2024-11-07.12:25:09::SCWMssOS::"Compiling uartlite"
+
+TRACE::2024-11-07.12:25:10::SCWMssOS::'Finished building libraries'
+
+TRACE::2024-11-07.12:25:10::SCWMssOS::Copying to export directory.
+TRACE::2024-11-07.12:25:10::SCWMssOS:: Checking if to create the Supporting Applications
+TRACE::2024-11-07.12:25:10::SCWMssOS:: No Linux domain exists, trying to generate FSBL 
+LOG::2024-11-07.12:25:10::SCWSystem::Completed Processing the domain standalone_domain
+LOG::2024-11-07.12:25:10::SCWSystem::Completed Processing the sysconfig remo_cuckoo_v2_hw
+LOG::2024-11-07.12:25:10::SCWPlatform::Completed generating the artifacts for system configuration remo_cuckoo_v2_hw
+TRACE::2024-11-07.12:25:10::SCWPlatform::Started preparing the platform 
+TRACE::2024-11-07.12:25:10::SCWSystem::Writing the bif file for system config remo_cuckoo_v2_hw
+TRACE::2024-11-07.12:25:10::SCWSystem::dir created 
+TRACE::2024-11-07.12:25:10::SCWSystem::Writing the bif 
+TRACE::2024-11-07.12:25:10::SCWPlatform::Started writing the spfm file 
+TRACE::2024-11-07.12:25:10::SCWPlatform::Started writing the xpfm file 
+TRACE::2024-11-07.12:25:10::SCWPlatform::Completed generating the platform
+TRACE::2024-11-07.12:25:10::SCWPlatform::Trying to open the hw design at C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/hw/Remo_cuckoo_wrapper.xsa
+TRACE::2024-11-07.12:25:10::SCWPlatform::DSA given C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/hw/Remo_cuckoo_wrapper.xsa
+TRACE::2024-11-07.12:25:10::SCWPlatform::DSA absoulate path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/hw/Remo_cuckoo_wrapper.xsa
+TRACE::2024-11-07.12:25:10::SCWPlatform::DSA directory C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/hw
+TRACE::2024-11-07.12:25:10::SCWPlatform:: Platform Path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/hw/Remo_cuckoo_wrapper.xsa
+TRACE::2024-11-07.12:25:10::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2024-11-07.12:25:10::SCWPlatform::Trying to set the existing hwdb with name Remo_cuckoo_wrapper_4
+TRACE::2024-11-07.12:25:10::SCWPlatform::Opened existing hwdb Remo_cuckoo_wrapper_4
+TRACE::2024-11-07.12:25:10::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-11-07.12:25:10::SCWMssOS::Checking the sw design at  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-11-07.12:25:10::SCWMssOS::DEBUG:  swdes dump  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_hw/microblaze_0/standalone_domain/bsp/system.mss|system||
+C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/microblaze_0/standalone_domain/bsp/system.mss|system_0||
+
+TRACE::2024-11-07.12:25:10::SCWMssOS::Sw design exists and opened at  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-11-07.12:25:10::SCWWriter::formatted JSON is {
+	"platformName":	"remo_cuckoo_v2_hw",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"remo_cuckoo_v2_hw",
+	"platHandOff":	"C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/Remo_cuckoo_wrapper.xsa",
+	"platIntHandOff":	"<platformDir>/hw/Remo_cuckoo_wrapper.xsa",
+	"deviceType":	"FPGA",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"remo_cuckoo_v2_hw",
+	"systems":	[{
+			"systemName":	"remo_cuckoo_v2_hw",
+			"systemDesc":	"remo_cuckoo_v2_hw",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"remo_cuckoo_v2_hw",
+			"sysActiveDom":	"standalone_domain",
+			"sysDefaultDom":	"standalone_domain",
+			"domains":	[{
+					"domainName":	"standalone_domain",
+					"domainDispName":	"standalone on microblaze_0",
+					"domainDesc":	"standalone_domain",
+					"processors":	"microblaze_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"7.1",
+					"mssFile":	"",
+					"md5Digest":	"ab9893328450e2be475bcfe09f05ee21",
+					"compatibleApp":	"",
+					"domType":	"mssDomain",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	[],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+KEYINFO::2024-11-07.12:25:10::SCWPlatform::updated the xpfm file.
+TRACE::2024-11-07.12:25:12::SCWPlatform::Trying to open the hw design at C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/hw/Remo_cuckoo_wrapper.xsa
+TRACE::2024-11-07.12:25:12::SCWPlatform::DSA given C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/hw/Remo_cuckoo_wrapper.xsa
+TRACE::2024-11-07.12:25:12::SCWPlatform::DSA absoulate path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/hw/Remo_cuckoo_wrapper.xsa
+TRACE::2024-11-07.12:25:12::SCWPlatform::DSA directory C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/hw
+TRACE::2024-11-07.12:25:12::SCWPlatform:: Platform Path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/hw/Remo_cuckoo_wrapper.xsa
+TRACE::2024-11-07.12:25:12::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2024-11-07.12:25:12::SCWPlatform::Trying to set the existing hwdb with name Remo_cuckoo_wrapper_4
+TRACE::2024-11-07.12:25:12::SCWPlatform::Opened existing hwdb Remo_cuckoo_wrapper_4
+TRACE::2024-11-07.12:25:12::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-11-07.12:25:12::SCWMssOS::Checking the sw design at  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-11-07.12:25:12::SCWMssOS::DEBUG:  swdes dump  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_hw/microblaze_0/standalone_domain/bsp/system.mss|system||
+C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/microblaze_0/standalone_domain/bsp/system.mss|system_0||
+
+TRACE::2024-11-07.12:25:12::SCWMssOS::Sw design exists and opened at  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-11-08.10:44:28::SCWPlatform::Trying to open the hw design at C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/hw/Remo_cuckoo_wrapper.xsa
+TRACE::2024-11-08.10:44:28::SCWPlatform::DSA given C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/hw/Remo_cuckoo_wrapper.xsa
+TRACE::2024-11-08.10:44:28::SCWPlatform::DSA absoulate path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/hw/Remo_cuckoo_wrapper.xsa
+TRACE::2024-11-08.10:44:31::SCWPlatform::DSA directory C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/hw
+TRACE::2024-11-08.10:44:31::SCWPlatform:: Platform Path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/hw/Remo_cuckoo_wrapper.xsa
+TRACE::2024-11-08.10:44:31::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2024-11-08.10:44:31::SCWPlatform::Do not have an existing db opened. 
+TRACE::2024-11-08.10:44:32::SCWPlatform::Opened new HwDB with name Remo_cuckoo_wrapper
+TRACE::2024-11-08.10:44:32::SCWReader::Active system found as  remo_cuckoo_v2_hw
+TRACE::2024-11-08.10:44:32::SCWReader::Handling sysconfig remo_cuckoo_v2_hw
+TRACE::2024-11-08.10:44:32::SCWDomain::checking for install qemu data   : 
+TRACE::2024-11-08.10:44:32::SCWPlatform::Trying to open the hw design at C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/hw/Remo_cuckoo_wrapper.xsa
+TRACE::2024-11-08.10:44:32::SCWPlatform::DSA given C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/hw/Remo_cuckoo_wrapper.xsa
+TRACE::2024-11-08.10:44:32::SCWPlatform::DSA absoulate path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/hw/Remo_cuckoo_wrapper.xsa
+TRACE::2024-11-08.10:44:32::SCWPlatform::DSA directory C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/hw
+TRACE::2024-11-08.10:44:32::SCWPlatform:: Platform Path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/hw/Remo_cuckoo_wrapper.xsa
+TRACE::2024-11-08.10:44:32::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2024-11-08.10:44:32::SCWPlatform::Trying to set the existing hwdb with name Remo_cuckoo_wrapper
+TRACE::2024-11-08.10:44:32::SCWPlatform::Opened existing hwdb Remo_cuckoo_wrapper
+TRACE::2024-11-08.10:44:32::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-11-08.10:44:32::SCWPlatform::Trying to open the hw design at C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/hw/Remo_cuckoo_wrapper.xsa
+TRACE::2024-11-08.10:44:32::SCWPlatform::DSA given C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/hw/Remo_cuckoo_wrapper.xsa
+TRACE::2024-11-08.10:44:32::SCWPlatform::DSA absoulate path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/hw/Remo_cuckoo_wrapper.xsa
+TRACE::2024-11-08.10:44:32::SCWPlatform::DSA directory C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/hw
+TRACE::2024-11-08.10:44:32::SCWPlatform:: Platform Path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/hw/Remo_cuckoo_wrapper.xsa
+TRACE::2024-11-08.10:44:32::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2024-11-08.10:44:32::SCWPlatform::Trying to set the existing hwdb with name Remo_cuckoo_wrapper
+TRACE::2024-11-08.10:44:32::SCWPlatform::Opened existing hwdb Remo_cuckoo_wrapper
+TRACE::2024-11-08.10:44:32::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-11-08.10:44:32::SCWPlatform::Trying to open the hw design at C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/hw/Remo_cuckoo_wrapper.xsa
+TRACE::2024-11-08.10:44:32::SCWPlatform::DSA given C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/hw/Remo_cuckoo_wrapper.xsa
+TRACE::2024-11-08.10:44:32::SCWPlatform::DSA absoulate path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/hw/Remo_cuckoo_wrapper.xsa
+TRACE::2024-11-08.10:44:32::SCWPlatform::DSA directory C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/hw
+TRACE::2024-11-08.10:44:32::SCWPlatform:: Platform Path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/hw/Remo_cuckoo_wrapper.xsa
+TRACE::2024-11-08.10:44:32::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2024-11-08.10:44:32::SCWPlatform::Trying to set the existing hwdb with name Remo_cuckoo_wrapper
+TRACE::2024-11-08.10:44:32::SCWPlatform::Opened existing hwdb Remo_cuckoo_wrapper
+TRACE::2024-11-08.10:44:32::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-11-08.10:44:32::SCWMssOS::Checking the sw design at  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-11-08.10:44:32::SCWMssOS::DEBUG:  swdes dump  
+TRACE::2024-11-08.10:44:32::SCWMssOS::No sw design opened at  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-11-08.10:44:32::SCWMssOS::mss exists loading the mss file  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-11-08.10:44:32::SCWMssOS::Opened the sw design from mss  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-11-08.10:44:32::SCWMssOS::Adding the swdes entry C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/microblaze_0/standalone_domain/bsp/system.mss with des name system
+TRACE::2024-11-08.10:44:32::SCWMssOS::updating the scw layer about changes
+TRACE::2024-11-08.10:44:32::SCWMssOS::Opened the sw design.  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-11-08.10:44:32::SCWReader::Adding prebuilt librarypaths as   
+TRACE::2024-11-08.10:44:32::SCWReader::Adding prebuilt incpaths  as   
+TRACE::2024-11-08.10:44:32::SCWPlatform::Trying to open the hw design at C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/hw/Remo_cuckoo_wrapper.xsa
+TRACE::2024-11-08.10:44:32::SCWPlatform::DSA given C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/hw/Remo_cuckoo_wrapper.xsa
+TRACE::2024-11-08.10:44:32::SCWPlatform::DSA absoulate path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/hw/Remo_cuckoo_wrapper.xsa
+TRACE::2024-11-08.10:44:32::SCWPlatform::DSA directory C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/hw
+TRACE::2024-11-08.10:44:32::SCWPlatform:: Platform Path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/hw/Remo_cuckoo_wrapper.xsa
+TRACE::2024-11-08.10:44:32::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2024-11-08.10:44:32::SCWPlatform::Trying to set the existing hwdb with name Remo_cuckoo_wrapper
+TRACE::2024-11-08.10:44:32::SCWPlatform::Opened existing hwdb Remo_cuckoo_wrapper
+TRACE::2024-11-08.10:44:32::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-11-08.10:44:32::SCWMssOS::Checking the sw design at  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-11-08.10:44:32::SCWMssOS::DEBUG:  swdes dump  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2024-11-08.10:44:32::SCWMssOS::Sw design exists and opened at  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-11-08.10:44:32::SCWReader::No isolation master present  
+TRACE::2024-11-08.10:44:32::SCWPlatform::Trying to open the hw design at C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/hw/Remo_cuckoo_wrapper.xsa
+TRACE::2024-11-08.10:44:32::SCWPlatform::DSA given C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/hw/Remo_cuckoo_wrapper.xsa
+TRACE::2024-11-08.10:44:32::SCWPlatform::DSA absoulate path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/hw/Remo_cuckoo_wrapper.xsa
+TRACE::2024-11-08.10:44:32::SCWPlatform::DSA directory C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/hw
+TRACE::2024-11-08.10:44:32::SCWPlatform:: Platform Path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/hw/Remo_cuckoo_wrapper.xsa
+TRACE::2024-11-08.10:44:32::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2024-11-08.10:44:32::SCWPlatform::Trying to set the existing hwdb with name Remo_cuckoo_wrapper
+TRACE::2024-11-08.10:44:32::SCWPlatform::Opened existing hwdb Remo_cuckoo_wrapper
+TRACE::2024-11-08.10:44:32::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-11-08.10:44:32::SCWMssOS::Checking the sw design at  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-11-08.10:44:32::SCWMssOS::DEBUG:  swdes dump  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2024-11-08.10:44:32::SCWMssOS::Sw design exists and opened at  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/remo_cuckoo_v2_hw/microblaze_0/standalone_domain/bsp/system.mss

@@ -1,0 +1,6 @@
+/*Mblaze_button_hw*/
+the_ROM_image:
+{
+   <bitstream> 
+   <elf> 
+}

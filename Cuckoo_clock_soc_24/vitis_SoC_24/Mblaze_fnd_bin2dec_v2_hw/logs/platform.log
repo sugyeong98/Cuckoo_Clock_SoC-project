@@ -1,0 +1,1372 @@
+TRACE::2024-10-24.14:38:39::SCWPlatform::Trying to open the hw design at C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/hw/Mblaze_fnd_cntr_wrapper.xsa
+TRACE::2024-10-24.14:38:39::SCWPlatform::DSA given C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/hw/Mblaze_fnd_cntr_wrapper.xsa
+TRACE::2024-10-24.14:38:39::SCWPlatform::DSA absoulate path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/hw/Mblaze_fnd_cntr_wrapper.xsa
+TRACE::2024-10-24.14:38:39::SCWPlatform::DSA directory C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/hw
+TRACE::2024-10-24.14:38:39::SCWPlatform:: Platform Path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/hw/Mblaze_fnd_cntr_wrapper.xsa
+TRACE::2024-10-24.14:38:39::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2024-10-24.14:38:39::SCWPlatform::Do not have an existing db opened. 
+TRACE::2024-10-24.14:38:39::SCWPlatform::Opened new HwDB with name Mblaze_fnd_cntr_wrapper_13
+TRACE::2024-10-24.14:38:39::SCWWriter::formatted JSON is {
+	"platformName":	"Mblaze_fnd_bin2dec_v2_hw",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"Mblaze_fnd_bin2dec_v2_hw",
+	"platHandOff":	"C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/Mblaze_fnd_cntr_wrapper.xsa",
+	"platIntHandOff":	"<platformDir>/hw/Mblaze_fnd_cntr_wrapper.xsa",
+	"deviceType":	"FPGA",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	""
+}
+TRACE::2024-10-24.14:38:40::SCWWriter::formatted JSON is {
+	"platformName":	"Mblaze_fnd_bin2dec_v2_hw",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"Mblaze_fnd_bin2dec_v2_hw",
+	"platHandOff":	"C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/Mblaze_fnd_cntr_wrapper.xsa",
+	"platIntHandOff":	"<platformDir>/hw/Mblaze_fnd_cntr_wrapper.xsa",
+	"deviceType":	"FPGA",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"Mblaze_fnd_bin2dec_v2_hw",
+	"systems":	[{
+			"systemName":	"Mblaze_fnd_bin2dec_v2_hw",
+			"systemDesc":	"Mblaze_fnd_bin2dec_v2_hw",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"Mblaze_fnd_bin2dec_v2_hw"
+		}]
+}
+TRACE::2024-10-24.14:38:40::SCWPlatform::Boot application domains not present, creating them
+TRACE::2024-10-24.14:38:40::SCWPlatform::Pure FPGA device, no boot application will be created.
+TRACE::2024-10-24.14:38:40::SCWWriter::formatted JSON is {
+	"platformName":	"Mblaze_fnd_bin2dec_v2_hw",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"Mblaze_fnd_bin2dec_v2_hw",
+	"platHandOff":	"C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/Mblaze_fnd_cntr_wrapper.xsa",
+	"platIntHandOff":	"<platformDir>/hw/Mblaze_fnd_cntr_wrapper.xsa",
+	"deviceType":	"FPGA",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"Mblaze_fnd_bin2dec_v2_hw",
+	"systems":	[{
+			"systemName":	"Mblaze_fnd_bin2dec_v2_hw",
+			"systemDesc":	"Mblaze_fnd_bin2dec_v2_hw",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"Mblaze_fnd_bin2dec_v2_hw"
+		}]
+}
+TRACE::2024-10-24.14:38:40::SCWPlatform::Trying to open the hw design at C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/hw/Mblaze_fnd_cntr_wrapper.xsa
+TRACE::2024-10-24.14:38:40::SCWPlatform::DSA given C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/hw/Mblaze_fnd_cntr_wrapper.xsa
+TRACE::2024-10-24.14:38:40::SCWPlatform::DSA absoulate path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/hw/Mblaze_fnd_cntr_wrapper.xsa
+TRACE::2024-10-24.14:38:40::SCWPlatform::DSA directory C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/hw
+TRACE::2024-10-24.14:38:40::SCWPlatform:: Platform Path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/hw/Mblaze_fnd_cntr_wrapper.xsa
+TRACE::2024-10-24.14:38:40::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2024-10-24.14:38:40::SCWPlatform::Trying to set the existing hwdb with name Mblaze_fnd_cntr_wrapper_13
+TRACE::2024-10-24.14:38:40::SCWPlatform::Opened existing hwdb Mblaze_fnd_cntr_wrapper_13
+TRACE::2024-10-24.14:38:40::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-10-24.14:38:40::SCWDomain::checking for install qemu data   : 
+TRACE::2024-10-24.14:38:40::SCWPlatform::Trying to open the hw design at C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/hw/Mblaze_fnd_cntr_wrapper.xsa
+TRACE::2024-10-24.14:38:40::SCWPlatform::DSA given C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/hw/Mblaze_fnd_cntr_wrapper.xsa
+TRACE::2024-10-24.14:38:40::SCWPlatform::DSA absoulate path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/hw/Mblaze_fnd_cntr_wrapper.xsa
+TRACE::2024-10-24.14:38:40::SCWPlatform::DSA directory C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/hw
+TRACE::2024-10-24.14:38:40::SCWPlatform:: Platform Path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/hw/Mblaze_fnd_cntr_wrapper.xsa
+TRACE::2024-10-24.14:38:40::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2024-10-24.14:38:40::SCWPlatform::Trying to set the existing hwdb with name Mblaze_fnd_cntr_wrapper_13
+TRACE::2024-10-24.14:38:40::SCWPlatform::Opened existing hwdb Mblaze_fnd_cntr_wrapper_13
+TRACE::2024-10-24.14:38:40::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-10-24.14:38:40::SCWPlatform::Trying to open the hw design at C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/hw/Mblaze_fnd_cntr_wrapper.xsa
+TRACE::2024-10-24.14:38:40::SCWPlatform::DSA given C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/hw/Mblaze_fnd_cntr_wrapper.xsa
+TRACE::2024-10-24.14:38:40::SCWPlatform::DSA absoulate path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/hw/Mblaze_fnd_cntr_wrapper.xsa
+TRACE::2024-10-24.14:38:40::SCWPlatform::DSA directory C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/hw
+TRACE::2024-10-24.14:38:40::SCWPlatform:: Platform Path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/hw/Mblaze_fnd_cntr_wrapper.xsa
+TRACE::2024-10-24.14:38:40::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2024-10-24.14:38:40::SCWPlatform::Trying to set the existing hwdb with name Mblaze_fnd_cntr_wrapper_13
+TRACE::2024-10-24.14:38:40::SCWPlatform::Opened existing hwdb Mblaze_fnd_cntr_wrapper_13
+TRACE::2024-10-24.14:38:40::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-10-24.14:38:40::SCWMssOS::Checking the sw design at  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-10-24.14:38:40::SCWMssOS::DEBUG:  swdes dump  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_hw/microblaze_0/standalone_domain/bsp/system.mss|system_1||
+C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_cntr_hw/microblaze_0/standalone_domain/bsp/system.mss|system||
+C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_cntr_v2/microblaze_0/standalone_domain/bsp/system.mss|system_0||
+
+TRACE::2024-10-24.14:38:40::SCWMssOS::No sw design opened at  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-10-24.14:38:40::SCWMssOS::mss does not exists at C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-10-24.14:38:40::SCWMssOS::Creating sw design at  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-10-24.14:38:40::SCWMssOS::Adding the swdes entry, created swdb C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/microblaze_0/standalone_domain/bsp/system.mss with des name C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-10-24.14:38:40::SCWMssOS::updating the scw layer changes to swdes at   C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-10-24.14:38:40::SCWMssOS::Writing mss at C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-10-24.14:38:40::SCWMssOS::Completed writing the mss file at C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/microblaze_0/standalone_domain/bsp
+TRACE::2024-10-24.14:38:40::SCWMssOS::Picking up changes from newly written mss file into SCW Layer. 
+TRACE::2024-10-24.14:38:40::SCWMssOS::Updated the changes from newly written mss file into SCW Layer. 
+TRACE::2024-10-24.14:38:40::SCWPlatform::Trying to open the hw design at C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/hw/Mblaze_fnd_cntr_wrapper.xsa
+TRACE::2024-10-24.14:38:40::SCWPlatform::DSA given C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/hw/Mblaze_fnd_cntr_wrapper.xsa
+TRACE::2024-10-24.14:38:40::SCWPlatform::DSA absoulate path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/hw/Mblaze_fnd_cntr_wrapper.xsa
+TRACE::2024-10-24.14:38:40::SCWPlatform::DSA directory C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/hw
+TRACE::2024-10-24.14:38:40::SCWPlatform:: Platform Path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/hw/Mblaze_fnd_cntr_wrapper.xsa
+TRACE::2024-10-24.14:38:40::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2024-10-24.14:38:40::SCWPlatform::Trying to set the existing hwdb with name Mblaze_fnd_cntr_wrapper_13
+TRACE::2024-10-24.14:38:40::SCWPlatform::Opened existing hwdb Mblaze_fnd_cntr_wrapper_13
+TRACE::2024-10-24.14:38:40::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-10-24.14:38:40::SCWMssOS::Checking the sw design at  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-10-24.14:38:40::SCWMssOS::DEBUG:  swdes dump  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_hw/microblaze_0/standalone_domain/bsp/system.mss|system_1||
+C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/microblaze_0/standalone_domain/bsp/system.mss|C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/microblaze_0/standalone_domain/bsp/system.mss||
+C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_cntr_hw/microblaze_0/standalone_domain/bsp/system.mss|system||
+C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_cntr_v2/microblaze_0/standalone_domain/bsp/system.mss|system_0||
+
+TRACE::2024-10-24.14:38:40::SCWMssOS::Sw design exists and opened at  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-10-24.14:38:40::SCWPlatform::Trying to open the hw design at C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/hw/Mblaze_fnd_cntr_wrapper.xsa
+TRACE::2024-10-24.14:38:40::SCWPlatform::DSA given C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/hw/Mblaze_fnd_cntr_wrapper.xsa
+TRACE::2024-10-24.14:38:40::SCWPlatform::DSA absoulate path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/hw/Mblaze_fnd_cntr_wrapper.xsa
+TRACE::2024-10-24.14:38:40::SCWPlatform::DSA directory C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/hw
+TRACE::2024-10-24.14:38:40::SCWPlatform:: Platform Path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/hw/Mblaze_fnd_cntr_wrapper.xsa
+TRACE::2024-10-24.14:38:40::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2024-10-24.14:38:40::SCWPlatform::Trying to set the existing hwdb with name Mblaze_fnd_cntr_wrapper_13
+TRACE::2024-10-24.14:38:40::SCWPlatform::Opened existing hwdb Mblaze_fnd_cntr_wrapper_13
+TRACE::2024-10-24.14:38:40::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-10-24.14:38:40::SCWMssOS::Checking the sw design at  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-10-24.14:38:40::SCWMssOS::DEBUG:  swdes dump  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_hw/microblaze_0/standalone_domain/bsp/system.mss|system_1||
+C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/microblaze_0/standalone_domain/bsp/system.mss|C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/microblaze_0/standalone_domain/bsp/system.mss||
+C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_cntr_hw/microblaze_0/standalone_domain/bsp/system.mss|system||
+C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_cntr_v2/microblaze_0/standalone_domain/bsp/system.mss|system_0||
+
+TRACE::2024-10-24.14:38:40::SCWMssOS::Sw design exists and opened at  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-10-24.14:38:40::SCWPlatform::Trying to open the hw design at C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/hw/Mblaze_fnd_cntr_wrapper.xsa
+TRACE::2024-10-24.14:38:40::SCWPlatform::DSA given C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/hw/Mblaze_fnd_cntr_wrapper.xsa
+TRACE::2024-10-24.14:38:40::SCWPlatform::DSA absoulate path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/hw/Mblaze_fnd_cntr_wrapper.xsa
+TRACE::2024-10-24.14:38:40::SCWPlatform::DSA directory C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/hw
+TRACE::2024-10-24.14:38:40::SCWPlatform:: Platform Path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/hw/Mblaze_fnd_cntr_wrapper.xsa
+TRACE::2024-10-24.14:38:40::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2024-10-24.14:38:40::SCWPlatform::Trying to set the existing hwdb with name Mblaze_fnd_cntr_wrapper_13
+TRACE::2024-10-24.14:38:40::SCWPlatform::Opened existing hwdb Mblaze_fnd_cntr_wrapper_13
+TRACE::2024-10-24.14:38:40::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-10-24.14:38:40::SCWMssOS::Checking the sw design at  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-10-24.14:38:40::SCWMssOS::DEBUG:  swdes dump  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_hw/microblaze_0/standalone_domain/bsp/system.mss|system_1||
+C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/microblaze_0/standalone_domain/bsp/system.mss|C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/microblaze_0/standalone_domain/bsp/system.mss||
+C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_cntr_hw/microblaze_0/standalone_domain/bsp/system.mss|system||
+C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_cntr_v2/microblaze_0/standalone_domain/bsp/system.mss|system_0||
+
+TRACE::2024-10-24.14:38:40::SCWMssOS::Sw design exists and opened at  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-10-24.14:38:40::SCWWriter::formatted JSON is {
+	"platformName":	"Mblaze_fnd_bin2dec_v2_hw",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"Mblaze_fnd_bin2dec_v2_hw",
+	"platHandOff":	"C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/Mblaze_fnd_cntr_wrapper.xsa",
+	"platIntHandOff":	"<platformDir>/hw/Mblaze_fnd_cntr_wrapper.xsa",
+	"deviceType":	"FPGA",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"Mblaze_fnd_bin2dec_v2_hw",
+	"systems":	[{
+			"systemName":	"Mblaze_fnd_bin2dec_v2_hw",
+			"systemDesc":	"Mblaze_fnd_bin2dec_v2_hw",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"Mblaze_fnd_bin2dec_v2_hw",
+			"sysActiveDom":	"standalone_domain",
+			"sysDefaultDom":	"standalone_domain",
+			"domains":	[{
+					"domainName":	"standalone_domain",
+					"domainDispName":	"standalone_domain",
+					"domainDesc":	"standalone_domain",
+					"processors":	"microblaze_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"7.1",
+					"mssFile":	"",
+					"md5Digest":	"",
+					"compatibleApp":	"",
+					"domType":	"mssDomain",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	[],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+TRACE::2024-10-24.14:38:40::SCWPlatform::Trying to open the hw design at C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/hw/Mblaze_fnd_cntr_wrapper.xsa
+TRACE::2024-10-24.14:38:40::SCWPlatform::DSA given C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/hw/Mblaze_fnd_cntr_wrapper.xsa
+TRACE::2024-10-24.14:38:40::SCWPlatform::DSA absoulate path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/hw/Mblaze_fnd_cntr_wrapper.xsa
+TRACE::2024-10-24.14:38:40::SCWPlatform::DSA directory C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/hw
+TRACE::2024-10-24.14:38:40::SCWPlatform:: Platform Path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/hw/Mblaze_fnd_cntr_wrapper.xsa
+TRACE::2024-10-24.14:38:40::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2024-10-24.14:38:40::SCWPlatform::Trying to set the existing hwdb with name Mblaze_fnd_cntr_wrapper_13
+TRACE::2024-10-24.14:38:40::SCWPlatform::Opened existing hwdb Mblaze_fnd_cntr_wrapper_13
+TRACE::2024-10-24.14:38:40::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-10-24.14:38:40::SCWMssOS::Checking the sw design at  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-10-24.14:38:40::SCWMssOS::DEBUG:  swdes dump  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_hw/microblaze_0/standalone_domain/bsp/system.mss|system_1||
+C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/microblaze_0/standalone_domain/bsp/system.mss|C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/microblaze_0/standalone_domain/bsp/system.mss||
+C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_cntr_hw/microblaze_0/standalone_domain/bsp/system.mss|system||
+C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_cntr_v2/microblaze_0/standalone_domain/bsp/system.mss|system_0||
+
+TRACE::2024-10-24.14:38:40::SCWMssOS::Sw design exists and opened at  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-10-24.14:38:40::SCWMssOS::Completed writing the mss file at C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/microblaze_0/standalone_domain/bsp
+TRACE::2024-10-24.14:38:40::SCWMssOS::Forcing BSP Sources regeneration.
+LOG::2024-10-24.14:38:42::SCWPlatform::Started generating the artifacts platform Mblaze_fnd_bin2dec_v2_hw
+TRACE::2024-10-24.14:38:42::SCWPlatform::Sanity checking of platform is completed
+LOG::2024-10-24.14:38:42::SCWPlatform::Started generating the artifacts for system configuration Mblaze_fnd_bin2dec_v2_hw
+LOG::2024-10-24.14:38:42::SCWSystem::Checking the domain standalone_domain
+LOG::2024-10-24.14:38:42::SCWSystem::Not a boot domain 
+LOG::2024-10-24.14:38:42::SCWSystem::Started Processing the domain standalone_domain
+TRACE::2024-10-24.14:38:42::SCWDomain::Generating domain artifcats
+TRACE::2024-10-24.14:38:42::SCWMssOS::Generating standalone artifcats
+TRACE::2024-10-24.14:38:42::SCWMssOS:: Copying the user libraries. 
+TRACE::2024-10-24.14:38:42::SCWPlatform::Trying to open the hw design at C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/hw/Mblaze_fnd_cntr_wrapper.xsa
+TRACE::2024-10-24.14:38:42::SCWPlatform::DSA given C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/hw/Mblaze_fnd_cntr_wrapper.xsa
+TRACE::2024-10-24.14:38:42::SCWPlatform::DSA absoulate path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/hw/Mblaze_fnd_cntr_wrapper.xsa
+TRACE::2024-10-24.14:38:42::SCWPlatform::DSA directory C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/hw
+TRACE::2024-10-24.14:38:42::SCWPlatform:: Platform Path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/hw/Mblaze_fnd_cntr_wrapper.xsa
+TRACE::2024-10-24.14:38:42::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2024-10-24.14:38:42::SCWPlatform::Trying to set the existing hwdb with name Mblaze_fnd_cntr_wrapper_13
+TRACE::2024-10-24.14:38:42::SCWPlatform::Opened existing hwdb Mblaze_fnd_cntr_wrapper_13
+TRACE::2024-10-24.14:38:42::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-10-24.14:38:42::SCWMssOS::Checking the sw design at  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-10-24.14:38:42::SCWMssOS::DEBUG:  swdes dump  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_hw/microblaze_0/standalone_domain/bsp/system.mss|system_1||
+C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/microblaze_0/standalone_domain/bsp/system.mss|C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/microblaze_0/standalone_domain/bsp/system.mss||
+C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_cntr_hw/microblaze_0/standalone_domain/bsp/system.mss|system||
+C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_cntr_v2/microblaze_0/standalone_domain/bsp/system.mss|system_0||
+
+KEYINFO::2024-10-24.14:38:42::SCWMssOS::Could not open the swdb for C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/microblaze_0/standalone_domain/bsp/system.mss
+KEYINFO::2024-10-24.14:38:42::SCWMssOS::Could not open the sw design at  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/microblaze_0/standalone_domain/bsp/system.mss
+ERROR: [Hsi 55-1558] Software Design C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/microblaze_0/standalone_domain/bsp/system.mss is not found
+
+TRACE::2024-10-24.14:38:42::SCWMssOS::Cleared the swdb table entry
+TRACE::2024-10-24.14:38:42::SCWMssOS::No sw design opened at  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-10-24.14:38:42::SCWMssOS::mss exists loading the mss file  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-10-24.14:38:42::SCWMssOS::Opened the sw design from mss  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-10-24.14:38:42::SCWMssOS::Adding the swdes entry C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/microblaze_0/standalone_domain/bsp/system.mss with des name system_2
+TRACE::2024-10-24.14:38:42::SCWMssOS::updating the scw layer about changes
+TRACE::2024-10-24.14:38:42::SCWMssOS::Opened the sw design.  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-10-24.14:38:42::SCWMssOS::Completed writing the mss file at C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/microblaze_0/standalone_domain/bsp
+TRACE::2024-10-24.14:38:42::SCWMssOS::Mss edits present, copying mssfile into export location C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-10-24.14:38:42::SCWMssOS::bsp generated is upto date with the mss file. Skipping bsp generation.
+TRACE::2024-10-24.14:38:42::SCWMssOS::BSP is already built. skipping the bsp build ... 
+TRACE::2024-10-24.14:38:42::SCWDomain::Skipping the build for domain :  standalone_domain
+TRACE::2024-10-24.14:38:42::SCWMssOS::skipping the bsp build ... 
+TRACE::2024-10-24.14:38:42::SCWMssOS::Copying to export directory.
+TRACE::2024-10-24.14:38:42::SCWMssOS:: Checking if to create the Supporting Applications
+TRACE::2024-10-24.14:38:42::SCWMssOS:: No Linux domain exists, trying to generate FSBL 
+LOG::2024-10-24.14:38:42::SCWSystem::Completed Processing the domain standalone_domain
+LOG::2024-10-24.14:38:42::SCWSystem::Completed Processing the sysconfig Mblaze_fnd_bin2dec_v2_hw
+LOG::2024-10-24.14:38:42::SCWPlatform::Completed generating the artifacts for system configuration Mblaze_fnd_bin2dec_v2_hw
+TRACE::2024-10-24.14:38:42::SCWPlatform::Started preparing the platform 
+TRACE::2024-10-24.14:38:42::SCWSystem::Writing the bif file for system config Mblaze_fnd_bin2dec_v2_hw
+TRACE::2024-10-24.14:38:42::SCWSystem::dir created 
+TRACE::2024-10-24.14:38:42::SCWSystem::Writing the bif 
+TRACE::2024-10-24.14:38:42::SCWPlatform::Started writing the spfm file 
+TRACE::2024-10-24.14:38:42::SCWPlatform::Started writing the xpfm file 
+TRACE::2024-10-24.14:38:42::SCWPlatform::Completed generating the platform
+TRACE::2024-10-24.14:38:42::SCWPlatform::Trying to open the hw design at C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/hw/Mblaze_fnd_cntr_wrapper.xsa
+TRACE::2024-10-24.14:38:42::SCWPlatform::DSA given C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/hw/Mblaze_fnd_cntr_wrapper.xsa
+TRACE::2024-10-24.14:38:42::SCWPlatform::DSA absoulate path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/hw/Mblaze_fnd_cntr_wrapper.xsa
+TRACE::2024-10-24.14:38:42::SCWPlatform::DSA directory C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/hw
+TRACE::2024-10-24.14:38:42::SCWPlatform:: Platform Path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/hw/Mblaze_fnd_cntr_wrapper.xsa
+TRACE::2024-10-24.14:38:42::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2024-10-24.14:38:42::SCWPlatform::Trying to set the existing hwdb with name Mblaze_fnd_cntr_wrapper_13
+TRACE::2024-10-24.14:38:42::SCWPlatform::Opened existing hwdb Mblaze_fnd_cntr_wrapper_13
+TRACE::2024-10-24.14:38:42::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-10-24.14:38:42::SCWMssOS::Checking the sw design at  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-10-24.14:38:42::SCWMssOS::DEBUG:  swdes dump  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_hw/microblaze_0/standalone_domain/bsp/system.mss|system_1||
+C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/microblaze_0/standalone_domain/bsp/system.mss|system_2||
+C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_cntr_hw/microblaze_0/standalone_domain/bsp/system.mss|system||
+C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_cntr_v2/microblaze_0/standalone_domain/bsp/system.mss|system_0||
+
+TRACE::2024-10-24.14:38:42::SCWMssOS::Sw design exists and opened at  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-10-24.14:38:42::SCWPlatform::Trying to open the hw design at C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/hw/Mblaze_fnd_cntr_wrapper.xsa
+TRACE::2024-10-24.14:38:42::SCWPlatform::DSA given C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/hw/Mblaze_fnd_cntr_wrapper.xsa
+TRACE::2024-10-24.14:38:42::SCWPlatform::DSA absoulate path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/hw/Mblaze_fnd_cntr_wrapper.xsa
+TRACE::2024-10-24.14:38:42::SCWPlatform::DSA directory C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/hw
+TRACE::2024-10-24.14:38:42::SCWPlatform:: Platform Path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/hw/Mblaze_fnd_cntr_wrapper.xsa
+TRACE::2024-10-24.14:38:42::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2024-10-24.14:38:42::SCWPlatform::Trying to set the existing hwdb with name Mblaze_fnd_cntr_wrapper_13
+TRACE::2024-10-24.14:38:42::SCWPlatform::Opened existing hwdb Mblaze_fnd_cntr_wrapper_13
+TRACE::2024-10-24.14:38:42::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-10-24.14:38:42::SCWMssOS::Checking the sw design at  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-10-24.14:38:42::SCWMssOS::DEBUG:  swdes dump  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_hw/microblaze_0/standalone_domain/bsp/system.mss|system_1||
+C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/microblaze_0/standalone_domain/bsp/system.mss|system_2||
+C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_cntr_hw/microblaze_0/standalone_domain/bsp/system.mss|system||
+C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_cntr_v2/microblaze_0/standalone_domain/bsp/system.mss|system_0||
+
+TRACE::2024-10-24.14:38:42::SCWMssOS::Sw design exists and opened at  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-10-24.14:38:42::SCWPlatform::Trying to open the hw design at C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/hw/Mblaze_fnd_cntr_wrapper.xsa
+TRACE::2024-10-24.14:38:42::SCWPlatform::DSA given C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/hw/Mblaze_fnd_cntr_wrapper.xsa
+TRACE::2024-10-24.14:38:42::SCWPlatform::DSA absoulate path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/hw/Mblaze_fnd_cntr_wrapper.xsa
+TRACE::2024-10-24.14:38:42::SCWPlatform::DSA directory C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/hw
+TRACE::2024-10-24.14:38:42::SCWPlatform:: Platform Path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/hw/Mblaze_fnd_cntr_wrapper.xsa
+TRACE::2024-10-24.14:38:42::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2024-10-24.14:38:42::SCWPlatform::Trying to set the existing hwdb with name Mblaze_fnd_cntr_wrapper_13
+TRACE::2024-10-24.14:38:42::SCWPlatform::Opened existing hwdb Mblaze_fnd_cntr_wrapper_13
+TRACE::2024-10-24.14:38:42::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-10-24.14:38:42::SCWMssOS::Checking the sw design at  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-10-24.14:38:42::SCWMssOS::DEBUG:  swdes dump  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_hw/microblaze_0/standalone_domain/bsp/system.mss|system_1||
+C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/microblaze_0/standalone_domain/bsp/system.mss|system_2||
+C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_cntr_hw/microblaze_0/standalone_domain/bsp/system.mss|system||
+C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_cntr_v2/microblaze_0/standalone_domain/bsp/system.mss|system_0||
+
+TRACE::2024-10-24.14:38:42::SCWMssOS::Sw design exists and opened at  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-10-24.14:38:42::SCWWriter::formatted JSON is {
+	"platformName":	"Mblaze_fnd_bin2dec_v2_hw",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"Mblaze_fnd_bin2dec_v2_hw",
+	"platHandOff":	"C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/Mblaze_fnd_cntr_wrapper.xsa",
+	"platIntHandOff":	"<platformDir>/hw/Mblaze_fnd_cntr_wrapper.xsa",
+	"deviceType":	"FPGA",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"Mblaze_fnd_bin2dec_v2_hw",
+	"systems":	[{
+			"systemName":	"Mblaze_fnd_bin2dec_v2_hw",
+			"systemDesc":	"Mblaze_fnd_bin2dec_v2_hw",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"Mblaze_fnd_bin2dec_v2_hw",
+			"sysActiveDom":	"standalone_domain",
+			"sysDefaultDom":	"standalone_domain",
+			"domains":	[{
+					"domainName":	"standalone_domain",
+					"domainDispName":	"standalone_domain",
+					"domainDesc":	"standalone_domain",
+					"processors":	"microblaze_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"7.1",
+					"mssFile":	"",
+					"md5Digest":	"3058066e4ca0fc25659ba337ec202bf1",
+					"compatibleApp":	"",
+					"domType":	"mssDomain",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	[],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+KEYINFO::2024-10-24.14:38:42::SCWPlatform::updated the xpfm file.
+TRACE::2024-10-24.14:38:43::SCWPlatform::Trying to open the hw design at C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/hw/Mblaze_fnd_cntr_wrapper.xsa
+TRACE::2024-10-24.14:38:43::SCWPlatform::DSA given C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/hw/Mblaze_fnd_cntr_wrapper.xsa
+TRACE::2024-10-24.14:38:43::SCWPlatform::DSA absoulate path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/hw/Mblaze_fnd_cntr_wrapper.xsa
+TRACE::2024-10-24.14:38:43::SCWPlatform::DSA directory C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/hw
+TRACE::2024-10-24.14:38:43::SCWPlatform:: Platform Path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/hw/Mblaze_fnd_cntr_wrapper.xsa
+TRACE::2024-10-24.14:38:43::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2024-10-24.14:38:43::SCWPlatform::Trying to set the existing hwdb with name Mblaze_fnd_cntr_wrapper_13
+TRACE::2024-10-24.14:38:43::SCWPlatform::Opened existing hwdb Mblaze_fnd_cntr_wrapper_13
+TRACE::2024-10-24.14:38:43::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-10-24.14:38:43::SCWMssOS::Checking the sw design at  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-10-24.14:38:43::SCWMssOS::DEBUG:  swdes dump  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_hw/microblaze_0/standalone_domain/bsp/system.mss|system_1||
+C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/microblaze_0/standalone_domain/bsp/system.mss|system_2||
+C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_cntr_hw/microblaze_0/standalone_domain/bsp/system.mss|system||
+C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_cntr_v2/microblaze_0/standalone_domain/bsp/system.mss|system_0||
+
+TRACE::2024-10-24.14:38:43::SCWMssOS::Sw design exists and opened at  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-10-24.14:38:43::SCWPlatform::Trying to open the hw design at C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/hw/Mblaze_fnd_cntr_wrapper.xsa
+TRACE::2024-10-24.14:38:43::SCWPlatform::DSA given C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/hw/Mblaze_fnd_cntr_wrapper.xsa
+TRACE::2024-10-24.14:38:43::SCWPlatform::DSA absoulate path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/hw/Mblaze_fnd_cntr_wrapper.xsa
+TRACE::2024-10-24.14:38:43::SCWPlatform::DSA directory C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/hw
+TRACE::2024-10-24.14:38:43::SCWPlatform:: Platform Path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/hw/Mblaze_fnd_cntr_wrapper.xsa
+TRACE::2024-10-24.14:38:43::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2024-10-24.14:38:43::SCWPlatform::Trying to set the existing hwdb with name Mblaze_fnd_cntr_wrapper_13
+TRACE::2024-10-24.14:38:43::SCWPlatform::Opened existing hwdb Mblaze_fnd_cntr_wrapper_13
+TRACE::2024-10-24.14:38:43::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-10-24.14:38:43::SCWMssOS::Checking the sw design at  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-10-24.14:38:43::SCWMssOS::DEBUG:  swdes dump  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_hw/microblaze_0/standalone_domain/bsp/system.mss|system_1||
+C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/microblaze_0/standalone_domain/bsp/system.mss|system_2||
+C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_cntr_hw/microblaze_0/standalone_domain/bsp/system.mss|system||
+C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_cntr_v2/microblaze_0/standalone_domain/bsp/system.mss|system_0||
+
+TRACE::2024-10-24.14:38:43::SCWMssOS::Sw design exists and opened at  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-10-24.14:38:43::SCWPlatform::Trying to open the hw design at C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/hw/Mblaze_fnd_cntr_wrapper.xsa
+TRACE::2024-10-24.14:38:43::SCWPlatform::DSA given C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/hw/Mblaze_fnd_cntr_wrapper.xsa
+TRACE::2024-10-24.14:38:43::SCWPlatform::DSA absoulate path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/hw/Mblaze_fnd_cntr_wrapper.xsa
+TRACE::2024-10-24.14:38:43::SCWPlatform::DSA directory C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/hw
+TRACE::2024-10-24.14:38:43::SCWPlatform:: Platform Path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/hw/Mblaze_fnd_cntr_wrapper.xsa
+TRACE::2024-10-24.14:38:43::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2024-10-24.14:38:43::SCWPlatform::Trying to set the existing hwdb with name Mblaze_fnd_cntr_wrapper_13
+TRACE::2024-10-24.14:38:43::SCWPlatform::Opened existing hwdb Mblaze_fnd_cntr_wrapper_13
+TRACE::2024-10-24.14:38:43::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-10-24.14:38:43::SCWMssOS::Checking the sw design at  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-10-24.14:38:43::SCWMssOS::DEBUG:  swdes dump  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_hw/microblaze_0/standalone_domain/bsp/system.mss|system_1||
+C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/microblaze_0/standalone_domain/bsp/system.mss|system_2||
+C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_cntr_hw/microblaze_0/standalone_domain/bsp/system.mss|system||
+C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_cntr_v2/microblaze_0/standalone_domain/bsp/system.mss|system_0||
+
+TRACE::2024-10-24.14:38:43::SCWMssOS::Sw design exists and opened at  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-10-24.14:38:43::SCWPlatform::Trying to open the hw design at C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/hw/Mblaze_fnd_cntr_wrapper.xsa
+TRACE::2024-10-24.14:38:43::SCWPlatform::DSA given C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/hw/Mblaze_fnd_cntr_wrapper.xsa
+TRACE::2024-10-24.14:38:43::SCWPlatform::DSA absoulate path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/hw/Mblaze_fnd_cntr_wrapper.xsa
+TRACE::2024-10-24.14:38:43::SCWPlatform::DSA directory C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/hw
+TRACE::2024-10-24.14:38:43::SCWPlatform:: Platform Path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/hw/Mblaze_fnd_cntr_wrapper.xsa
+TRACE::2024-10-24.14:38:43::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2024-10-24.14:38:43::SCWPlatform::Trying to set the existing hwdb with name Mblaze_fnd_cntr_wrapper_13
+TRACE::2024-10-24.14:38:43::SCWPlatform::Opened existing hwdb Mblaze_fnd_cntr_wrapper_13
+TRACE::2024-10-24.14:38:43::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-10-24.14:38:43::SCWMssOS::Checking the sw design at  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-10-24.14:38:43::SCWMssOS::DEBUG:  swdes dump  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_hw/microblaze_0/standalone_domain/bsp/system.mss|system_1||
+C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/microblaze_0/standalone_domain/bsp/system.mss|system_2||
+C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_cntr_hw/microblaze_0/standalone_domain/bsp/system.mss|system||
+C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_cntr_v2/microblaze_0/standalone_domain/bsp/system.mss|system_0||
+
+TRACE::2024-10-24.14:38:43::SCWMssOS::Sw design exists and opened at  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-10-24.14:38:43::SCWWriter::formatted JSON is {
+	"platformName":	"Mblaze_fnd_bin2dec_v2_hw",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"Mblaze_fnd_bin2dec_v2_hw",
+	"platHandOff":	"C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/Mblaze_fnd_cntr_wrapper.xsa",
+	"platIntHandOff":	"<platformDir>/hw/Mblaze_fnd_cntr_wrapper.xsa",
+	"deviceType":	"FPGA",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"Mblaze_fnd_bin2dec_v2_hw",
+	"systems":	[{
+			"systemName":	"Mblaze_fnd_bin2dec_v2_hw",
+			"systemDesc":	"Mblaze_fnd_bin2dec_v2_hw",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"Mblaze_fnd_bin2dec_v2_hw",
+			"sysActiveDom":	"standalone_domain",
+			"sysDefaultDom":	"standalone_domain",
+			"domains":	[{
+					"domainName":	"standalone_domain",
+					"domainDispName":	"standalone_domain",
+					"domainDesc":	"standalone_domain",
+					"processors":	"microblaze_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"7.1",
+					"mssFile":	"",
+					"md5Digest":	"3058066e4ca0fc25659ba337ec202bf1",
+					"compatibleApp":	"",
+					"domType":	"mssDomain",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	[],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+TRACE::2024-10-24.14:38:43::SCWPlatform::Trying to open the hw design at C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/hw/Mblaze_fnd_cntr_wrapper.xsa
+TRACE::2024-10-24.14:38:43::SCWPlatform::DSA given C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/hw/Mblaze_fnd_cntr_wrapper.xsa
+TRACE::2024-10-24.14:38:43::SCWPlatform::DSA absoulate path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/hw/Mblaze_fnd_cntr_wrapper.xsa
+TRACE::2024-10-24.14:38:43::SCWPlatform::DSA directory C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/hw
+TRACE::2024-10-24.14:38:43::SCWPlatform:: Platform Path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/hw/Mblaze_fnd_cntr_wrapper.xsa
+TRACE::2024-10-24.14:38:43::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2024-10-24.14:38:43::SCWPlatform::Trying to set the existing hwdb with name Mblaze_fnd_cntr_wrapper_13
+TRACE::2024-10-24.14:38:43::SCWPlatform::Opened existing hwdb Mblaze_fnd_cntr_wrapper_13
+TRACE::2024-10-24.14:38:43::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-10-24.14:38:43::SCWMssOS::Checking the sw design at  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-10-24.14:38:43::SCWMssOS::DEBUG:  swdes dump  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_hw/microblaze_0/standalone_domain/bsp/system.mss|system_1||
+C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/microblaze_0/standalone_domain/bsp/system.mss|system_2||
+C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_cntr_hw/microblaze_0/standalone_domain/bsp/system.mss|system||
+C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_cntr_v2/microblaze_0/standalone_domain/bsp/system.mss|system_0||
+
+TRACE::2024-10-24.14:38:43::SCWMssOS::Sw design exists and opened at  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-10-24.14:38:43::SCWPlatform::Trying to open the hw design at C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/hw/Mblaze_fnd_cntr_wrapper.xsa
+TRACE::2024-10-24.14:38:43::SCWPlatform::DSA given C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/hw/Mblaze_fnd_cntr_wrapper.xsa
+TRACE::2024-10-24.14:38:43::SCWPlatform::DSA absoulate path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/hw/Mblaze_fnd_cntr_wrapper.xsa
+TRACE::2024-10-24.14:38:43::SCWPlatform::DSA directory C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/hw
+TRACE::2024-10-24.14:38:43::SCWPlatform:: Platform Path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/hw/Mblaze_fnd_cntr_wrapper.xsa
+TRACE::2024-10-24.14:38:43::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2024-10-24.14:38:43::SCWPlatform::Trying to set the existing hwdb with name Mblaze_fnd_cntr_wrapper_13
+TRACE::2024-10-24.14:38:43::SCWPlatform::Opened existing hwdb Mblaze_fnd_cntr_wrapper_13
+TRACE::2024-10-24.14:38:43::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-10-24.14:38:43::SCWMssOS::Checking the sw design at  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-10-24.14:38:43::SCWMssOS::DEBUG:  swdes dump  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_hw/microblaze_0/standalone_domain/bsp/system.mss|system_1||
+C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/microblaze_0/standalone_domain/bsp/system.mss|system_2||
+C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_cntr_hw/microblaze_0/standalone_domain/bsp/system.mss|system||
+C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_cntr_v2/microblaze_0/standalone_domain/bsp/system.mss|system_0||
+
+TRACE::2024-10-24.14:38:43::SCWMssOS::Sw design exists and opened at  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-10-24.14:38:43::SCWPlatform::Trying to open the hw design at C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/hw/Mblaze_fnd_cntr_wrapper.xsa
+TRACE::2024-10-24.14:38:43::SCWPlatform::DSA given C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/hw/Mblaze_fnd_cntr_wrapper.xsa
+TRACE::2024-10-24.14:38:43::SCWPlatform::DSA absoulate path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/hw/Mblaze_fnd_cntr_wrapper.xsa
+TRACE::2024-10-24.14:38:43::SCWPlatform::DSA directory C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/hw
+TRACE::2024-10-24.14:38:43::SCWPlatform:: Platform Path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/hw/Mblaze_fnd_cntr_wrapper.xsa
+TRACE::2024-10-24.14:38:43::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2024-10-24.14:38:43::SCWPlatform::Trying to set the existing hwdb with name Mblaze_fnd_cntr_wrapper_13
+TRACE::2024-10-24.14:38:43::SCWPlatform::Opened existing hwdb Mblaze_fnd_cntr_wrapper_13
+TRACE::2024-10-24.14:38:43::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-10-24.14:38:43::SCWMssOS::Checking the sw design at  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-10-24.14:38:43::SCWMssOS::DEBUG:  swdes dump  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_hw/microblaze_0/standalone_domain/bsp/system.mss|system_1||
+C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/microblaze_0/standalone_domain/bsp/system.mss|system_2||
+C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_cntr_hw/microblaze_0/standalone_domain/bsp/system.mss|system||
+C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_cntr_v2/microblaze_0/standalone_domain/bsp/system.mss|system_0||
+
+TRACE::2024-10-24.14:38:43::SCWMssOS::Sw design exists and opened at  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-10-24.14:38:43::SCWPlatform::Trying to open the hw design at C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/hw/Mblaze_fnd_cntr_wrapper.xsa
+TRACE::2024-10-24.14:38:43::SCWPlatform::DSA given C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/hw/Mblaze_fnd_cntr_wrapper.xsa
+TRACE::2024-10-24.14:38:43::SCWPlatform::DSA absoulate path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/hw/Mblaze_fnd_cntr_wrapper.xsa
+TRACE::2024-10-24.14:38:43::SCWPlatform::DSA directory C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/hw
+TRACE::2024-10-24.14:38:43::SCWPlatform:: Platform Path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/hw/Mblaze_fnd_cntr_wrapper.xsa
+TRACE::2024-10-24.14:38:43::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2024-10-24.14:38:43::SCWPlatform::Trying to set the existing hwdb with name Mblaze_fnd_cntr_wrapper_13
+TRACE::2024-10-24.14:38:43::SCWPlatform::Opened existing hwdb Mblaze_fnd_cntr_wrapper_13
+TRACE::2024-10-24.14:38:43::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-10-24.14:38:43::SCWMssOS::Checking the sw design at  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-10-24.14:38:43::SCWMssOS::DEBUG:  swdes dump  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_hw/microblaze_0/standalone_domain/bsp/system.mss|system_1||
+C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/microblaze_0/standalone_domain/bsp/system.mss|system_2||
+C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_cntr_hw/microblaze_0/standalone_domain/bsp/system.mss|system||
+C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_cntr_v2/microblaze_0/standalone_domain/bsp/system.mss|system_0||
+
+TRACE::2024-10-24.14:38:43::SCWMssOS::Sw design exists and opened at  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-10-24.14:38:43::SCWPlatform::Trying to open the hw design at C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/hw/Mblaze_fnd_cntr_wrapper.xsa
+TRACE::2024-10-24.14:38:43::SCWPlatform::DSA given C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/hw/Mblaze_fnd_cntr_wrapper.xsa
+TRACE::2024-10-24.14:38:43::SCWPlatform::DSA absoulate path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/hw/Mblaze_fnd_cntr_wrapper.xsa
+TRACE::2024-10-24.14:38:43::SCWPlatform::DSA directory C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/hw
+TRACE::2024-10-24.14:38:43::SCWPlatform:: Platform Path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/hw/Mblaze_fnd_cntr_wrapper.xsa
+TRACE::2024-10-24.14:38:43::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2024-10-24.14:38:43::SCWPlatform::Trying to set the existing hwdb with name Mblaze_fnd_cntr_wrapper_13
+TRACE::2024-10-24.14:38:43::SCWPlatform::Opened existing hwdb Mblaze_fnd_cntr_wrapper_13
+TRACE::2024-10-24.14:38:43::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-10-24.14:38:43::SCWMssOS::Checking the sw design at  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-10-24.14:38:43::SCWMssOS::DEBUG:  swdes dump  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_hw/microblaze_0/standalone_domain/bsp/system.mss|system_1||
+C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/microblaze_0/standalone_domain/bsp/system.mss|system_2||
+C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_cntr_hw/microblaze_0/standalone_domain/bsp/system.mss|system||
+C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_cntr_v2/microblaze_0/standalone_domain/bsp/system.mss|system_0||
+
+TRACE::2024-10-24.14:38:43::SCWMssOS::Sw design exists and opened at  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-10-24.14:38:43::SCWPlatform::Trying to open the hw design at C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/hw/Mblaze_fnd_cntr_wrapper.xsa
+TRACE::2024-10-24.14:38:43::SCWPlatform::DSA given C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/hw/Mblaze_fnd_cntr_wrapper.xsa
+TRACE::2024-10-24.14:38:43::SCWPlatform::DSA absoulate path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/hw/Mblaze_fnd_cntr_wrapper.xsa
+TRACE::2024-10-24.14:38:43::SCWPlatform::DSA directory C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/hw
+TRACE::2024-10-24.14:38:43::SCWPlatform:: Platform Path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/hw/Mblaze_fnd_cntr_wrapper.xsa
+TRACE::2024-10-24.14:38:43::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2024-10-24.14:38:43::SCWPlatform::Trying to set the existing hwdb with name Mblaze_fnd_cntr_wrapper_13
+TRACE::2024-10-24.14:38:43::SCWPlatform::Opened existing hwdb Mblaze_fnd_cntr_wrapper_13
+TRACE::2024-10-24.14:38:43::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-10-24.14:38:43::SCWMssOS::Checking the sw design at  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-10-24.14:38:43::SCWMssOS::DEBUG:  swdes dump  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_hw/microblaze_0/standalone_domain/bsp/system.mss|system_1||
+C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/microblaze_0/standalone_domain/bsp/system.mss|system_2||
+C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_cntr_hw/microblaze_0/standalone_domain/bsp/system.mss|system||
+C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_cntr_v2/microblaze_0/standalone_domain/bsp/system.mss|system_0||
+
+TRACE::2024-10-24.14:38:43::SCWMssOS::Sw design exists and opened at  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-10-24.14:38:43::SCWWriter::formatted JSON is {
+	"platformName":	"Mblaze_fnd_bin2dec_v2_hw",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"Mblaze_fnd_bin2dec_v2_hw",
+	"platHandOff":	"C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/Mblaze_fnd_cntr_wrapper.xsa",
+	"platIntHandOff":	"<platformDir>/hw/Mblaze_fnd_cntr_wrapper.xsa",
+	"deviceType":	"FPGA",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"Mblaze_fnd_bin2dec_v2_hw",
+	"systems":	[{
+			"systemName":	"Mblaze_fnd_bin2dec_v2_hw",
+			"systemDesc":	"Mblaze_fnd_bin2dec_v2_hw",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"Mblaze_fnd_bin2dec_v2_hw",
+			"sysActiveDom":	"standalone_domain",
+			"sysDefaultDom":	"standalone_domain",
+			"domains":	[{
+					"domainName":	"standalone_domain",
+					"domainDispName":	"standalone on microblaze_0",
+					"domainDesc":	"standalone_domain",
+					"processors":	"microblaze_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"7.1",
+					"mssFile":	"",
+					"md5Digest":	"3058066e4ca0fc25659ba337ec202bf1",
+					"compatibleApp":	"",
+					"domType":	"mssDomain",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	[],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+TRACE::2024-10-24.14:38:43::SCWPlatform::Trying to open the hw design at C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/hw/Mblaze_fnd_cntr_wrapper.xsa
+TRACE::2024-10-24.14:38:43::SCWPlatform::DSA given C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/hw/Mblaze_fnd_cntr_wrapper.xsa
+TRACE::2024-10-24.14:38:43::SCWPlatform::DSA absoulate path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/hw/Mblaze_fnd_cntr_wrapper.xsa
+TRACE::2024-10-24.14:38:43::SCWPlatform::DSA directory C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/hw
+TRACE::2024-10-24.14:38:43::SCWPlatform:: Platform Path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/hw/Mblaze_fnd_cntr_wrapper.xsa
+TRACE::2024-10-24.14:38:43::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2024-10-24.14:38:43::SCWPlatform::Trying to set the existing hwdb with name Mblaze_fnd_cntr_wrapper_13
+TRACE::2024-10-24.14:38:43::SCWPlatform::Opened existing hwdb Mblaze_fnd_cntr_wrapper_13
+TRACE::2024-10-24.14:38:43::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-10-24.14:38:43::SCWMssOS::Checking the sw design at  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-10-24.14:38:43::SCWMssOS::DEBUG:  swdes dump  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_hw/microblaze_0/standalone_domain/bsp/system.mss|system_1||
+C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/microblaze_0/standalone_domain/bsp/system.mss|system_2||
+C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_cntr_hw/microblaze_0/standalone_domain/bsp/system.mss|system||
+C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_cntr_v2/microblaze_0/standalone_domain/bsp/system.mss|system_0||
+
+TRACE::2024-10-24.14:38:43::SCWMssOS::Sw design exists and opened at  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-10-24.14:38:43::SCWPlatform::Trying to open the hw design at C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/hw/Mblaze_fnd_cntr_wrapper.xsa
+TRACE::2024-10-24.14:38:43::SCWPlatform::DSA given C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/hw/Mblaze_fnd_cntr_wrapper.xsa
+TRACE::2024-10-24.14:38:43::SCWPlatform::DSA absoulate path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/hw/Mblaze_fnd_cntr_wrapper.xsa
+TRACE::2024-10-24.14:38:43::SCWPlatform::DSA directory C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/hw
+TRACE::2024-10-24.14:38:43::SCWPlatform:: Platform Path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/hw/Mblaze_fnd_cntr_wrapper.xsa
+TRACE::2024-10-24.14:38:43::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2024-10-24.14:38:43::SCWPlatform::Trying to set the existing hwdb with name Mblaze_fnd_cntr_wrapper_13
+TRACE::2024-10-24.14:38:43::SCWPlatform::Opened existing hwdb Mblaze_fnd_cntr_wrapper_13
+TRACE::2024-10-24.14:38:43::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-10-24.14:38:43::SCWMssOS::Checking the sw design at  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-10-24.14:38:43::SCWMssOS::DEBUG:  swdes dump  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_hw/microblaze_0/standalone_domain/bsp/system.mss|system_1||
+C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/microblaze_0/standalone_domain/bsp/system.mss|system_2||
+C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_cntr_hw/microblaze_0/standalone_domain/bsp/system.mss|system||
+C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_cntr_v2/microblaze_0/standalone_domain/bsp/system.mss|system_0||
+
+TRACE::2024-10-24.14:38:43::SCWMssOS::Sw design exists and opened at  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-10-24.14:38:43::SCWPlatform::Trying to open the hw design at C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/hw/Mblaze_fnd_cntr_wrapper.xsa
+TRACE::2024-10-24.14:38:43::SCWPlatform::DSA given C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/hw/Mblaze_fnd_cntr_wrapper.xsa
+TRACE::2024-10-24.14:38:43::SCWPlatform::DSA absoulate path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/hw/Mblaze_fnd_cntr_wrapper.xsa
+TRACE::2024-10-24.14:38:43::SCWPlatform::DSA directory C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/hw
+TRACE::2024-10-24.14:38:43::SCWPlatform:: Platform Path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/hw/Mblaze_fnd_cntr_wrapper.xsa
+TRACE::2024-10-24.14:38:43::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2024-10-24.14:38:43::SCWPlatform::Trying to set the existing hwdb with name Mblaze_fnd_cntr_wrapper_13
+TRACE::2024-10-24.14:38:43::SCWPlatform::Opened existing hwdb Mblaze_fnd_cntr_wrapper_13
+TRACE::2024-10-24.14:38:43::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-10-24.14:38:43::SCWMssOS::Checking the sw design at  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-10-24.14:38:43::SCWMssOS::DEBUG:  swdes dump  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_hw/microblaze_0/standalone_domain/bsp/system.mss|system_1||
+C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/microblaze_0/standalone_domain/bsp/system.mss|system_2||
+C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_cntr_hw/microblaze_0/standalone_domain/bsp/system.mss|system||
+C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_cntr_v2/microblaze_0/standalone_domain/bsp/system.mss|system_0||
+
+TRACE::2024-10-24.14:38:43::SCWMssOS::Sw design exists and opened at  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-10-24.14:38:43::SCWWriter::formatted JSON is {
+	"platformName":	"Mblaze_fnd_bin2dec_v2_hw",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"Mblaze_fnd_bin2dec_v2_hw",
+	"platHandOff":	"C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/Mblaze_fnd_cntr_wrapper.xsa",
+	"platIntHandOff":	"<platformDir>/hw/Mblaze_fnd_cntr_wrapper.xsa",
+	"deviceType":	"FPGA",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"Mblaze_fnd_bin2dec_v2_hw",
+	"systems":	[{
+			"systemName":	"Mblaze_fnd_bin2dec_v2_hw",
+			"systemDesc":	"Mblaze_fnd_bin2dec_v2_hw",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"Mblaze_fnd_bin2dec_v2_hw",
+			"sysActiveDom":	"standalone_domain",
+			"sysDefaultDom":	"standalone_domain",
+			"domains":	[{
+					"domainName":	"standalone_domain",
+					"domainDispName":	"standalone on microblaze_0",
+					"domainDesc":	"standalone_domain",
+					"processors":	"microblaze_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"7.1",
+					"mssFile":	"",
+					"md5Digest":	"3058066e4ca0fc25659ba337ec202bf1",
+					"compatibleApp":	"",
+					"domType":	"mssDomain",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	[],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+TRACE::2024-10-24.14:38:44::SCWPlatform::Clearing the existing platform
+TRACE::2024-10-24.14:38:44::SCWSystem::Clearing the existing sysconfig
+TRACE::2024-10-24.14:38:44::SCWMssOS::Removing the swdes entry for  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-10-24.14:38:44::SCWSystem::Clearing the domains completed.
+TRACE::2024-10-24.14:38:44::SCWPlatform::Clearing the opened hw db.
+TRACE::2024-10-24.14:38:44::SCWPlatform::DSA given C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/hw/Mblaze_fnd_cntr_wrapper.xsa
+TRACE::2024-10-24.14:38:44::SCWPlatform::DSA absoulate path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/hw/Mblaze_fnd_cntr_wrapper.xsa
+TRACE::2024-10-24.14:38:44::SCWPlatform:: Platform location is C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/hw
+TRACE::2024-10-24.14:38:44::SCWPlatform:: Platform Path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/hw/Mblaze_fnd_cntr_wrapper.xsa
+TRACE::2024-10-24.14:38:44::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2024-10-24.14:38:44::SCWPlatform::Removing the HwDB with name C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/hw/Mblaze_fnd_cntr_wrapper.xsa
+TRACE::2024-10-24.14:38:44::SCWPlatform::Trying to open the hw design at C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/hw/Mblaze_fnd_cntr_wrapper.xsa
+TRACE::2024-10-24.14:38:44::SCWPlatform::DSA given C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/hw/Mblaze_fnd_cntr_wrapper.xsa
+TRACE::2024-10-24.14:38:44::SCWPlatform::DSA absoulate path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/hw/Mblaze_fnd_cntr_wrapper.xsa
+TRACE::2024-10-24.14:38:44::SCWPlatform::DSA directory C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/hw
+TRACE::2024-10-24.14:38:44::SCWPlatform:: Platform Path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/hw/Mblaze_fnd_cntr_wrapper.xsa
+TRACE::2024-10-24.14:38:44::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2024-10-24.14:38:44::SCWPlatform::Do not have an existing db opened. 
+TRACE::2024-10-24.14:38:44::SCWPlatform::Opened new HwDB with name Mblaze_fnd_cntr_wrapper_14
+TRACE::2024-10-24.14:38:44::SCWReader::Active system found as  Mblaze_fnd_bin2dec_v2_hw
+TRACE::2024-10-24.14:38:44::SCWReader::Handling sysconfig Mblaze_fnd_bin2dec_v2_hw
+TRACE::2024-10-24.14:38:44::SCWDomain::checking for install qemu data   : 
+TRACE::2024-10-24.14:38:44::SCWPlatform::Trying to open the hw design at C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/hw/Mblaze_fnd_cntr_wrapper.xsa
+TRACE::2024-10-24.14:38:44::SCWPlatform::DSA given C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/hw/Mblaze_fnd_cntr_wrapper.xsa
+TRACE::2024-10-24.14:38:44::SCWPlatform::DSA absoulate path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/hw/Mblaze_fnd_cntr_wrapper.xsa
+TRACE::2024-10-24.14:38:44::SCWPlatform::DSA directory C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/hw
+TRACE::2024-10-24.14:38:44::SCWPlatform:: Platform Path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/hw/Mblaze_fnd_cntr_wrapper.xsa
+TRACE::2024-10-24.14:38:44::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2024-10-24.14:38:44::SCWPlatform::Trying to set the existing hwdb with name Mblaze_fnd_cntr_wrapper_14
+TRACE::2024-10-24.14:38:44::SCWPlatform::Opened existing hwdb Mblaze_fnd_cntr_wrapper_14
+TRACE::2024-10-24.14:38:44::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-10-24.14:38:44::SCWPlatform::Trying to open the hw design at C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/hw/Mblaze_fnd_cntr_wrapper.xsa
+TRACE::2024-10-24.14:38:44::SCWPlatform::DSA given C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/hw/Mblaze_fnd_cntr_wrapper.xsa
+TRACE::2024-10-24.14:38:44::SCWPlatform::DSA absoulate path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/hw/Mblaze_fnd_cntr_wrapper.xsa
+TRACE::2024-10-24.14:38:44::SCWPlatform::DSA directory C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/hw
+TRACE::2024-10-24.14:38:44::SCWPlatform:: Platform Path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/hw/Mblaze_fnd_cntr_wrapper.xsa
+TRACE::2024-10-24.14:38:44::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2024-10-24.14:38:44::SCWPlatform::Trying to set the existing hwdb with name Mblaze_fnd_cntr_wrapper_14
+TRACE::2024-10-24.14:38:44::SCWPlatform::Opened existing hwdb Mblaze_fnd_cntr_wrapper_14
+TRACE::2024-10-24.14:38:44::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-10-24.14:38:44::SCWPlatform::Trying to open the hw design at C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/hw/Mblaze_fnd_cntr_wrapper.xsa
+TRACE::2024-10-24.14:38:44::SCWPlatform::DSA given C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/hw/Mblaze_fnd_cntr_wrapper.xsa
+TRACE::2024-10-24.14:38:44::SCWPlatform::DSA absoulate path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/hw/Mblaze_fnd_cntr_wrapper.xsa
+TRACE::2024-10-24.14:38:44::SCWPlatform::DSA directory C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/hw
+TRACE::2024-10-24.14:38:44::SCWPlatform:: Platform Path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/hw/Mblaze_fnd_cntr_wrapper.xsa
+TRACE::2024-10-24.14:38:44::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2024-10-24.14:38:44::SCWPlatform::Trying to set the existing hwdb with name Mblaze_fnd_cntr_wrapper_14
+TRACE::2024-10-24.14:38:44::SCWPlatform::Opened existing hwdb Mblaze_fnd_cntr_wrapper_14
+TRACE::2024-10-24.14:38:44::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-10-24.14:38:44::SCWMssOS::Checking the sw design at  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-10-24.14:38:44::SCWMssOS::DEBUG:  swdes dump  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_hw/microblaze_0/standalone_domain/bsp/system.mss|system_1||
+C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_cntr_hw/microblaze_0/standalone_domain/bsp/system.mss|system||
+C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_cntr_v2/microblaze_0/standalone_domain/bsp/system.mss|system_0||
+
+TRACE::2024-10-24.14:38:44::SCWMssOS::No sw design opened at  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-10-24.14:38:44::SCWMssOS::mss exists loading the mss file  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-10-24.14:38:44::SCWMssOS::Opened the sw design from mss  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-10-24.14:38:44::SCWMssOS::Adding the swdes entry C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/microblaze_0/standalone_domain/bsp/system.mss with des name system_2
+TRACE::2024-10-24.14:38:44::SCWMssOS::updating the scw layer about changes
+TRACE::2024-10-24.14:38:44::SCWMssOS::Opened the sw design.  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-10-24.14:38:44::SCWReader::Adding prebuilt librarypaths as   
+TRACE::2024-10-24.14:38:44::SCWReader::Adding prebuilt incpaths  as   
+TRACE::2024-10-24.14:38:44::SCWPlatform::Trying to open the hw design at C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/hw/Mblaze_fnd_cntr_wrapper.xsa
+TRACE::2024-10-24.14:38:44::SCWPlatform::DSA given C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/hw/Mblaze_fnd_cntr_wrapper.xsa
+TRACE::2024-10-24.14:38:44::SCWPlatform::DSA absoulate path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/hw/Mblaze_fnd_cntr_wrapper.xsa
+TRACE::2024-10-24.14:38:44::SCWPlatform::DSA directory C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/hw
+TRACE::2024-10-24.14:38:44::SCWPlatform:: Platform Path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/hw/Mblaze_fnd_cntr_wrapper.xsa
+TRACE::2024-10-24.14:38:44::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2024-10-24.14:38:44::SCWPlatform::Trying to set the existing hwdb with name Mblaze_fnd_cntr_wrapper_14
+TRACE::2024-10-24.14:38:44::SCWPlatform::Opened existing hwdb Mblaze_fnd_cntr_wrapper_14
+TRACE::2024-10-24.14:38:44::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-10-24.14:38:44::SCWMssOS::Checking the sw design at  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-10-24.14:38:44::SCWMssOS::DEBUG:  swdes dump  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_hw/microblaze_0/standalone_domain/bsp/system.mss|system_1||
+C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/microblaze_0/standalone_domain/bsp/system.mss|system_2||
+C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_cntr_hw/microblaze_0/standalone_domain/bsp/system.mss|system||
+C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_cntr_v2/microblaze_0/standalone_domain/bsp/system.mss|system_0||
+
+TRACE::2024-10-24.14:38:44::SCWMssOS::Sw design exists and opened at  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-10-24.14:38:44::SCWReader::No isolation master present  
+TRACE::2024-10-24.14:38:44::SCWPlatform::Trying to open the hw design at C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/hw/Mblaze_fnd_cntr_wrapper.xsa
+TRACE::2024-10-24.14:38:44::SCWPlatform::DSA given C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/hw/Mblaze_fnd_cntr_wrapper.xsa
+TRACE::2024-10-24.14:38:44::SCWPlatform::DSA absoulate path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/hw/Mblaze_fnd_cntr_wrapper.xsa
+TRACE::2024-10-24.14:38:44::SCWPlatform::DSA directory C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/hw
+TRACE::2024-10-24.14:38:44::SCWPlatform:: Platform Path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/hw/Mblaze_fnd_cntr_wrapper.xsa
+TRACE::2024-10-24.14:38:45::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2024-10-24.14:38:45::SCWPlatform::Trying to set the existing hwdb with name Mblaze_fnd_cntr_wrapper_14
+TRACE::2024-10-24.14:38:45::SCWPlatform::Opened existing hwdb Mblaze_fnd_cntr_wrapper_14
+TRACE::2024-10-24.14:38:45::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-10-24.14:38:45::SCWMssOS::Checking the sw design at  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-10-24.14:38:45::SCWMssOS::DEBUG:  swdes dump  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_hw/microblaze_0/standalone_domain/bsp/system.mss|system_1||
+C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/microblaze_0/standalone_domain/bsp/system.mss|system_2||
+C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_cntr_hw/microblaze_0/standalone_domain/bsp/system.mss|system||
+C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_cntr_v2/microblaze_0/standalone_domain/bsp/system.mss|system_0||
+
+TRACE::2024-10-24.14:38:45::SCWMssOS::Sw design exists and opened at  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-10-24.14:38:46::SCWMssOS::In reload Mss file.
+TRACE::2024-10-24.14:38:46::SCWPlatform::Trying to open the hw design at C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/hw/Mblaze_fnd_cntr_wrapper.xsa
+TRACE::2024-10-24.14:38:46::SCWPlatform::DSA given C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/hw/Mblaze_fnd_cntr_wrapper.xsa
+TRACE::2024-10-24.14:38:46::SCWPlatform::DSA absoulate path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/hw/Mblaze_fnd_cntr_wrapper.xsa
+TRACE::2024-10-24.14:38:46::SCWPlatform::DSA directory C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/hw
+TRACE::2024-10-24.14:38:46::SCWPlatform:: Platform Path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/hw/Mblaze_fnd_cntr_wrapper.xsa
+TRACE::2024-10-24.14:38:46::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2024-10-24.14:38:46::SCWPlatform::Trying to set the existing hwdb with name Mblaze_fnd_cntr_wrapper_14
+TRACE::2024-10-24.14:38:46::SCWPlatform::Opened existing hwdb Mblaze_fnd_cntr_wrapper_14
+TRACE::2024-10-24.14:38:46::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-10-24.14:38:46::SCWMssOS::Checking the sw design at  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-10-24.14:38:46::SCWMssOS::DEBUG:  swdes dump  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_hw/microblaze_0/standalone_domain/bsp/system.mss|system_1||
+C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/microblaze_0/standalone_domain/bsp/system.mss|system_2||
+C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_cntr_hw/microblaze_0/standalone_domain/bsp/system.mss|system||
+C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_cntr_v2/microblaze_0/standalone_domain/bsp/system.mss|system_0||
+
+KEYINFO::2024-10-24.14:38:46::SCWMssOS::Could not open the swdb for system_2
+KEYINFO::2024-10-24.14:38:46::SCWMssOS::Could not open the sw design at  system_2
+ERROR: [Hsi 55-1558] Software Design system_2 is not found
+
+TRACE::2024-10-24.14:38:46::SCWMssOS::Cleared the swdb table entry
+TRACE::2024-10-24.14:38:46::SCWMssOS::No sw design opened at  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-10-24.14:38:46::SCWMssOS::mss exists loading the mss file  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-10-24.14:38:46::SCWMssOS::Opened the sw design from mss  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-10-24.14:38:46::SCWMssOS::Adding the swdes entry C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/microblaze_0/standalone_domain/bsp/system.mss with des name system_2
+TRACE::2024-10-24.14:38:46::SCWMssOS::updating the scw layer about changes
+TRACE::2024-10-24.14:38:46::SCWMssOS::Opened the sw design.  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-10-24.14:38:46::SCWPlatform::Trying to open the hw design at C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/hw/Mblaze_fnd_cntr_wrapper.xsa
+TRACE::2024-10-24.14:38:46::SCWPlatform::DSA given C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/hw/Mblaze_fnd_cntr_wrapper.xsa
+TRACE::2024-10-24.14:38:46::SCWPlatform::DSA absoulate path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/hw/Mblaze_fnd_cntr_wrapper.xsa
+TRACE::2024-10-24.14:38:46::SCWPlatform::DSA directory C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/hw
+TRACE::2024-10-24.14:38:46::SCWPlatform:: Platform Path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/hw/Mblaze_fnd_cntr_wrapper.xsa
+TRACE::2024-10-24.14:38:46::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2024-10-24.14:38:46::SCWPlatform::Trying to set the existing hwdb with name Mblaze_fnd_cntr_wrapper_14
+TRACE::2024-10-24.14:38:46::SCWPlatform::Opened existing hwdb Mblaze_fnd_cntr_wrapper_14
+TRACE::2024-10-24.14:38:46::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-10-24.14:38:46::SCWMssOS::Checking the sw design at  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-10-24.14:38:46::SCWMssOS::DEBUG:  swdes dump  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_hw/microblaze_0/standalone_domain/bsp/system.mss|system_1||
+C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/microblaze_0/standalone_domain/bsp/system.mss|system_2||
+C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_cntr_hw/microblaze_0/standalone_domain/bsp/system.mss|system||
+C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_cntr_v2/microblaze_0/standalone_domain/bsp/system.mss|system_0||
+
+TRACE::2024-10-24.14:38:46::SCWMssOS::Sw design exists and opened at  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-10-24.14:38:46::SCWMssOS::Removing the swdes entry for  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/microblaze_0/standalone_domain/bsp/system.mss
+LOG::2024-10-24.14:39:19::SCWPlatform::Started generating the artifacts platform Mblaze_fnd_bin2dec_v2_hw
+TRACE::2024-10-24.14:39:19::SCWPlatform::Sanity checking of platform is completed
+LOG::2024-10-24.14:39:19::SCWPlatform::Started generating the artifacts for system configuration Mblaze_fnd_bin2dec_v2_hw
+LOG::2024-10-24.14:39:19::SCWSystem::Checking the domain standalone_domain
+LOG::2024-10-24.14:39:19::SCWSystem::Not a boot domain 
+LOG::2024-10-24.14:39:19::SCWSystem::Started Processing the domain standalone_domain
+TRACE::2024-10-24.14:39:19::SCWDomain::Generating domain artifcats
+TRACE::2024-10-24.14:39:19::SCWMssOS::Generating standalone artifcats
+TRACE::2024-10-24.14:39:19::SCWMssOS:: Copying the user libraries. 
+TRACE::2024-10-24.14:39:19::SCWPlatform::Trying to open the hw design at C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/hw/Mblaze_fnd_cntr_wrapper.xsa
+TRACE::2024-10-24.14:39:19::SCWPlatform::DSA given C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/hw/Mblaze_fnd_cntr_wrapper.xsa
+TRACE::2024-10-24.14:39:19::SCWPlatform::DSA absoulate path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/hw/Mblaze_fnd_cntr_wrapper.xsa
+TRACE::2024-10-24.14:39:19::SCWPlatform::DSA directory C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/hw
+TRACE::2024-10-24.14:39:19::SCWPlatform:: Platform Path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/hw/Mblaze_fnd_cntr_wrapper.xsa
+TRACE::2024-10-24.14:39:19::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2024-10-24.14:39:19::SCWPlatform::Trying to set the existing hwdb with name Mblaze_fnd_cntr_wrapper_14
+TRACE::2024-10-24.14:39:19::SCWPlatform::Opened existing hwdb Mblaze_fnd_cntr_wrapper_14
+TRACE::2024-10-24.14:39:19::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-10-24.14:39:19::SCWMssOS::Checking the sw design at  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-10-24.14:39:19::SCWMssOS::DEBUG:  swdes dump  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_hw/microblaze_0/standalone_domain/bsp/system.mss|system_1||
+C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_cntr_hw/microblaze_0/standalone_domain/bsp/system.mss|system||
+C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_cntr_v2/microblaze_0/standalone_domain/bsp/system.mss|system_0||
+
+TRACE::2024-10-24.14:39:19::SCWMssOS::No sw design opened at  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-10-24.14:39:19::SCWMssOS::mss exists loading the mss file  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-10-24.14:39:19::SCWMssOS::Opened the sw design from mss  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-10-24.14:39:19::SCWMssOS::Adding the swdes entry C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/microblaze_0/standalone_domain/bsp/system.mss with des name system_2
+TRACE::2024-10-24.14:39:19::SCWMssOS::updating the scw layer about changes
+TRACE::2024-10-24.14:39:19::SCWMssOS::Opened the sw design.  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-10-24.14:39:19::SCWMssOS::Completed writing the mss file at C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/microblaze_0/standalone_domain/bsp
+TRACE::2024-10-24.14:39:19::SCWMssOS::Mss edits present, copying mssfile into export location C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-10-24.14:39:19::SCWMssOS::bsp generated is upto date with the mss file. Skipping bsp generation.
+TRACE::2024-10-24.14:39:19::SCWMssOS::BSP is already built. skipping the bsp build ... 
+TRACE::2024-10-24.14:39:19::SCWDomain::Building the domain as part of full build :  standalone_domain
+TRACE::2024-10-24.14:39:19::SCWMssOS::doing bsp build ... 
+TRACE::2024-10-24.14:39:19::SCWMssOS::System Command Ran  C: & cd  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/microblaze_0/standalone_domain/bsp & make 
+TRACE::2024-10-24.14:39:19::SCWMssOS::"Running Make include in microblaze_0/libsrc/bram_v4_3/src"
+
+TRACE::2024-10-24.14:39:19::SCWMssOS::make -C microblaze_0/libsrc/bram_v4_3/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILE
+TRACE::2024-10-24.14:39:19::SCWMssOS::R_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mno-xl-reorder -mno-xl-soft-mul -mxl-barrel-shift -mxl-pattern-compare" "EXTRA_CO
+TRACE::2024-10-24.14:39:19::SCWMssOS::MPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall -Wextra"
+
+TRACE::2024-10-24.14:39:20::SCWMssOS::"Running Make include in microblaze_0/libsrc/cpu_v2_10/src"
+
+TRACE::2024-10-24.14:39:20::SCWMssOS::make -C microblaze_0/libsrc/cpu_v2_10/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILE
+TRACE::2024-10-24.14:39:20::SCWMssOS::R_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mno-xl-reorder -mno-xl-soft-mul -mxl-barrel-shift -mxl-pattern-compare" "EXTRA_CO
+TRACE::2024-10-24.14:39:20::SCWMssOS::MPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall -Wextra"
+
+TRACE::2024-10-24.14:39:20::SCWMssOS::"Running Make include in microblaze_0/libsrc/myip_fnd_cntr_v1_0/src"
+
+TRACE::2024-10-24.14:39:20::SCWMssOS::make -C microblaze_0/libsrc/myip_fnd_cntr_v1_0/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar"
+TRACE::2024-10-24.14:39:20::SCWMssOS:: "COMPILER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mno-xl-reorder -mno-xl-soft-mul -mxl-barrel-shift -mxl-pattern-compare" 
+TRACE::2024-10-24.14:39:20::SCWMssOS::"EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall -Wextra"
+
+TRACE::2024-10-24.14:39:20::SCWMssOS::"Running Make include in microblaze_0/libsrc/standalone_v7_1/src"
+
+TRACE::2024-10-24.14:39:20::SCWMssOS::make -C microblaze_0/libsrc/standalone_v7_1/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "C
+TRACE::2024-10-24.14:39:20::SCWMssOS::OMPILER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mno-xl-reorder -mno-xl-soft-mul -mxl-barrel-shift -mxl-pattern-compare" "EX
+TRACE::2024-10-24.14:39:20::SCWMssOS::TRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall -Wextra"
+
+TRACE::2024-10-24.14:39:20::SCWMssOS::"Running Make include in microblaze_0/libsrc/uartlite_v3_3/src"
+
+TRACE::2024-10-24.14:39:20::SCWMssOS::make -C microblaze_0/libsrc/uartlite_v3_3/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COM
+TRACE::2024-10-24.14:39:20::SCWMssOS::PILER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mno-xl-reorder -mno-xl-soft-mul -mxl-barrel-shift -mxl-pattern-compare" "EXTR
+TRACE::2024-10-24.14:39:20::SCWMssOS::A_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall -Wextra"
+
+TRACE::2024-10-24.14:39:20::SCWMssOS::"Running Make libs in microblaze_0/libsrc/bram_v4_3/src"
+
+TRACE::2024-10-24.14:39:20::SCWMssOS::make -C microblaze_0/libsrc/bram_v4_3/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILER_F
+TRACE::2024-10-24.14:39:20::SCWMssOS::LAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mno-xl-reorder -mno-xl-soft-mul -mxl-barrel-shift -mxl-pattern-compare" "EXTRA_COMPI
+TRACE::2024-10-24.14:39:20::SCWMssOS::LER_FLAGS=-g -ffunction-sections -fdata-sections -Wall -Wextra"
+
+TRACE::2024-10-24.14:39:20::SCWMssOS::"Compiling bram"
+
+TRACE::2024-10-24.14:39:21::SCWMssOS::"Running Make libs in microblaze_0/libsrc/cpu_v2_10/src"
+
+TRACE::2024-10-24.14:39:21::SCWMssOS::make -C microblaze_0/libsrc/cpu_v2_10/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILER_F
+TRACE::2024-10-24.14:39:21::SCWMssOS::LAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mno-xl-reorder -mno-xl-soft-mul -mxl-barrel-shift -mxl-pattern-compare" "EXTRA_COMPI
+TRACE::2024-10-24.14:39:21::SCWMssOS::LER_FLAGS=-g -ffunction-sections -fdata-sections -Wall -Wextra"
+
+TRACE::2024-10-24.14:39:21::SCWMssOS::"Compiling cpu"
+
+TRACE::2024-10-24.14:39:22::SCWMssOS::"Running Make libs in microblaze_0/libsrc/myip_fnd_cntr_v1_0/src"
+
+TRACE::2024-10-24.14:39:22::SCWMssOS::make -C microblaze_0/libsrc/myip_fnd_cntr_v1_0/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "C
+TRACE::2024-10-24.14:39:22::SCWMssOS::OMPILER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mno-xl-reorder -mno-xl-soft-mul -mxl-barrel-shift -mxl-pattern-compare" "EX
+TRACE::2024-10-24.14:39:22::SCWMssOS::TRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall -Wextra"
+
+TRACE::2024-10-24.14:39:22::SCWMssOS::"Compiling myip_fnd_cntr..."
+
+TRACE::2024-10-24.14:39:22::SCWMssOS::"Running Make libs in microblaze_0/libsrc/standalone_v7_1/src"
+
+TRACE::2024-10-24.14:39:22::SCWMssOS::make -C microblaze_0/libsrc/standalone_v7_1/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMP
+TRACE::2024-10-24.14:39:22::SCWMssOS::ILER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mno-xl-reorder -mno-xl-soft-mul -mxl-barrel-shift -mxl-pattern-compare" "EXTRA
+TRACE::2024-10-24.14:39:22::SCWMssOS::_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall -Wextra"
+
+TRACE::2024-10-24.14:39:22::SCWMssOS::"Compiling standalone";
+
+TRACE::2024-10-24.14:39:28::SCWMssOS::"Running Make libs in microblaze_0/libsrc/uartlite_v3_3/src"
+
+TRACE::2024-10-24.14:39:28::SCWMssOS::make -C microblaze_0/libsrc/uartlite_v3_3/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPIL
+TRACE::2024-10-24.14:39:28::SCWMssOS::ER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mno-xl-reorder -mno-xl-soft-mul -mxl-barrel-shift -mxl-pattern-compare" "EXTRA_C
+TRACE::2024-10-24.14:39:28::SCWMssOS::OMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall -Wextra"
+
+TRACE::2024-10-24.14:39:28::SCWMssOS::"Compiling uartlite"
+
+TRACE::2024-10-24.14:39:29::SCWMssOS::'Finished building libraries'
+
+TRACE::2024-10-24.14:39:29::SCWMssOS::Copying to export directory.
+TRACE::2024-10-24.14:39:30::SCWMssOS:: Checking if to create the Supporting Applications
+TRACE::2024-10-24.14:39:30::SCWMssOS:: No Linux domain exists, trying to generate FSBL 
+LOG::2024-10-24.14:39:30::SCWSystem::Completed Processing the domain standalone_domain
+LOG::2024-10-24.14:39:30::SCWSystem::Completed Processing the sysconfig Mblaze_fnd_bin2dec_v2_hw
+LOG::2024-10-24.14:39:30::SCWPlatform::Completed generating the artifacts for system configuration Mblaze_fnd_bin2dec_v2_hw
+TRACE::2024-10-24.14:39:30::SCWPlatform::Started preparing the platform 
+TRACE::2024-10-24.14:39:30::SCWSystem::Writing the bif file for system config Mblaze_fnd_bin2dec_v2_hw
+TRACE::2024-10-24.14:39:30::SCWSystem::dir created 
+TRACE::2024-10-24.14:39:30::SCWSystem::Writing the bif 
+TRACE::2024-10-24.14:39:30::SCWPlatform::Started writing the spfm file 
+TRACE::2024-10-24.14:39:30::SCWPlatform::Started writing the xpfm file 
+TRACE::2024-10-24.14:39:30::SCWPlatform::Completed generating the platform
+TRACE::2024-10-24.14:39:30::SCWPlatform::Trying to open the hw design at C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/hw/Mblaze_fnd_cntr_wrapper.xsa
+TRACE::2024-10-24.14:39:30::SCWPlatform::DSA given C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/hw/Mblaze_fnd_cntr_wrapper.xsa
+TRACE::2024-10-24.14:39:30::SCWPlatform::DSA absoulate path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/hw/Mblaze_fnd_cntr_wrapper.xsa
+TRACE::2024-10-24.14:39:30::SCWPlatform::DSA directory C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/hw
+TRACE::2024-10-24.14:39:30::SCWPlatform:: Platform Path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/hw/Mblaze_fnd_cntr_wrapper.xsa
+TRACE::2024-10-24.14:39:30::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2024-10-24.14:39:30::SCWPlatform::Trying to set the existing hwdb with name Mblaze_fnd_cntr_wrapper_14
+TRACE::2024-10-24.14:39:30::SCWPlatform::Opened existing hwdb Mblaze_fnd_cntr_wrapper_14
+TRACE::2024-10-24.14:39:30::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-10-24.14:39:30::SCWMssOS::Checking the sw design at  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-10-24.14:39:30::SCWMssOS::DEBUG:  swdes dump  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_hw/microblaze_0/standalone_domain/bsp/system.mss|system_1||
+C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/microblaze_0/standalone_domain/bsp/system.mss|system_2||
+C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_cntr_hw/microblaze_0/standalone_domain/bsp/system.mss|system||
+C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_cntr_v2/microblaze_0/standalone_domain/bsp/system.mss|system_0||
+
+TRACE::2024-10-24.14:39:30::SCWMssOS::Sw design exists and opened at  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-10-24.14:39:30::SCWWriter::formatted JSON is {
+	"platformName":	"Mblaze_fnd_bin2dec_v2_hw",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"Mblaze_fnd_bin2dec_v2_hw",
+	"platHandOff":	"C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/Mblaze_fnd_cntr_wrapper.xsa",
+	"platIntHandOff":	"<platformDir>/hw/Mblaze_fnd_cntr_wrapper.xsa",
+	"deviceType":	"FPGA",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"Mblaze_fnd_bin2dec_v2_hw",
+	"systems":	[{
+			"systemName":	"Mblaze_fnd_bin2dec_v2_hw",
+			"systemDesc":	"Mblaze_fnd_bin2dec_v2_hw",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"Mblaze_fnd_bin2dec_v2_hw",
+			"sysActiveDom":	"standalone_domain",
+			"sysDefaultDom":	"standalone_domain",
+			"domains":	[{
+					"domainName":	"standalone_domain",
+					"domainDispName":	"standalone on microblaze_0",
+					"domainDesc":	"standalone_domain",
+					"processors":	"microblaze_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"7.1",
+					"mssFile":	"",
+					"md5Digest":	"3058066e4ca0fc25659ba337ec202bf1",
+					"compatibleApp":	"",
+					"domType":	"mssDomain",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	[],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+KEYINFO::2024-10-24.14:39:30::SCWPlatform::updated the xpfm file.
+TRACE::2024-10-24.14:39:30::SCWPlatform::Trying to open the hw design at C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/hw/Mblaze_fnd_cntr_wrapper.xsa
+TRACE::2024-10-24.14:39:30::SCWPlatform::DSA given C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/hw/Mblaze_fnd_cntr_wrapper.xsa
+TRACE::2024-10-24.14:39:30::SCWPlatform::DSA absoulate path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/hw/Mblaze_fnd_cntr_wrapper.xsa
+TRACE::2024-10-24.14:39:30::SCWPlatform::DSA directory C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/hw
+TRACE::2024-10-24.14:39:30::SCWPlatform:: Platform Path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/hw/Mblaze_fnd_cntr_wrapper.xsa
+TRACE::2024-10-24.14:39:30::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2024-10-24.14:39:30::SCWPlatform::Trying to set the existing hwdb with name Mblaze_fnd_cntr_wrapper_14
+TRACE::2024-10-24.14:39:30::SCWPlatform::Opened existing hwdb Mblaze_fnd_cntr_wrapper_14
+TRACE::2024-10-24.14:39:30::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-10-24.14:39:30::SCWMssOS::Checking the sw design at  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-10-24.14:39:30::SCWMssOS::DEBUG:  swdes dump  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_hw/microblaze_0/standalone_domain/bsp/system.mss|system_1||
+C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/microblaze_0/standalone_domain/bsp/system.mss|system_2||
+C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_cntr_hw/microblaze_0/standalone_domain/bsp/system.mss|system||
+C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_cntr_v2/microblaze_0/standalone_domain/bsp/system.mss|system_0||
+
+TRACE::2024-10-24.14:39:30::SCWMssOS::Sw design exists and opened at  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-10-24.14:42:40::SCWPlatform::Trying to open the hw design at C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/hw/Mblaze_fnd_cntr_wrapper.xsa
+TRACE::2024-10-24.14:42:40::SCWPlatform::DSA given C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/hw/Mblaze_fnd_cntr_wrapper.xsa
+TRACE::2024-10-24.14:42:40::SCWPlatform::DSA absoulate path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/hw/Mblaze_fnd_cntr_wrapper.xsa
+TRACE::2024-10-24.14:42:43::SCWPlatform::DSA directory C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/hw
+TRACE::2024-10-24.14:42:43::SCWPlatform:: Platform Path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/hw/Mblaze_fnd_cntr_wrapper.xsa
+TRACE::2024-10-24.14:42:43::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2024-10-24.14:42:43::SCWPlatform::Do not have an existing db opened. 
+TRACE::2024-10-24.14:42:43::SCWPlatform::Opened new HwDB with name Mblaze_fnd_cntr_wrapper_0
+TRACE::2024-10-24.14:42:43::SCWReader::Active system found as  Mblaze_fnd_bin2dec_v2_hw
+TRACE::2024-10-24.14:42:43::SCWReader::Handling sysconfig Mblaze_fnd_bin2dec_v2_hw
+TRACE::2024-10-24.14:42:43::SCWDomain::checking for install qemu data   : 
+TRACE::2024-10-24.14:42:43::SCWPlatform::Trying to open the hw design at C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/hw/Mblaze_fnd_cntr_wrapper.xsa
+TRACE::2024-10-24.14:42:43::SCWPlatform::DSA given C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/hw/Mblaze_fnd_cntr_wrapper.xsa
+TRACE::2024-10-24.14:42:43::SCWPlatform::DSA absoulate path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/hw/Mblaze_fnd_cntr_wrapper.xsa
+TRACE::2024-10-24.14:42:43::SCWPlatform::DSA directory C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/hw
+TRACE::2024-10-24.14:42:43::SCWPlatform:: Platform Path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/hw/Mblaze_fnd_cntr_wrapper.xsa
+TRACE::2024-10-24.14:42:43::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2024-10-24.14:42:43::SCWPlatform::Trying to set the existing hwdb with name Mblaze_fnd_cntr_wrapper_0
+TRACE::2024-10-24.14:42:43::SCWPlatform::Opened existing hwdb Mblaze_fnd_cntr_wrapper_0
+TRACE::2024-10-24.14:42:43::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-10-24.14:42:43::SCWPlatform::Trying to open the hw design at C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/hw/Mblaze_fnd_cntr_wrapper.xsa
+TRACE::2024-10-24.14:42:43::SCWPlatform::DSA given C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/hw/Mblaze_fnd_cntr_wrapper.xsa
+TRACE::2024-10-24.14:42:43::SCWPlatform::DSA absoulate path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/hw/Mblaze_fnd_cntr_wrapper.xsa
+TRACE::2024-10-24.14:42:43::SCWPlatform::DSA directory C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/hw
+TRACE::2024-10-24.14:42:43::SCWPlatform:: Platform Path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/hw/Mblaze_fnd_cntr_wrapper.xsa
+TRACE::2024-10-24.14:42:43::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2024-10-24.14:42:43::SCWPlatform::Trying to set the existing hwdb with name Mblaze_fnd_cntr_wrapper_0
+TRACE::2024-10-24.14:42:43::SCWPlatform::Opened existing hwdb Mblaze_fnd_cntr_wrapper_0
+TRACE::2024-10-24.14:42:43::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-10-24.14:42:43::SCWPlatform::Trying to open the hw design at C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/hw/Mblaze_fnd_cntr_wrapper.xsa
+TRACE::2024-10-24.14:42:43::SCWPlatform::DSA given C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/hw/Mblaze_fnd_cntr_wrapper.xsa
+TRACE::2024-10-24.14:42:43::SCWPlatform::DSA absoulate path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/hw/Mblaze_fnd_cntr_wrapper.xsa
+TRACE::2024-10-24.14:42:43::SCWPlatform::DSA directory C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/hw
+TRACE::2024-10-24.14:42:43::SCWPlatform:: Platform Path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/hw/Mblaze_fnd_cntr_wrapper.xsa
+TRACE::2024-10-24.14:42:43::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2024-10-24.14:42:43::SCWPlatform::Trying to set the existing hwdb with name Mblaze_fnd_cntr_wrapper_0
+TRACE::2024-10-24.14:42:43::SCWPlatform::Opened existing hwdb Mblaze_fnd_cntr_wrapper_0
+TRACE::2024-10-24.14:42:43::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-10-24.14:42:43::SCWMssOS::Checking the sw design at  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-10-24.14:42:43::SCWMssOS::DEBUG:  swdes dump  
+TRACE::2024-10-24.14:42:43::SCWMssOS::No sw design opened at  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-10-24.14:42:43::SCWMssOS::mss exists loading the mss file  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-10-24.14:42:43::SCWMssOS::Opened the sw design from mss  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-10-24.14:42:43::SCWMssOS::Adding the swdes entry C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/microblaze_0/standalone_domain/bsp/system.mss with des name system
+TRACE::2024-10-24.14:42:43::SCWMssOS::updating the scw layer about changes
+TRACE::2024-10-24.14:42:43::SCWMssOS::Opened the sw design.  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-10-24.14:42:43::SCWReader::Adding prebuilt librarypaths as   
+TRACE::2024-10-24.14:42:43::SCWReader::Adding prebuilt incpaths  as   
+TRACE::2024-10-24.14:42:43::SCWPlatform::Trying to open the hw design at C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/hw/Mblaze_fnd_cntr_wrapper.xsa
+TRACE::2024-10-24.14:42:43::SCWPlatform::DSA given C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/hw/Mblaze_fnd_cntr_wrapper.xsa
+TRACE::2024-10-24.14:42:43::SCWPlatform::DSA absoulate path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/hw/Mblaze_fnd_cntr_wrapper.xsa
+TRACE::2024-10-24.14:42:43::SCWPlatform::DSA directory C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/hw
+TRACE::2024-10-24.14:42:43::SCWPlatform:: Platform Path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/hw/Mblaze_fnd_cntr_wrapper.xsa
+TRACE::2024-10-24.14:42:43::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2024-10-24.14:42:43::SCWPlatform::Trying to set the existing hwdb with name Mblaze_fnd_cntr_wrapper_0
+TRACE::2024-10-24.14:42:43::SCWPlatform::Opened existing hwdb Mblaze_fnd_cntr_wrapper_0
+TRACE::2024-10-24.14:42:43::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-10-24.14:42:43::SCWMssOS::Checking the sw design at  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-10-24.14:42:43::SCWMssOS::DEBUG:  swdes dump  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2024-10-24.14:42:43::SCWMssOS::Sw design exists and opened at  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-10-24.14:42:43::SCWReader::No isolation master present  
+LOG::2024-10-24.14:42:43::SCWPlatform::Started generating the artifacts platform Mblaze_fnd_bin2dec_v2_hw
+TRACE::2024-10-24.14:42:43::SCWPlatform::Sanity checking of platform is completed
+LOG::2024-10-24.14:42:43::SCWPlatform::Started generating the artifacts for system configuration Mblaze_fnd_bin2dec_v2_hw
+LOG::2024-10-24.14:42:43::SCWSystem::Checking the domain standalone_domain
+LOG::2024-10-24.14:42:43::SCWSystem::Not a boot domain 
+LOG::2024-10-24.14:42:43::SCWSystem::Started Processing the domain standalone_domain
+TRACE::2024-10-24.14:42:43::SCWDomain::Generating domain artifcats
+TRACE::2024-10-24.14:42:43::SCWMssOS::Generating standalone artifcats
+TRACE::2024-10-24.14:42:43::SCWMssOS:: Copying the user libraries. 
+TRACE::2024-10-24.14:42:43::SCWPlatform::Trying to open the hw design at C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/hw/Mblaze_fnd_cntr_wrapper.xsa
+TRACE::2024-10-24.14:42:43::SCWPlatform::DSA given C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/hw/Mblaze_fnd_cntr_wrapper.xsa
+TRACE::2024-10-24.14:42:43::SCWPlatform::DSA absoulate path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/hw/Mblaze_fnd_cntr_wrapper.xsa
+TRACE::2024-10-24.14:42:43::SCWPlatform::DSA directory C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/hw
+TRACE::2024-10-24.14:42:43::SCWPlatform:: Platform Path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/hw/Mblaze_fnd_cntr_wrapper.xsa
+TRACE::2024-10-24.14:42:43::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2024-10-24.14:42:43::SCWPlatform::Trying to set the existing hwdb with name Mblaze_fnd_cntr_wrapper_0
+TRACE::2024-10-24.14:42:43::SCWPlatform::Opened existing hwdb Mblaze_fnd_cntr_wrapper_0
+TRACE::2024-10-24.14:42:43::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-10-24.14:42:43::SCWMssOS::Checking the sw design at  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-10-24.14:42:43::SCWMssOS::DEBUG:  swdes dump  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2024-10-24.14:42:43::SCWMssOS::Sw design exists and opened at  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-10-24.14:42:43::SCWMssOS::Completed writing the mss file at C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/microblaze_0/standalone_domain/bsp
+TRACE::2024-10-24.14:42:43::SCWMssOS::Mss edits present, copying mssfile into export location C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-10-24.14:42:43::SCWMssOS::bsp generated is upto date with the mss file. Skipping bsp generation.
+TRACE::2024-10-24.14:42:43::SCWMssOS::BSP is already built. skipping the bsp build ... 
+TRACE::2024-10-24.14:42:43::SCWDomain::Building the domain as part of full build :  standalone_domain
+TRACE::2024-10-24.14:42:43::SCWMssOS::doing bsp build ... 
+TRACE::2024-10-24.14:42:43::SCWMssOS::System Command Ran  C: & cd  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/microblaze_0/standalone_domain/bsp & make 
+TRACE::2024-10-24.14:42:43::SCWMssOS::"Running Make include in microblaze_0/libsrc/bram_v4_3/src"
+
+TRACE::2024-10-24.14:42:43::SCWMssOS::make -C microblaze_0/libsrc/bram_v4_3/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILE
+TRACE::2024-10-24.14:42:43::SCWMssOS::R_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mno-xl-reorder -mno-xl-soft-mul -mxl-barrel-shift -mxl-pattern-compare" "EXTRA_CO
+TRACE::2024-10-24.14:42:43::SCWMssOS::MPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall -Wextra"
+
+TRACE::2024-10-24.14:42:43::SCWMssOS::"Running Make include in microblaze_0/libsrc/cpu_v2_10/src"
+
+TRACE::2024-10-24.14:42:43::SCWMssOS::make -C microblaze_0/libsrc/cpu_v2_10/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILE
+TRACE::2024-10-24.14:42:43::SCWMssOS::R_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mno-xl-reorder -mno-xl-soft-mul -mxl-barrel-shift -mxl-pattern-compare" "EXTRA_CO
+TRACE::2024-10-24.14:42:43::SCWMssOS::MPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall -Wextra"
+
+TRACE::2024-10-24.14:42:43::SCWMssOS::"Running Make include in microblaze_0/libsrc/myip_fnd_cntr_v1_0/src"
+
+TRACE::2024-10-24.14:42:43::SCWMssOS::make -C microblaze_0/libsrc/myip_fnd_cntr_v1_0/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar"
+TRACE::2024-10-24.14:42:43::SCWMssOS:: "COMPILER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mno-xl-reorder -mno-xl-soft-mul -mxl-barrel-shift -mxl-pattern-compare" 
+TRACE::2024-10-24.14:42:43::SCWMssOS::"EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall -Wextra"
+
+TRACE::2024-10-24.14:42:43::SCWMssOS::"Running Make include in microblaze_0/libsrc/standalone_v7_1/src"
+
+TRACE::2024-10-24.14:42:43::SCWMssOS::make -C microblaze_0/libsrc/standalone_v7_1/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "C
+TRACE::2024-10-24.14:42:43::SCWMssOS::OMPILER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mno-xl-reorder -mno-xl-soft-mul -mxl-barrel-shift -mxl-pattern-compare" "EX
+TRACE::2024-10-24.14:42:43::SCWMssOS::TRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall -Wextra"
+
+TRACE::2024-10-24.14:42:44::SCWMssOS::"Running Make include in microblaze_0/libsrc/uartlite_v3_3/src"
+
+TRACE::2024-10-24.14:42:44::SCWMssOS::make -C microblaze_0/libsrc/uartlite_v3_3/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COM
+TRACE::2024-10-24.14:42:44::SCWMssOS::PILER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mno-xl-reorder -mno-xl-soft-mul -mxl-barrel-shift -mxl-pattern-compare" "EXTR
+TRACE::2024-10-24.14:42:44::SCWMssOS::A_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall -Wextra"
+
+TRACE::2024-10-24.14:42:44::SCWMssOS::"Running Make libs in microblaze_0/libsrc/bram_v4_3/src"
+
+TRACE::2024-10-24.14:42:44::SCWMssOS::make -C microblaze_0/libsrc/bram_v4_3/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILER_F
+TRACE::2024-10-24.14:42:44::SCWMssOS::LAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mno-xl-reorder -mno-xl-soft-mul -mxl-barrel-shift -mxl-pattern-compare" "EXTRA_COMPI
+TRACE::2024-10-24.14:42:44::SCWMssOS::LER_FLAGS=-g -ffunction-sections -fdata-sections -Wall -Wextra"
+
+TRACE::2024-10-24.14:42:44::SCWMssOS::"Compiling bram"
+
+TRACE::2024-10-24.14:42:45::SCWMssOS::"Running Make libs in microblaze_0/libsrc/cpu_v2_10/src"
+
+TRACE::2024-10-24.14:42:45::SCWMssOS::make -C microblaze_0/libsrc/cpu_v2_10/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILER_F
+TRACE::2024-10-24.14:42:45::SCWMssOS::LAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mno-xl-reorder -mno-xl-soft-mul -mxl-barrel-shift -mxl-pattern-compare" "EXTRA_COMPI
+TRACE::2024-10-24.14:42:45::SCWMssOS::LER_FLAGS=-g -ffunction-sections -fdata-sections -Wall -Wextra"
+
+TRACE::2024-10-24.14:42:45::SCWMssOS::"Compiling cpu"
+
+TRACE::2024-10-24.14:42:45::SCWMssOS::"Running Make libs in microblaze_0/libsrc/myip_fnd_cntr_v1_0/src"
+
+TRACE::2024-10-24.14:42:45::SCWMssOS::make -C microblaze_0/libsrc/myip_fnd_cntr_v1_0/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "C
+TRACE::2024-10-24.14:42:45::SCWMssOS::OMPILER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mno-xl-reorder -mno-xl-soft-mul -mxl-barrel-shift -mxl-pattern-compare" "EX
+TRACE::2024-10-24.14:42:45::SCWMssOS::TRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall -Wextra"
+
+TRACE::2024-10-24.14:42:45::SCWMssOS::"Compiling myip_fnd_cntr..."
+
+TRACE::2024-10-24.14:42:46::SCWMssOS::"Running Make libs in microblaze_0/libsrc/standalone_v7_1/src"
+
+TRACE::2024-10-24.14:42:46::SCWMssOS::make -C microblaze_0/libsrc/standalone_v7_1/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMP
+TRACE::2024-10-24.14:42:46::SCWMssOS::ILER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mno-xl-reorder -mno-xl-soft-mul -mxl-barrel-shift -mxl-pattern-compare" "EXTRA
+TRACE::2024-10-24.14:42:46::SCWMssOS::_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall -Wextra"
+
+TRACE::2024-10-24.14:42:46::SCWMssOS::"Compiling standalone";
+
+TRACE::2024-10-24.14:42:50::SCWMssOS::"Running Make libs in microblaze_0/libsrc/uartlite_v3_3/src"
+
+TRACE::2024-10-24.14:42:50::SCWMssOS::make -C microblaze_0/libsrc/uartlite_v3_3/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPIL
+TRACE::2024-10-24.14:42:50::SCWMssOS::ER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mno-xl-reorder -mno-xl-soft-mul -mxl-barrel-shift -mxl-pattern-compare" "EXTRA_C
+TRACE::2024-10-24.14:42:50::SCWMssOS::OMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall -Wextra"
+
+TRACE::2024-10-24.14:42:50::SCWMssOS::"Compiling uartlite"
+
+TRACE::2024-10-24.14:42:52::SCWMssOS::'Finished building libraries'
+
+TRACE::2024-10-24.14:42:52::SCWMssOS::Copying to export directory.
+TRACE::2024-10-24.14:42:52::SCWMssOS:: Checking if to create the Supporting Applications
+TRACE::2024-10-24.14:42:52::SCWMssOS:: No Linux domain exists, trying to generate FSBL 
+LOG::2024-10-24.14:42:52::SCWSystem::Completed Processing the domain standalone_domain
+LOG::2024-10-24.14:42:52::SCWSystem::Completed Processing the sysconfig Mblaze_fnd_bin2dec_v2_hw
+LOG::2024-10-24.14:42:52::SCWPlatform::Completed generating the artifacts for system configuration Mblaze_fnd_bin2dec_v2_hw
+TRACE::2024-10-24.14:42:52::SCWPlatform::Started preparing the platform 
+TRACE::2024-10-24.14:42:52::SCWSystem::Writing the bif file for system config Mblaze_fnd_bin2dec_v2_hw
+TRACE::2024-10-24.14:42:52::SCWSystem::dir created 
+TRACE::2024-10-24.14:42:52::SCWSystem::Writing the bif 
+TRACE::2024-10-24.14:42:52::SCWPlatform::Started writing the spfm file 
+TRACE::2024-10-24.14:42:52::SCWPlatform::Started writing the xpfm file 
+TRACE::2024-10-24.14:42:52::SCWPlatform::Completed generating the platform
+TRACE::2024-10-24.14:42:52::SCWPlatform::Trying to open the hw design at C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/hw/Mblaze_fnd_cntr_wrapper.xsa
+TRACE::2024-10-24.14:42:52::SCWPlatform::DSA given C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/hw/Mblaze_fnd_cntr_wrapper.xsa
+TRACE::2024-10-24.14:42:52::SCWPlatform::DSA absoulate path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/hw/Mblaze_fnd_cntr_wrapper.xsa
+TRACE::2024-10-24.14:42:52::SCWPlatform::DSA directory C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/hw
+TRACE::2024-10-24.14:42:52::SCWPlatform:: Platform Path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/hw/Mblaze_fnd_cntr_wrapper.xsa
+TRACE::2024-10-24.14:42:52::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2024-10-24.14:42:52::SCWPlatform::Trying to set the existing hwdb with name Mblaze_fnd_cntr_wrapper_0
+TRACE::2024-10-24.14:42:52::SCWPlatform::Opened existing hwdb Mblaze_fnd_cntr_wrapper_0
+TRACE::2024-10-24.14:42:52::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-10-24.14:42:52::SCWMssOS::Checking the sw design at  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-10-24.14:42:52::SCWMssOS::DEBUG:  swdes dump  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2024-10-24.14:42:52::SCWMssOS::Sw design exists and opened at  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-10-24.14:42:52::SCWWriter::formatted JSON is {
+	"platformName":	"Mblaze_fnd_bin2dec_v2_hw",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"Mblaze_fnd_bin2dec_v2_hw",
+	"platHandOff":	"C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/Mblaze_fnd_cntr_wrapper.xsa",
+	"platIntHandOff":	"<platformDir>/hw/Mblaze_fnd_cntr_wrapper.xsa",
+	"deviceType":	"FPGA",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"Mblaze_fnd_bin2dec_v2_hw",
+	"systems":	[{
+			"systemName":	"Mblaze_fnd_bin2dec_v2_hw",
+			"systemDesc":	"Mblaze_fnd_bin2dec_v2_hw",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"Mblaze_fnd_bin2dec_v2_hw",
+			"sysActiveDom":	"standalone_domain",
+			"sysDefaultDom":	"standalone_domain",
+			"domains":	[{
+					"domainName":	"standalone_domain",
+					"domainDispName":	"standalone on microblaze_0",
+					"domainDesc":	"standalone_domain",
+					"processors":	"microblaze_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"7.1",
+					"mssFile":	"",
+					"md5Digest":	"3058066e4ca0fc25659ba337ec202bf1",
+					"compatibleApp":	"",
+					"domType":	"mssDomain",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	[],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+KEYINFO::2024-10-24.14:42:52::SCWPlatform::updated the xpfm file.
+TRACE::2024-10-24.14:42:53::SCWPlatform::Trying to open the hw design at C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/hw/Mblaze_fnd_cntr_wrapper.xsa
+TRACE::2024-10-24.14:42:53::SCWPlatform::DSA given C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/hw/Mblaze_fnd_cntr_wrapper.xsa
+TRACE::2024-10-24.14:42:53::SCWPlatform::DSA absoulate path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/hw/Mblaze_fnd_cntr_wrapper.xsa
+TRACE::2024-10-24.14:42:53::SCWPlatform::DSA directory C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/hw
+TRACE::2024-10-24.14:42:53::SCWPlatform:: Platform Path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/hw/Mblaze_fnd_cntr_wrapper.xsa
+TRACE::2024-10-24.14:42:53::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2024-10-24.14:42:53::SCWPlatform::Trying to set the existing hwdb with name Mblaze_fnd_cntr_wrapper_0
+TRACE::2024-10-24.14:42:53::SCWPlatform::Opened existing hwdb Mblaze_fnd_cntr_wrapper_0
+TRACE::2024-10-24.14:42:53::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-10-24.14:42:53::SCWMssOS::Checking the sw design at  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-10-24.14:42:53::SCWMssOS::DEBUG:  swdes dump  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2024-10-24.14:42:53::SCWMssOS::Sw design exists and opened at  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_fnd_bin2dec_v2_hw/microblaze_0/standalone_domain/bsp/system.mss

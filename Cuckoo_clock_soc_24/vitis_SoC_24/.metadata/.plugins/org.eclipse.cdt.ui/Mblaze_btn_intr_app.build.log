@@ -1,0 +1,49 @@
+14:03:10 **** Incremental Build of configuration Debug for project Mblaze_btn_intr_app ****
+make all 
+'Building file: ../src/helloworld.c'
+'Invoking: MicroBlaze gcc compiler'
+mb-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/helloworld.o" -IC:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_btn_intr_uart_hw/export/Mblaze_btn_intr_uart_hw/sw/Mblaze_btn_intr_uart_hw/standalone_domain/bspinclude/include -mno-xl-reorder -mlittle-endian -mxl-barrel-shift -mxl-pattern-compare -mcpu=v11.0 -mno-xl-soft-mul -Wl,--no-relax -ffunction-sections -fdata-sections -MMD -MP -MF"src/helloworld.d" -MT"src/helloworld.o" -o "src/helloworld.o" "../src/helloworld.c"
+../src/helloworld.c: In function 'main':
+../src/helloworld.c:82:23: warning: unused variable 'btn_old_data' [-Wunused-variable]
+     u32 btn_data = 0, btn_old_data = 0;
+                       ^~~~~~~~~~~~
+../src/helloworld.c:82:9: warning: unused variable 'btn_data' [-Wunused-variable]
+     u32 btn_data = 0, btn_old_data = 0;
+         ^~~~~~~~
+../src/helloworld.c: In function 'BTN_ISR':
+../src/helloworld.c:156:9: warning: 'return' with a value, in function returning void
+  return 0;
+         ^
+../src/helloworld.c:135:6: note: declared here
+ void BTN_ISR(void *CallBackRef)
+      ^~~~~~~
+../src/helloworld.c: In function 'SendHandler':
+../src/helloworld.c:162:9: warning: 'return' with a value, in function returning void
+  return 0;
+         ^
+../src/helloworld.c:160:6: note: declared here
+ void SendHandler(void *CallBackRef, unsigned int EvenData)  //uart 인터럽트와 관련된 함수, 수신
+      ^~~~~~~~~~~
+../src/helloworld.c: In function 'RecvHandler':
+../src/helloworld.c:171:9: warning: 'return' with a value, in function returning void
+  return 0;
+         ^
+../src/helloworld.c:166:6: note: declared here
+ void RecvHandler(void *CallBackRef, unsigned int EvenData)  //uart 인터럽트와 관련된 함수, 송신
+      ^~~~~~~~~~~
+'Finished building: ../src/helloworld.c'
+' '
+'Building target: Mblaze_btn_intr_app.elf'
+'Invoking: MicroBlaze gcc linker'
+mb-gcc -Wl,-T -Wl,../src/lscript.ld -LC:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_btn_intr_uart_hw/export/Mblaze_btn_intr_uart_hw/sw/Mblaze_btn_intr_uart_hw/standalone_domain/bsplib/lib -mlittle-endian -mxl-barrel-shift -mxl-pattern-compare -mcpu=v11.0 -mno-xl-soft-mul -Wl,--no-relax -Wl,--gc-sections -o "Mblaze_btn_intr_app.elf"  ./src/helloworld.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: Mblaze_btn_intr_app.elf'
+' '
+'Invoking: MicroBlaze Print Size'
+mb-size Mblaze_btn_intr_app.elf  |tee "Mblaze_btn_intr_app.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  12252	    720	   3356	  16328	   3fc8	Mblaze_btn_intr_app.elf
+'Finished building: Mblaze_btn_intr_app.elf.size'
+' '
+
+14:03:12 Build Finished (took 1s.112ms)
+

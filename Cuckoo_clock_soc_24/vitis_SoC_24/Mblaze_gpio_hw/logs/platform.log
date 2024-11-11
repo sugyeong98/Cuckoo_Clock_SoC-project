@@ -1,0 +1,1024 @@
+TRACE::2024-10-23.15:08:42::SCWPlatform::Trying to open the hw design at C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/hw/micro_blaze_gpio_wrapper.xsa
+TRACE::2024-10-23.15:08:42::SCWPlatform::DSA given C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/hw/micro_blaze_gpio_wrapper.xsa
+TRACE::2024-10-23.15:08:42::SCWPlatform::DSA absoulate path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/hw/micro_blaze_gpio_wrapper.xsa
+TRACE::2024-10-23.15:08:46::SCWPlatform::DSA directory C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/hw
+TRACE::2024-10-23.15:08:46::SCWPlatform:: Platform Path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/hw/micro_blaze_gpio_wrapper.xsa
+TRACE::2024-10-23.15:08:46::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2024-10-23.15:08:46::SCWPlatform::Do not have an existing db opened. 
+TRACE::2024-10-23.15:08:46::SCWPlatform::Opened new HwDB with name micro_blaze_gpio_wrapper_0
+TRACE::2024-10-23.15:08:46::SCWWriter::formatted JSON is {
+	"platformName":	"Mblaze_gpio_hw",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"Mblaze_gpio_hw",
+	"platHandOff":	"C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/micro_blaze_gpio_wrapper.xsa",
+	"platIntHandOff":	"<platformDir>/hw/micro_blaze_gpio_wrapper.xsa",
+	"deviceType":	"FPGA",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	""
+}
+TRACE::2024-10-23.15:08:46::SCWWriter::formatted JSON is {
+	"platformName":	"Mblaze_gpio_hw",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"Mblaze_gpio_hw",
+	"platHandOff":	"C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/micro_blaze_gpio_wrapper.xsa",
+	"platIntHandOff":	"<platformDir>/hw/micro_blaze_gpio_wrapper.xsa",
+	"deviceType":	"FPGA",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"Mblaze_gpio_hw",
+	"systems":	[{
+			"systemName":	"Mblaze_gpio_hw",
+			"systemDesc":	"Mblaze_gpio_hw",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"Mblaze_gpio_hw"
+		}]
+}
+TRACE::2024-10-23.15:08:46::SCWPlatform::Boot application domains not present, creating them
+TRACE::2024-10-23.15:08:46::SCWPlatform::Pure FPGA device, no boot application will be created.
+TRACE::2024-10-23.15:08:46::SCWWriter::formatted JSON is {
+	"platformName":	"Mblaze_gpio_hw",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"Mblaze_gpio_hw",
+	"platHandOff":	"C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/micro_blaze_gpio_wrapper.xsa",
+	"platIntHandOff":	"<platformDir>/hw/micro_blaze_gpio_wrapper.xsa",
+	"deviceType":	"FPGA",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"Mblaze_gpio_hw",
+	"systems":	[{
+			"systemName":	"Mblaze_gpio_hw",
+			"systemDesc":	"Mblaze_gpio_hw",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"Mblaze_gpio_hw"
+		}]
+}
+TRACE::2024-10-23.15:08:46::SCWPlatform::Trying to open the hw design at C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/hw/micro_blaze_gpio_wrapper.xsa
+TRACE::2024-10-23.15:08:46::SCWPlatform::DSA given C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/hw/micro_blaze_gpio_wrapper.xsa
+TRACE::2024-10-23.15:08:46::SCWPlatform::DSA absoulate path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/hw/micro_blaze_gpio_wrapper.xsa
+TRACE::2024-10-23.15:08:46::SCWPlatform::DSA directory C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/hw
+TRACE::2024-10-23.15:08:46::SCWPlatform:: Platform Path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/hw/micro_blaze_gpio_wrapper.xsa
+TRACE::2024-10-23.15:08:46::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2024-10-23.15:08:46::SCWPlatform::Trying to set the existing hwdb with name micro_blaze_gpio_wrapper_0
+TRACE::2024-10-23.15:08:46::SCWPlatform::Opened existing hwdb micro_blaze_gpio_wrapper_0
+TRACE::2024-10-23.15:08:46::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-10-23.15:08:46::SCWDomain::checking for install qemu data   : 
+TRACE::2024-10-23.15:08:46::SCWPlatform::Trying to open the hw design at C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/hw/micro_blaze_gpio_wrapper.xsa
+TRACE::2024-10-23.15:08:46::SCWPlatform::DSA given C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/hw/micro_blaze_gpio_wrapper.xsa
+TRACE::2024-10-23.15:08:46::SCWPlatform::DSA absoulate path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/hw/micro_blaze_gpio_wrapper.xsa
+TRACE::2024-10-23.15:08:46::SCWPlatform::DSA directory C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/hw
+TRACE::2024-10-23.15:08:46::SCWPlatform:: Platform Path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/hw/micro_blaze_gpio_wrapper.xsa
+TRACE::2024-10-23.15:08:46::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2024-10-23.15:08:46::SCWPlatform::Trying to set the existing hwdb with name micro_blaze_gpio_wrapper_0
+TRACE::2024-10-23.15:08:46::SCWPlatform::Opened existing hwdb micro_blaze_gpio_wrapper_0
+TRACE::2024-10-23.15:08:46::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-10-23.15:08:46::SCWPlatform::Trying to open the hw design at C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/hw/micro_blaze_gpio_wrapper.xsa
+TRACE::2024-10-23.15:08:46::SCWPlatform::DSA given C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/hw/micro_blaze_gpio_wrapper.xsa
+TRACE::2024-10-23.15:08:46::SCWPlatform::DSA absoulate path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/hw/micro_blaze_gpio_wrapper.xsa
+TRACE::2024-10-23.15:08:46::SCWPlatform::DSA directory C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/hw
+TRACE::2024-10-23.15:08:46::SCWPlatform:: Platform Path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/hw/micro_blaze_gpio_wrapper.xsa
+TRACE::2024-10-23.15:08:46::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2024-10-23.15:08:46::SCWPlatform::Trying to set the existing hwdb with name micro_blaze_gpio_wrapper_0
+TRACE::2024-10-23.15:08:46::SCWPlatform::Opened existing hwdb micro_blaze_gpio_wrapper_0
+TRACE::2024-10-23.15:08:46::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-10-23.15:08:46::SCWMssOS::Checking the sw design at  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-10-23.15:08:46::SCWMssOS::DEBUG:  swdes dump  
+TRACE::2024-10-23.15:08:46::SCWMssOS::No sw design opened at  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-10-23.15:08:46::SCWMssOS::mss does not exists at C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-10-23.15:08:46::SCWMssOS::Creating sw design at  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-10-23.15:08:46::SCWMssOS::Adding the swdes entry, created swdb C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/microblaze_0/standalone_domain/bsp/system.mss with des name C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-10-23.15:08:46::SCWMssOS::updating the scw layer changes to swdes at   C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-10-23.15:08:46::SCWMssOS::Writing mss at C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-10-23.15:08:46::SCWMssOS::Completed writing the mss file at C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/microblaze_0/standalone_domain/bsp
+TRACE::2024-10-23.15:08:46::SCWMssOS::Picking up changes from newly written mss file into SCW Layer. 
+TRACE::2024-10-23.15:08:46::SCWMssOS::Updated the changes from newly written mss file into SCW Layer. 
+TRACE::2024-10-23.15:08:46::SCWPlatform::Trying to open the hw design at C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/hw/micro_blaze_gpio_wrapper.xsa
+TRACE::2024-10-23.15:08:46::SCWPlatform::DSA given C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/hw/micro_blaze_gpio_wrapper.xsa
+TRACE::2024-10-23.15:08:46::SCWPlatform::DSA absoulate path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/hw/micro_blaze_gpio_wrapper.xsa
+TRACE::2024-10-23.15:08:46::SCWPlatform::DSA directory C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/hw
+TRACE::2024-10-23.15:08:46::SCWPlatform:: Platform Path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/hw/micro_blaze_gpio_wrapper.xsa
+TRACE::2024-10-23.15:08:46::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2024-10-23.15:08:46::SCWPlatform::Trying to set the existing hwdb with name micro_blaze_gpio_wrapper_0
+TRACE::2024-10-23.15:08:46::SCWPlatform::Opened existing hwdb micro_blaze_gpio_wrapper_0
+TRACE::2024-10-23.15:08:46::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-10-23.15:08:46::SCWMssOS::Checking the sw design at  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-10-23.15:08:46::SCWMssOS::DEBUG:  swdes dump  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/microblaze_0/standalone_domain/bsp/system.mss|C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/microblaze_0/standalone_domain/bsp/system.mss||
+
+TRACE::2024-10-23.15:08:46::SCWMssOS::Sw design exists and opened at  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-10-23.15:08:46::SCWPlatform::Trying to open the hw design at C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/hw/micro_blaze_gpio_wrapper.xsa
+TRACE::2024-10-23.15:08:46::SCWPlatform::DSA given C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/hw/micro_blaze_gpio_wrapper.xsa
+TRACE::2024-10-23.15:08:46::SCWPlatform::DSA absoulate path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/hw/micro_blaze_gpio_wrapper.xsa
+TRACE::2024-10-23.15:08:46::SCWPlatform::DSA directory C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/hw
+TRACE::2024-10-23.15:08:46::SCWPlatform:: Platform Path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/hw/micro_blaze_gpio_wrapper.xsa
+TRACE::2024-10-23.15:08:46::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2024-10-23.15:08:46::SCWPlatform::Trying to set the existing hwdb with name micro_blaze_gpio_wrapper_0
+TRACE::2024-10-23.15:08:46::SCWPlatform::Opened existing hwdb micro_blaze_gpio_wrapper_0
+TRACE::2024-10-23.15:08:46::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-10-23.15:08:46::SCWMssOS::Checking the sw design at  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-10-23.15:08:46::SCWMssOS::DEBUG:  swdes dump  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/microblaze_0/standalone_domain/bsp/system.mss|C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/microblaze_0/standalone_domain/bsp/system.mss||
+
+TRACE::2024-10-23.15:08:46::SCWMssOS::Sw design exists and opened at  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-10-23.15:08:46::SCWPlatform::Trying to open the hw design at C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/hw/micro_blaze_gpio_wrapper.xsa
+TRACE::2024-10-23.15:08:46::SCWPlatform::DSA given C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/hw/micro_blaze_gpio_wrapper.xsa
+TRACE::2024-10-23.15:08:46::SCWPlatform::DSA absoulate path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/hw/micro_blaze_gpio_wrapper.xsa
+TRACE::2024-10-23.15:08:46::SCWPlatform::DSA directory C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/hw
+TRACE::2024-10-23.15:08:46::SCWPlatform:: Platform Path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/hw/micro_blaze_gpio_wrapper.xsa
+TRACE::2024-10-23.15:08:46::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2024-10-23.15:08:46::SCWPlatform::Trying to set the existing hwdb with name micro_blaze_gpio_wrapper_0
+TRACE::2024-10-23.15:08:46::SCWPlatform::Opened existing hwdb micro_blaze_gpio_wrapper_0
+TRACE::2024-10-23.15:08:47::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-10-23.15:08:47::SCWMssOS::Checking the sw design at  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-10-23.15:08:47::SCWMssOS::DEBUG:  swdes dump  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/microblaze_0/standalone_domain/bsp/system.mss|C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/microblaze_0/standalone_domain/bsp/system.mss||
+
+TRACE::2024-10-23.15:08:47::SCWMssOS::Sw design exists and opened at  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-10-23.15:08:47::SCWWriter::formatted JSON is {
+	"platformName":	"Mblaze_gpio_hw",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"Mblaze_gpio_hw",
+	"platHandOff":	"C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/micro_blaze_gpio_wrapper.xsa",
+	"platIntHandOff":	"<platformDir>/hw/micro_blaze_gpio_wrapper.xsa",
+	"deviceType":	"FPGA",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"Mblaze_gpio_hw",
+	"systems":	[{
+			"systemName":	"Mblaze_gpio_hw",
+			"systemDesc":	"Mblaze_gpio_hw",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"Mblaze_gpio_hw",
+			"sysActiveDom":	"standalone_domain",
+			"sysDefaultDom":	"standalone_domain",
+			"domains":	[{
+					"domainName":	"standalone_domain",
+					"domainDispName":	"standalone_domain",
+					"domainDesc":	"standalone_domain",
+					"processors":	"microblaze_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"7.1",
+					"mssFile":	"",
+					"md5Digest":	"",
+					"compatibleApp":	"",
+					"domType":	"mssDomain",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	[],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+TRACE::2024-10-23.15:08:47::SCWPlatform::Trying to open the hw design at C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/hw/micro_blaze_gpio_wrapper.xsa
+TRACE::2024-10-23.15:08:47::SCWPlatform::DSA given C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/hw/micro_blaze_gpio_wrapper.xsa
+TRACE::2024-10-23.15:08:47::SCWPlatform::DSA absoulate path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/hw/micro_blaze_gpio_wrapper.xsa
+TRACE::2024-10-23.15:08:47::SCWPlatform::DSA directory C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/hw
+TRACE::2024-10-23.15:08:47::SCWPlatform:: Platform Path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/hw/micro_blaze_gpio_wrapper.xsa
+TRACE::2024-10-23.15:08:47::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2024-10-23.15:08:47::SCWPlatform::Trying to set the existing hwdb with name micro_blaze_gpio_wrapper_0
+TRACE::2024-10-23.15:08:47::SCWPlatform::Opened existing hwdb micro_blaze_gpio_wrapper_0
+TRACE::2024-10-23.15:08:47::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-10-23.15:08:47::SCWMssOS::Checking the sw design at  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-10-23.15:08:47::SCWMssOS::DEBUG:  swdes dump  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/microblaze_0/standalone_domain/bsp/system.mss|C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/microblaze_0/standalone_domain/bsp/system.mss||
+
+TRACE::2024-10-23.15:08:47::SCWMssOS::Sw design exists and opened at  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-10-23.15:08:47::SCWMssOS::Completed writing the mss file at C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/microblaze_0/standalone_domain/bsp
+TRACE::2024-10-23.15:08:47::SCWMssOS::Forcing BSP Sources regeneration.
+LOG::2024-10-23.15:08:49::SCWPlatform::Started generating the artifacts platform Mblaze_gpio_hw
+TRACE::2024-10-23.15:08:49::SCWPlatform::Sanity checking of platform is completed
+LOG::2024-10-23.15:08:49::SCWPlatform::Started generating the artifacts for system configuration Mblaze_gpio_hw
+LOG::2024-10-23.15:08:49::SCWSystem::Checking the domain standalone_domain
+LOG::2024-10-23.15:08:49::SCWSystem::Not a boot domain 
+LOG::2024-10-23.15:08:49::SCWSystem::Started Processing the domain standalone_domain
+TRACE::2024-10-23.15:08:49::SCWDomain::Generating domain artifcats
+TRACE::2024-10-23.15:08:49::SCWMssOS::Generating standalone artifcats
+TRACE::2024-10-23.15:08:49::SCWMssOS:: Copying the user libraries. 
+TRACE::2024-10-23.15:08:49::SCWPlatform::Trying to open the hw design at C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/hw/micro_blaze_gpio_wrapper.xsa
+TRACE::2024-10-23.15:08:49::SCWPlatform::DSA given C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/hw/micro_blaze_gpio_wrapper.xsa
+TRACE::2024-10-23.15:08:49::SCWPlatform::DSA absoulate path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/hw/micro_blaze_gpio_wrapper.xsa
+TRACE::2024-10-23.15:08:49::SCWPlatform::DSA directory C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/hw
+TRACE::2024-10-23.15:08:49::SCWPlatform:: Platform Path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/hw/micro_blaze_gpio_wrapper.xsa
+TRACE::2024-10-23.15:08:49::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2024-10-23.15:08:49::SCWPlatform::Trying to set the existing hwdb with name micro_blaze_gpio_wrapper_0
+TRACE::2024-10-23.15:08:49::SCWPlatform::Opened existing hwdb micro_blaze_gpio_wrapper_0
+TRACE::2024-10-23.15:08:49::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-10-23.15:08:49::SCWMssOS::Checking the sw design at  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-10-23.15:08:49::SCWMssOS::DEBUG:  swdes dump  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/microblaze_0/standalone_domain/bsp/system.mss|C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/microblaze_0/standalone_domain/bsp/system.mss||
+
+KEYINFO::2024-10-23.15:08:49::SCWMssOS::Could not open the swdb for C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/microblaze_0/standalone_domain/bsp/system.mss
+KEYINFO::2024-10-23.15:08:49::SCWMssOS::Could not open the sw design at  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/microblaze_0/standalone_domain/bsp/system.mss
+ERROR: [Hsi 55-1558] Software Design C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/microblaze_0/standalone_domain/bsp/system.mss is not found
+
+TRACE::2024-10-23.15:08:49::SCWMssOS::Cleared the swdb table entry
+TRACE::2024-10-23.15:08:49::SCWMssOS::No sw design opened at  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-10-23.15:08:49::SCWMssOS::mss exists loading the mss file  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-10-23.15:08:49::SCWMssOS::Opened the sw design from mss  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-10-23.15:08:49::SCWMssOS::Adding the swdes entry C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/microblaze_0/standalone_domain/bsp/system.mss with des name system
+TRACE::2024-10-23.15:08:49::SCWMssOS::updating the scw layer about changes
+TRACE::2024-10-23.15:08:49::SCWMssOS::Opened the sw design.  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-10-23.15:08:49::SCWMssOS::Completed writing the mss file at C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/microblaze_0/standalone_domain/bsp
+TRACE::2024-10-23.15:08:49::SCWMssOS::Mss edits present, copying mssfile into export location C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-10-23.15:08:49::SCWMssOS::bsp generated is upto date with the mss file. Skipping bsp generation.
+TRACE::2024-10-23.15:08:49::SCWMssOS::BSP is already built. skipping the bsp build ... 
+TRACE::2024-10-23.15:08:49::SCWDomain::Skipping the build for domain :  standalone_domain
+TRACE::2024-10-23.15:08:49::SCWMssOS::skipping the bsp build ... 
+TRACE::2024-10-23.15:08:49::SCWMssOS::Copying to export directory.
+TRACE::2024-10-23.15:08:49::SCWMssOS:: Checking if to create the Supporting Applications
+TRACE::2024-10-23.15:08:49::SCWMssOS:: No Linux domain exists, trying to generate FSBL 
+LOG::2024-10-23.15:08:49::SCWSystem::Completed Processing the domain standalone_domain
+LOG::2024-10-23.15:08:49::SCWSystem::Completed Processing the sysconfig Mblaze_gpio_hw
+LOG::2024-10-23.15:08:49::SCWPlatform::Completed generating the artifacts for system configuration Mblaze_gpio_hw
+TRACE::2024-10-23.15:08:49::SCWPlatform::Started preparing the platform 
+TRACE::2024-10-23.15:08:49::SCWSystem::Writing the bif file for system config Mblaze_gpio_hw
+TRACE::2024-10-23.15:08:49::SCWSystem::dir created 
+TRACE::2024-10-23.15:08:49::SCWSystem::Writing the bif 
+TRACE::2024-10-23.15:08:49::SCWPlatform::Started writing the spfm file 
+TRACE::2024-10-23.15:08:49::SCWPlatform::Started writing the xpfm file 
+TRACE::2024-10-23.15:08:49::SCWPlatform::Completed generating the platform
+TRACE::2024-10-23.15:08:49::SCWPlatform::Trying to open the hw design at C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/hw/micro_blaze_gpio_wrapper.xsa
+TRACE::2024-10-23.15:08:49::SCWPlatform::DSA given C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/hw/micro_blaze_gpio_wrapper.xsa
+TRACE::2024-10-23.15:08:49::SCWPlatform::DSA absoulate path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/hw/micro_blaze_gpio_wrapper.xsa
+TRACE::2024-10-23.15:08:49::SCWPlatform::DSA directory C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/hw
+TRACE::2024-10-23.15:08:49::SCWPlatform:: Platform Path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/hw/micro_blaze_gpio_wrapper.xsa
+TRACE::2024-10-23.15:08:49::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2024-10-23.15:08:49::SCWPlatform::Trying to set the existing hwdb with name micro_blaze_gpio_wrapper_0
+TRACE::2024-10-23.15:08:49::SCWPlatform::Opened existing hwdb micro_blaze_gpio_wrapper_0
+TRACE::2024-10-23.15:08:49::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-10-23.15:08:49::SCWMssOS::Checking the sw design at  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-10-23.15:08:49::SCWMssOS::DEBUG:  swdes dump  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2024-10-23.15:08:49::SCWMssOS::Sw design exists and opened at  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-10-23.15:08:49::SCWPlatform::Trying to open the hw design at C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/hw/micro_blaze_gpio_wrapper.xsa
+TRACE::2024-10-23.15:08:49::SCWPlatform::DSA given C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/hw/micro_blaze_gpio_wrapper.xsa
+TRACE::2024-10-23.15:08:49::SCWPlatform::DSA absoulate path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/hw/micro_blaze_gpio_wrapper.xsa
+TRACE::2024-10-23.15:08:49::SCWPlatform::DSA directory C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/hw
+TRACE::2024-10-23.15:08:49::SCWPlatform:: Platform Path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/hw/micro_blaze_gpio_wrapper.xsa
+TRACE::2024-10-23.15:08:49::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2024-10-23.15:08:49::SCWPlatform::Trying to set the existing hwdb with name micro_blaze_gpio_wrapper_0
+TRACE::2024-10-23.15:08:49::SCWPlatform::Opened existing hwdb micro_blaze_gpio_wrapper_0
+TRACE::2024-10-23.15:08:49::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-10-23.15:08:49::SCWMssOS::Checking the sw design at  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-10-23.15:08:49::SCWMssOS::DEBUG:  swdes dump  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2024-10-23.15:08:49::SCWMssOS::Sw design exists and opened at  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-10-23.15:08:49::SCWPlatform::Trying to open the hw design at C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/hw/micro_blaze_gpio_wrapper.xsa
+TRACE::2024-10-23.15:08:49::SCWPlatform::DSA given C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/hw/micro_blaze_gpio_wrapper.xsa
+TRACE::2024-10-23.15:08:49::SCWPlatform::DSA absoulate path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/hw/micro_blaze_gpio_wrapper.xsa
+TRACE::2024-10-23.15:08:49::SCWPlatform::DSA directory C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/hw
+TRACE::2024-10-23.15:08:49::SCWPlatform:: Platform Path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/hw/micro_blaze_gpio_wrapper.xsa
+TRACE::2024-10-23.15:08:49::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2024-10-23.15:08:49::SCWPlatform::Trying to set the existing hwdb with name micro_blaze_gpio_wrapper_0
+TRACE::2024-10-23.15:08:49::SCWPlatform::Opened existing hwdb micro_blaze_gpio_wrapper_0
+TRACE::2024-10-23.15:08:49::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-10-23.15:08:49::SCWMssOS::Checking the sw design at  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-10-23.15:08:49::SCWMssOS::DEBUG:  swdes dump  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2024-10-23.15:08:49::SCWMssOS::Sw design exists and opened at  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-10-23.15:08:49::SCWWriter::formatted JSON is {
+	"platformName":	"Mblaze_gpio_hw",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"Mblaze_gpio_hw",
+	"platHandOff":	"C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/micro_blaze_gpio_wrapper.xsa",
+	"platIntHandOff":	"<platformDir>/hw/micro_blaze_gpio_wrapper.xsa",
+	"deviceType":	"FPGA",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"Mblaze_gpio_hw",
+	"systems":	[{
+			"systemName":	"Mblaze_gpio_hw",
+			"systemDesc":	"Mblaze_gpio_hw",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"Mblaze_gpio_hw",
+			"sysActiveDom":	"standalone_domain",
+			"sysDefaultDom":	"standalone_domain",
+			"domains":	[{
+					"domainName":	"standalone_domain",
+					"domainDispName":	"standalone_domain",
+					"domainDesc":	"standalone_domain",
+					"processors":	"microblaze_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"7.1",
+					"mssFile":	"",
+					"md5Digest":	"e80d70a127e3045d5544f933fd58447f",
+					"compatibleApp":	"",
+					"domType":	"mssDomain",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	[],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+KEYINFO::2024-10-23.15:08:49::SCWPlatform::updated the xpfm file.
+TRACE::2024-10-23.15:08:50::SCWPlatform::Trying to open the hw design at C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/hw/micro_blaze_gpio_wrapper.xsa
+TRACE::2024-10-23.15:08:50::SCWPlatform::DSA given C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/hw/micro_blaze_gpio_wrapper.xsa
+TRACE::2024-10-23.15:08:50::SCWPlatform::DSA absoulate path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/hw/micro_blaze_gpio_wrapper.xsa
+TRACE::2024-10-23.15:08:50::SCWPlatform::DSA directory C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/hw
+TRACE::2024-10-23.15:08:50::SCWPlatform:: Platform Path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/hw/micro_blaze_gpio_wrapper.xsa
+TRACE::2024-10-23.15:08:50::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2024-10-23.15:08:50::SCWPlatform::Trying to set the existing hwdb with name micro_blaze_gpio_wrapper_0
+TRACE::2024-10-23.15:08:50::SCWPlatform::Opened existing hwdb micro_blaze_gpio_wrapper_0
+TRACE::2024-10-23.15:08:50::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-10-23.15:08:50::SCWMssOS::Checking the sw design at  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-10-23.15:08:50::SCWMssOS::DEBUG:  swdes dump  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2024-10-23.15:08:50::SCWMssOS::Sw design exists and opened at  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-10-23.15:08:50::SCWPlatform::Trying to open the hw design at C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/hw/micro_blaze_gpio_wrapper.xsa
+TRACE::2024-10-23.15:08:50::SCWPlatform::DSA given C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/hw/micro_blaze_gpio_wrapper.xsa
+TRACE::2024-10-23.15:08:50::SCWPlatform::DSA absoulate path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/hw/micro_blaze_gpio_wrapper.xsa
+TRACE::2024-10-23.15:08:50::SCWPlatform::DSA directory C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/hw
+TRACE::2024-10-23.15:08:50::SCWPlatform:: Platform Path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/hw/micro_blaze_gpio_wrapper.xsa
+TRACE::2024-10-23.15:08:50::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2024-10-23.15:08:50::SCWPlatform::Trying to set the existing hwdb with name micro_blaze_gpio_wrapper_0
+TRACE::2024-10-23.15:08:50::SCWPlatform::Opened existing hwdb micro_blaze_gpio_wrapper_0
+TRACE::2024-10-23.15:08:50::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-10-23.15:08:50::SCWMssOS::Checking the sw design at  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-10-23.15:08:50::SCWMssOS::DEBUG:  swdes dump  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2024-10-23.15:08:50::SCWMssOS::Sw design exists and opened at  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-10-23.15:08:50::SCWPlatform::Trying to open the hw design at C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/hw/micro_blaze_gpio_wrapper.xsa
+TRACE::2024-10-23.15:08:50::SCWPlatform::DSA given C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/hw/micro_blaze_gpio_wrapper.xsa
+TRACE::2024-10-23.15:08:50::SCWPlatform::DSA absoulate path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/hw/micro_blaze_gpio_wrapper.xsa
+TRACE::2024-10-23.15:08:50::SCWPlatform::DSA directory C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/hw
+TRACE::2024-10-23.15:08:50::SCWPlatform:: Platform Path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/hw/micro_blaze_gpio_wrapper.xsa
+TRACE::2024-10-23.15:08:50::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2024-10-23.15:08:50::SCWPlatform::Trying to set the existing hwdb with name micro_blaze_gpio_wrapper_0
+TRACE::2024-10-23.15:08:50::SCWPlatform::Opened existing hwdb micro_blaze_gpio_wrapper_0
+TRACE::2024-10-23.15:08:50::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-10-23.15:08:50::SCWMssOS::Checking the sw design at  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-10-23.15:08:50::SCWMssOS::DEBUG:  swdes dump  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2024-10-23.15:08:50::SCWMssOS::Sw design exists and opened at  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-10-23.15:08:50::SCWPlatform::Trying to open the hw design at C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/hw/micro_blaze_gpio_wrapper.xsa
+TRACE::2024-10-23.15:08:50::SCWPlatform::DSA given C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/hw/micro_blaze_gpio_wrapper.xsa
+TRACE::2024-10-23.15:08:50::SCWPlatform::DSA absoulate path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/hw/micro_blaze_gpio_wrapper.xsa
+TRACE::2024-10-23.15:08:50::SCWPlatform::DSA directory C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/hw
+TRACE::2024-10-23.15:08:50::SCWPlatform:: Platform Path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/hw/micro_blaze_gpio_wrapper.xsa
+TRACE::2024-10-23.15:08:50::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2024-10-23.15:08:50::SCWPlatform::Trying to set the existing hwdb with name micro_blaze_gpio_wrapper_0
+TRACE::2024-10-23.15:08:50::SCWPlatform::Opened existing hwdb micro_blaze_gpio_wrapper_0
+TRACE::2024-10-23.15:08:50::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-10-23.15:08:50::SCWMssOS::Checking the sw design at  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-10-23.15:08:50::SCWMssOS::DEBUG:  swdes dump  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2024-10-23.15:08:50::SCWMssOS::Sw design exists and opened at  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-10-23.15:08:50::SCWWriter::formatted JSON is {
+	"platformName":	"Mblaze_gpio_hw",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"Mblaze_gpio_hw",
+	"platHandOff":	"C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/micro_blaze_gpio_wrapper.xsa",
+	"platIntHandOff":	"<platformDir>/hw/micro_blaze_gpio_wrapper.xsa",
+	"deviceType":	"FPGA",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"Mblaze_gpio_hw",
+	"systems":	[{
+			"systemName":	"Mblaze_gpio_hw",
+			"systemDesc":	"Mblaze_gpio_hw",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"Mblaze_gpio_hw",
+			"sysActiveDom":	"standalone_domain",
+			"sysDefaultDom":	"standalone_domain",
+			"domains":	[{
+					"domainName":	"standalone_domain",
+					"domainDispName":	"standalone_domain",
+					"domainDesc":	"standalone_domain",
+					"processors":	"microblaze_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"7.1",
+					"mssFile":	"",
+					"md5Digest":	"e80d70a127e3045d5544f933fd58447f",
+					"compatibleApp":	"",
+					"domType":	"mssDomain",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	[],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+TRACE::2024-10-23.15:08:50::SCWPlatform::Trying to open the hw design at C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/hw/micro_blaze_gpio_wrapper.xsa
+TRACE::2024-10-23.15:08:50::SCWPlatform::DSA given C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/hw/micro_blaze_gpio_wrapper.xsa
+TRACE::2024-10-23.15:08:50::SCWPlatform::DSA absoulate path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/hw/micro_blaze_gpio_wrapper.xsa
+TRACE::2024-10-23.15:08:50::SCWPlatform::DSA directory C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/hw
+TRACE::2024-10-23.15:08:50::SCWPlatform:: Platform Path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/hw/micro_blaze_gpio_wrapper.xsa
+TRACE::2024-10-23.15:08:50::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2024-10-23.15:08:50::SCWPlatform::Trying to set the existing hwdb with name micro_blaze_gpio_wrapper_0
+TRACE::2024-10-23.15:08:50::SCWPlatform::Opened existing hwdb micro_blaze_gpio_wrapper_0
+TRACE::2024-10-23.15:08:50::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-10-23.15:08:50::SCWMssOS::Checking the sw design at  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-10-23.15:08:50::SCWMssOS::DEBUG:  swdes dump  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2024-10-23.15:08:50::SCWMssOS::Sw design exists and opened at  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-10-23.15:08:50::SCWPlatform::Trying to open the hw design at C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/hw/micro_blaze_gpio_wrapper.xsa
+TRACE::2024-10-23.15:08:50::SCWPlatform::DSA given C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/hw/micro_blaze_gpio_wrapper.xsa
+TRACE::2024-10-23.15:08:50::SCWPlatform::DSA absoulate path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/hw/micro_blaze_gpio_wrapper.xsa
+TRACE::2024-10-23.15:08:50::SCWPlatform::DSA directory C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/hw
+TRACE::2024-10-23.15:08:50::SCWPlatform:: Platform Path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/hw/micro_blaze_gpio_wrapper.xsa
+TRACE::2024-10-23.15:08:50::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2024-10-23.15:08:50::SCWPlatform::Trying to set the existing hwdb with name micro_blaze_gpio_wrapper_0
+TRACE::2024-10-23.15:08:50::SCWPlatform::Opened existing hwdb micro_blaze_gpio_wrapper_0
+TRACE::2024-10-23.15:08:50::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-10-23.15:08:50::SCWMssOS::Checking the sw design at  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-10-23.15:08:50::SCWMssOS::DEBUG:  swdes dump  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2024-10-23.15:08:50::SCWMssOS::Sw design exists and opened at  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-10-23.15:08:50::SCWPlatform::Trying to open the hw design at C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/hw/micro_blaze_gpio_wrapper.xsa
+TRACE::2024-10-23.15:08:50::SCWPlatform::DSA given C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/hw/micro_blaze_gpio_wrapper.xsa
+TRACE::2024-10-23.15:08:50::SCWPlatform::DSA absoulate path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/hw/micro_blaze_gpio_wrapper.xsa
+TRACE::2024-10-23.15:08:50::SCWPlatform::DSA directory C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/hw
+TRACE::2024-10-23.15:08:50::SCWPlatform:: Platform Path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/hw/micro_blaze_gpio_wrapper.xsa
+TRACE::2024-10-23.15:08:50::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2024-10-23.15:08:50::SCWPlatform::Trying to set the existing hwdb with name micro_blaze_gpio_wrapper_0
+TRACE::2024-10-23.15:08:50::SCWPlatform::Opened existing hwdb micro_blaze_gpio_wrapper_0
+TRACE::2024-10-23.15:08:50::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-10-23.15:08:50::SCWMssOS::Checking the sw design at  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-10-23.15:08:50::SCWMssOS::DEBUG:  swdes dump  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2024-10-23.15:08:50::SCWMssOS::Sw design exists and opened at  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-10-23.15:08:50::SCWPlatform::Trying to open the hw design at C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/hw/micro_blaze_gpio_wrapper.xsa
+TRACE::2024-10-23.15:08:50::SCWPlatform::DSA given C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/hw/micro_blaze_gpio_wrapper.xsa
+TRACE::2024-10-23.15:08:50::SCWPlatform::DSA absoulate path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/hw/micro_blaze_gpio_wrapper.xsa
+TRACE::2024-10-23.15:08:50::SCWPlatform::DSA directory C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/hw
+TRACE::2024-10-23.15:08:50::SCWPlatform:: Platform Path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/hw/micro_blaze_gpio_wrapper.xsa
+TRACE::2024-10-23.15:08:50::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2024-10-23.15:08:50::SCWPlatform::Trying to set the existing hwdb with name micro_blaze_gpio_wrapper_0
+TRACE::2024-10-23.15:08:50::SCWPlatform::Opened existing hwdb micro_blaze_gpio_wrapper_0
+TRACE::2024-10-23.15:08:50::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-10-23.15:08:50::SCWMssOS::Checking the sw design at  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-10-23.15:08:50::SCWMssOS::DEBUG:  swdes dump  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2024-10-23.15:08:50::SCWMssOS::Sw design exists and opened at  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-10-23.15:08:50::SCWPlatform::Trying to open the hw design at C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/hw/micro_blaze_gpio_wrapper.xsa
+TRACE::2024-10-23.15:08:50::SCWPlatform::DSA given C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/hw/micro_blaze_gpio_wrapper.xsa
+TRACE::2024-10-23.15:08:50::SCWPlatform::DSA absoulate path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/hw/micro_blaze_gpio_wrapper.xsa
+TRACE::2024-10-23.15:08:50::SCWPlatform::DSA directory C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/hw
+TRACE::2024-10-23.15:08:50::SCWPlatform:: Platform Path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/hw/micro_blaze_gpio_wrapper.xsa
+TRACE::2024-10-23.15:08:50::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2024-10-23.15:08:50::SCWPlatform::Trying to set the existing hwdb with name micro_blaze_gpio_wrapper_0
+TRACE::2024-10-23.15:08:50::SCWPlatform::Opened existing hwdb micro_blaze_gpio_wrapper_0
+TRACE::2024-10-23.15:08:50::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-10-23.15:08:50::SCWMssOS::Checking the sw design at  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-10-23.15:08:50::SCWMssOS::DEBUG:  swdes dump  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2024-10-23.15:08:50::SCWMssOS::Sw design exists and opened at  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-10-23.15:08:50::SCWPlatform::Trying to open the hw design at C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/hw/micro_blaze_gpio_wrapper.xsa
+TRACE::2024-10-23.15:08:50::SCWPlatform::DSA given C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/hw/micro_blaze_gpio_wrapper.xsa
+TRACE::2024-10-23.15:08:50::SCWPlatform::DSA absoulate path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/hw/micro_blaze_gpio_wrapper.xsa
+TRACE::2024-10-23.15:08:50::SCWPlatform::DSA directory C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/hw
+TRACE::2024-10-23.15:08:50::SCWPlatform:: Platform Path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/hw/micro_blaze_gpio_wrapper.xsa
+TRACE::2024-10-23.15:08:50::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2024-10-23.15:08:50::SCWPlatform::Trying to set the existing hwdb with name micro_blaze_gpio_wrapper_0
+TRACE::2024-10-23.15:08:50::SCWPlatform::Opened existing hwdb micro_blaze_gpio_wrapper_0
+TRACE::2024-10-23.15:08:50::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-10-23.15:08:50::SCWMssOS::Checking the sw design at  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-10-23.15:08:50::SCWMssOS::DEBUG:  swdes dump  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2024-10-23.15:08:50::SCWMssOS::Sw design exists and opened at  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-10-23.15:08:50::SCWWriter::formatted JSON is {
+	"platformName":	"Mblaze_gpio_hw",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"Mblaze_gpio_hw",
+	"platHandOff":	"C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/micro_blaze_gpio_wrapper.xsa",
+	"platIntHandOff":	"<platformDir>/hw/micro_blaze_gpio_wrapper.xsa",
+	"deviceType":	"FPGA",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"Mblaze_gpio_hw",
+	"systems":	[{
+			"systemName":	"Mblaze_gpio_hw",
+			"systemDesc":	"Mblaze_gpio_hw",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"Mblaze_gpio_hw",
+			"sysActiveDom":	"standalone_domain",
+			"sysDefaultDom":	"standalone_domain",
+			"domains":	[{
+					"domainName":	"standalone_domain",
+					"domainDispName":	"standalone on microblaze_0",
+					"domainDesc":	"standalone_domain",
+					"processors":	"microblaze_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"7.1",
+					"mssFile":	"",
+					"md5Digest":	"e80d70a127e3045d5544f933fd58447f",
+					"compatibleApp":	"",
+					"domType":	"mssDomain",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	[],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+TRACE::2024-10-23.15:08:50::SCWPlatform::Trying to open the hw design at C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/hw/micro_blaze_gpio_wrapper.xsa
+TRACE::2024-10-23.15:08:50::SCWPlatform::DSA given C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/hw/micro_blaze_gpio_wrapper.xsa
+TRACE::2024-10-23.15:08:50::SCWPlatform::DSA absoulate path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/hw/micro_blaze_gpio_wrapper.xsa
+TRACE::2024-10-23.15:08:50::SCWPlatform::DSA directory C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/hw
+TRACE::2024-10-23.15:08:50::SCWPlatform:: Platform Path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/hw/micro_blaze_gpio_wrapper.xsa
+TRACE::2024-10-23.15:08:50::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2024-10-23.15:08:50::SCWPlatform::Trying to set the existing hwdb with name micro_blaze_gpio_wrapper_0
+TRACE::2024-10-23.15:08:50::SCWPlatform::Opened existing hwdb micro_blaze_gpio_wrapper_0
+TRACE::2024-10-23.15:08:50::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-10-23.15:08:50::SCWMssOS::Checking the sw design at  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-10-23.15:08:50::SCWMssOS::DEBUG:  swdes dump  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2024-10-23.15:08:50::SCWMssOS::Sw design exists and opened at  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-10-23.15:08:50::SCWPlatform::Trying to open the hw design at C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/hw/micro_blaze_gpio_wrapper.xsa
+TRACE::2024-10-23.15:08:50::SCWPlatform::DSA given C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/hw/micro_blaze_gpio_wrapper.xsa
+TRACE::2024-10-23.15:08:50::SCWPlatform::DSA absoulate path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/hw/micro_blaze_gpio_wrapper.xsa
+TRACE::2024-10-23.15:08:50::SCWPlatform::DSA directory C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/hw
+TRACE::2024-10-23.15:08:51::SCWPlatform:: Platform Path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/hw/micro_blaze_gpio_wrapper.xsa
+TRACE::2024-10-23.15:08:51::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2024-10-23.15:08:51::SCWPlatform::Trying to set the existing hwdb with name micro_blaze_gpio_wrapper_0
+TRACE::2024-10-23.15:08:51::SCWPlatform::Opened existing hwdb micro_blaze_gpio_wrapper_0
+TRACE::2024-10-23.15:08:51::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-10-23.15:08:51::SCWMssOS::Checking the sw design at  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-10-23.15:08:51::SCWMssOS::DEBUG:  swdes dump  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2024-10-23.15:08:51::SCWMssOS::Sw design exists and opened at  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-10-23.15:08:51::SCWPlatform::Trying to open the hw design at C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/hw/micro_blaze_gpio_wrapper.xsa
+TRACE::2024-10-23.15:08:51::SCWPlatform::DSA given C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/hw/micro_blaze_gpio_wrapper.xsa
+TRACE::2024-10-23.15:08:51::SCWPlatform::DSA absoulate path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/hw/micro_blaze_gpio_wrapper.xsa
+TRACE::2024-10-23.15:08:51::SCWPlatform::DSA directory C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/hw
+TRACE::2024-10-23.15:08:51::SCWPlatform:: Platform Path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/hw/micro_blaze_gpio_wrapper.xsa
+TRACE::2024-10-23.15:08:51::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2024-10-23.15:08:51::SCWPlatform::Trying to set the existing hwdb with name micro_blaze_gpio_wrapper_0
+TRACE::2024-10-23.15:08:51::SCWPlatform::Opened existing hwdb micro_blaze_gpio_wrapper_0
+TRACE::2024-10-23.15:08:51::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-10-23.15:08:51::SCWMssOS::Checking the sw design at  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-10-23.15:08:51::SCWMssOS::DEBUG:  swdes dump  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2024-10-23.15:08:51::SCWMssOS::Sw design exists and opened at  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-10-23.15:08:51::SCWWriter::formatted JSON is {
+	"platformName":	"Mblaze_gpio_hw",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"Mblaze_gpio_hw",
+	"platHandOff":	"C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/micro_blaze_gpio_wrapper.xsa",
+	"platIntHandOff":	"<platformDir>/hw/micro_blaze_gpio_wrapper.xsa",
+	"deviceType":	"FPGA",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"Mblaze_gpio_hw",
+	"systems":	[{
+			"systemName":	"Mblaze_gpio_hw",
+			"systemDesc":	"Mblaze_gpio_hw",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"Mblaze_gpio_hw",
+			"sysActiveDom":	"standalone_domain",
+			"sysDefaultDom":	"standalone_domain",
+			"domains":	[{
+					"domainName":	"standalone_domain",
+					"domainDispName":	"standalone on microblaze_0",
+					"domainDesc":	"standalone_domain",
+					"processors":	"microblaze_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"7.1",
+					"mssFile":	"",
+					"md5Digest":	"e80d70a127e3045d5544f933fd58447f",
+					"compatibleApp":	"",
+					"domType":	"mssDomain",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	[],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+TRACE::2024-10-23.15:08:51::SCWPlatform::Clearing the existing platform
+TRACE::2024-10-23.15:08:51::SCWSystem::Clearing the existing sysconfig
+TRACE::2024-10-23.15:08:51::SCWMssOS::Removing the swdes entry for  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-10-23.15:08:51::SCWSystem::Clearing the domains completed.
+TRACE::2024-10-23.15:08:51::SCWPlatform::Clearing the opened hw db.
+TRACE::2024-10-23.15:08:51::SCWPlatform::DSA given C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/hw/micro_blaze_gpio_wrapper.xsa
+TRACE::2024-10-23.15:08:51::SCWPlatform::DSA absoulate path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/hw/micro_blaze_gpio_wrapper.xsa
+TRACE::2024-10-23.15:08:51::SCWPlatform:: Platform location is C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/hw
+TRACE::2024-10-23.15:08:51::SCWPlatform:: Platform Path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/hw/micro_blaze_gpio_wrapper.xsa
+TRACE::2024-10-23.15:08:51::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2024-10-23.15:08:51::SCWPlatform::Removing the HwDB with name C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/hw/micro_blaze_gpio_wrapper.xsa
+TRACE::2024-10-23.15:08:51::SCWPlatform::Trying to open the hw design at C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/hw/micro_blaze_gpio_wrapper.xsa
+TRACE::2024-10-23.15:08:51::SCWPlatform::DSA given C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/hw/micro_blaze_gpio_wrapper.xsa
+TRACE::2024-10-23.15:08:51::SCWPlatform::DSA absoulate path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/hw/micro_blaze_gpio_wrapper.xsa
+TRACE::2024-10-23.15:08:51::SCWPlatform::DSA directory C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/hw
+TRACE::2024-10-23.15:08:51::SCWPlatform:: Platform Path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/hw/micro_blaze_gpio_wrapper.xsa
+TRACE::2024-10-23.15:08:51::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2024-10-23.15:08:51::SCWPlatform::Do not have an existing db opened. 
+TRACE::2024-10-23.15:08:52::SCWPlatform::Opened new HwDB with name micro_blaze_gpio_wrapper_1
+TRACE::2024-10-23.15:08:52::SCWReader::Active system found as  Mblaze_gpio_hw
+TRACE::2024-10-23.15:08:52::SCWReader::Handling sysconfig Mblaze_gpio_hw
+TRACE::2024-10-23.15:08:52::SCWDomain::checking for install qemu data   : 
+TRACE::2024-10-23.15:08:52::SCWPlatform::Trying to open the hw design at C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/hw/micro_blaze_gpio_wrapper.xsa
+TRACE::2024-10-23.15:08:52::SCWPlatform::DSA given C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/hw/micro_blaze_gpio_wrapper.xsa
+TRACE::2024-10-23.15:08:52::SCWPlatform::DSA absoulate path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/hw/micro_blaze_gpio_wrapper.xsa
+TRACE::2024-10-23.15:08:52::SCWPlatform::DSA directory C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/hw
+TRACE::2024-10-23.15:08:52::SCWPlatform:: Platform Path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/hw/micro_blaze_gpio_wrapper.xsa
+TRACE::2024-10-23.15:08:52::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2024-10-23.15:08:52::SCWPlatform::Trying to set the existing hwdb with name micro_blaze_gpio_wrapper_1
+TRACE::2024-10-23.15:08:52::SCWPlatform::Opened existing hwdb micro_blaze_gpio_wrapper_1
+TRACE::2024-10-23.15:08:52::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-10-23.15:08:52::SCWPlatform::Trying to open the hw design at C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/hw/micro_blaze_gpio_wrapper.xsa
+TRACE::2024-10-23.15:08:52::SCWPlatform::DSA given C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/hw/micro_blaze_gpio_wrapper.xsa
+TRACE::2024-10-23.15:08:52::SCWPlatform::DSA absoulate path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/hw/micro_blaze_gpio_wrapper.xsa
+TRACE::2024-10-23.15:08:52::SCWPlatform::DSA directory C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/hw
+TRACE::2024-10-23.15:08:52::SCWPlatform:: Platform Path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/hw/micro_blaze_gpio_wrapper.xsa
+TRACE::2024-10-23.15:08:52::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2024-10-23.15:08:52::SCWPlatform::Trying to set the existing hwdb with name micro_blaze_gpio_wrapper_1
+TRACE::2024-10-23.15:08:52::SCWPlatform::Opened existing hwdb micro_blaze_gpio_wrapper_1
+TRACE::2024-10-23.15:08:52::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-10-23.15:08:52::SCWPlatform::Trying to open the hw design at C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/hw/micro_blaze_gpio_wrapper.xsa
+TRACE::2024-10-23.15:08:52::SCWPlatform::DSA given C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/hw/micro_blaze_gpio_wrapper.xsa
+TRACE::2024-10-23.15:08:52::SCWPlatform::DSA absoulate path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/hw/micro_blaze_gpio_wrapper.xsa
+TRACE::2024-10-23.15:08:52::SCWPlatform::DSA directory C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/hw
+TRACE::2024-10-23.15:08:52::SCWPlatform:: Platform Path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/hw/micro_blaze_gpio_wrapper.xsa
+TRACE::2024-10-23.15:08:52::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2024-10-23.15:08:52::SCWPlatform::Trying to set the existing hwdb with name micro_blaze_gpio_wrapper_1
+TRACE::2024-10-23.15:08:52::SCWPlatform::Opened existing hwdb micro_blaze_gpio_wrapper_1
+TRACE::2024-10-23.15:08:52::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-10-23.15:08:52::SCWMssOS::Checking the sw design at  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-10-23.15:08:52::SCWMssOS::DEBUG:  swdes dump  
+TRACE::2024-10-23.15:08:52::SCWMssOS::No sw design opened at  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-10-23.15:08:52::SCWMssOS::mss exists loading the mss file  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-10-23.15:08:52::SCWMssOS::Opened the sw design from mss  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-10-23.15:08:52::SCWMssOS::Adding the swdes entry C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/microblaze_0/standalone_domain/bsp/system.mss with des name system
+TRACE::2024-10-23.15:08:52::SCWMssOS::updating the scw layer about changes
+TRACE::2024-10-23.15:08:52::SCWMssOS::Opened the sw design.  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-10-23.15:08:52::SCWReader::Adding prebuilt librarypaths as   
+TRACE::2024-10-23.15:08:52::SCWReader::Adding prebuilt incpaths  as   
+TRACE::2024-10-23.15:08:52::SCWPlatform::Trying to open the hw design at C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/hw/micro_blaze_gpio_wrapper.xsa
+TRACE::2024-10-23.15:08:52::SCWPlatform::DSA given C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/hw/micro_blaze_gpio_wrapper.xsa
+TRACE::2024-10-23.15:08:52::SCWPlatform::DSA absoulate path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/hw/micro_blaze_gpio_wrapper.xsa
+TRACE::2024-10-23.15:08:52::SCWPlatform::DSA directory C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/hw
+TRACE::2024-10-23.15:08:53::SCWPlatform:: Platform Path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/hw/micro_blaze_gpio_wrapper.xsa
+TRACE::2024-10-23.15:08:53::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2024-10-23.15:08:53::SCWPlatform::Trying to set the existing hwdb with name micro_blaze_gpio_wrapper_1
+TRACE::2024-10-23.15:08:53::SCWPlatform::Opened existing hwdb micro_blaze_gpio_wrapper_1
+TRACE::2024-10-23.15:08:53::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-10-23.15:08:53::SCWMssOS::Checking the sw design at  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-10-23.15:08:53::SCWMssOS::DEBUG:  swdes dump  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2024-10-23.15:08:53::SCWMssOS::Sw design exists and opened at  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-10-23.15:08:53::SCWReader::No isolation master present  
+TRACE::2024-10-23.15:08:53::SCWPlatform::Trying to open the hw design at C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/hw/micro_blaze_gpio_wrapper.xsa
+TRACE::2024-10-23.15:08:53::SCWPlatform::DSA given C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/hw/micro_blaze_gpio_wrapper.xsa
+TRACE::2024-10-23.15:08:53::SCWPlatform::DSA absoulate path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/hw/micro_blaze_gpio_wrapper.xsa
+TRACE::2024-10-23.15:08:53::SCWPlatform::DSA directory C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/hw
+TRACE::2024-10-23.15:08:53::SCWPlatform:: Platform Path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/hw/micro_blaze_gpio_wrapper.xsa
+TRACE::2024-10-23.15:08:53::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2024-10-23.15:08:53::SCWPlatform::Trying to set the existing hwdb with name micro_blaze_gpio_wrapper_1
+TRACE::2024-10-23.15:08:53::SCWPlatform::Opened existing hwdb micro_blaze_gpio_wrapper_1
+TRACE::2024-10-23.15:08:53::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-10-23.15:08:53::SCWMssOS::Checking the sw design at  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-10-23.15:08:53::SCWMssOS::DEBUG:  swdes dump  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2024-10-23.15:08:53::SCWMssOS::Sw design exists and opened at  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-10-23.15:08:55::SCWMssOS::In reload Mss file.
+TRACE::2024-10-23.15:08:55::SCWPlatform::Trying to open the hw design at C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/hw/micro_blaze_gpio_wrapper.xsa
+TRACE::2024-10-23.15:08:55::SCWPlatform::DSA given C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/hw/micro_blaze_gpio_wrapper.xsa
+TRACE::2024-10-23.15:08:55::SCWPlatform::DSA absoulate path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/hw/micro_blaze_gpio_wrapper.xsa
+TRACE::2024-10-23.15:08:55::SCWPlatform::DSA directory C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/hw
+TRACE::2024-10-23.15:08:55::SCWPlatform:: Platform Path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/hw/micro_blaze_gpio_wrapper.xsa
+TRACE::2024-10-23.15:08:55::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2024-10-23.15:08:55::SCWPlatform::Trying to set the existing hwdb with name micro_blaze_gpio_wrapper_1
+TRACE::2024-10-23.15:08:55::SCWPlatform::Opened existing hwdb micro_blaze_gpio_wrapper_1
+TRACE::2024-10-23.15:08:55::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-10-23.15:08:55::SCWMssOS::Checking the sw design at  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-10-23.15:08:55::SCWMssOS::DEBUG:  swdes dump  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+KEYINFO::2024-10-23.15:08:55::SCWMssOS::Could not open the swdb for system
+KEYINFO::2024-10-23.15:08:55::SCWMssOS::Could not open the sw design at  system
+ERROR: [Hsi 55-1558] Software Design system is not found
+
+TRACE::2024-10-23.15:08:55::SCWMssOS::Cleared the swdb table entry
+TRACE::2024-10-23.15:08:55::SCWMssOS::No sw design opened at  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-10-23.15:08:55::SCWMssOS::mss exists loading the mss file  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-10-23.15:08:55::SCWMssOS::Opened the sw design from mss  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-10-23.15:08:55::SCWMssOS::Adding the swdes entry C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/microblaze_0/standalone_domain/bsp/system.mss with des name system
+TRACE::2024-10-23.15:08:55::SCWMssOS::updating the scw layer about changes
+TRACE::2024-10-23.15:08:55::SCWMssOS::Opened the sw design.  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-10-23.15:08:55::SCWPlatform::Trying to open the hw design at C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/hw/micro_blaze_gpio_wrapper.xsa
+TRACE::2024-10-23.15:08:55::SCWPlatform::DSA given C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/hw/micro_blaze_gpio_wrapper.xsa
+TRACE::2024-10-23.15:08:55::SCWPlatform::DSA absoulate path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/hw/micro_blaze_gpio_wrapper.xsa
+TRACE::2024-10-23.15:08:55::SCWPlatform::DSA directory C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/hw
+TRACE::2024-10-23.15:08:55::SCWPlatform:: Platform Path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/hw/micro_blaze_gpio_wrapper.xsa
+TRACE::2024-10-23.15:08:55::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2024-10-23.15:08:55::SCWPlatform::Trying to set the existing hwdb with name micro_blaze_gpio_wrapper_1
+TRACE::2024-10-23.15:08:55::SCWPlatform::Opened existing hwdb micro_blaze_gpio_wrapper_1
+TRACE::2024-10-23.15:08:55::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-10-23.15:08:55::SCWMssOS::Checking the sw design at  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-10-23.15:08:55::SCWMssOS::DEBUG:  swdes dump  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2024-10-23.15:08:55::SCWMssOS::Sw design exists and opened at  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-10-23.15:08:55::SCWMssOS::Removing the swdes entry for  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/microblaze_0/standalone_domain/bsp/system.mss
+LOG::2024-10-23.15:09:14::SCWPlatform::Started generating the artifacts platform Mblaze_gpio_hw
+TRACE::2024-10-23.15:09:14::SCWPlatform::Sanity checking of platform is completed
+LOG::2024-10-23.15:09:14::SCWPlatform::Started generating the artifacts for system configuration Mblaze_gpio_hw
+LOG::2024-10-23.15:09:14::SCWSystem::Checking the domain standalone_domain
+LOG::2024-10-23.15:09:14::SCWSystem::Not a boot domain 
+LOG::2024-10-23.15:09:14::SCWSystem::Started Processing the domain standalone_domain
+TRACE::2024-10-23.15:09:14::SCWDomain::Generating domain artifcats
+TRACE::2024-10-23.15:09:14::SCWMssOS::Generating standalone artifcats
+TRACE::2024-10-23.15:09:14::SCWMssOS:: Copying the user libraries. 
+TRACE::2024-10-23.15:09:14::SCWPlatform::Trying to open the hw design at C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/hw/micro_blaze_gpio_wrapper.xsa
+TRACE::2024-10-23.15:09:14::SCWPlatform::DSA given C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/hw/micro_blaze_gpio_wrapper.xsa
+TRACE::2024-10-23.15:09:14::SCWPlatform::DSA absoulate path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/hw/micro_blaze_gpio_wrapper.xsa
+TRACE::2024-10-23.15:09:14::SCWPlatform::DSA directory C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/hw
+TRACE::2024-10-23.15:09:14::SCWPlatform:: Platform Path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/hw/micro_blaze_gpio_wrapper.xsa
+TRACE::2024-10-23.15:09:14::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2024-10-23.15:09:14::SCWPlatform::Trying to set the existing hwdb with name micro_blaze_gpio_wrapper_1
+TRACE::2024-10-23.15:09:14::SCWPlatform::Opened existing hwdb micro_blaze_gpio_wrapper_1
+TRACE::2024-10-23.15:09:14::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-10-23.15:09:14::SCWMssOS::Checking the sw design at  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-10-23.15:09:14::SCWMssOS::DEBUG:  swdes dump  
+TRACE::2024-10-23.15:09:14::SCWMssOS::No sw design opened at  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-10-23.15:09:14::SCWMssOS::mss exists loading the mss file  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-10-23.15:09:14::SCWMssOS::Opened the sw design from mss  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-10-23.15:09:14::SCWMssOS::Adding the swdes entry C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/microblaze_0/standalone_domain/bsp/system.mss with des name system
+TRACE::2024-10-23.15:09:14::SCWMssOS::updating the scw layer about changes
+TRACE::2024-10-23.15:09:14::SCWMssOS::Opened the sw design.  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-10-23.15:09:14::SCWMssOS::Completed writing the mss file at C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/microblaze_0/standalone_domain/bsp
+TRACE::2024-10-23.15:09:14::SCWMssOS::Mss edits present, copying mssfile into export location C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-10-23.15:09:14::SCWMssOS::bsp generated is upto date with the mss file. Skipping bsp generation.
+TRACE::2024-10-23.15:09:14::SCWMssOS::BSP is already built. skipping the bsp build ... 
+TRACE::2024-10-23.15:09:14::SCWDomain::Building the domain as part of full build :  standalone_domain
+TRACE::2024-10-23.15:09:14::SCWMssOS::doing bsp build ... 
+TRACE::2024-10-23.15:09:14::SCWMssOS::System Command Ran  C: & cd  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/microblaze_0/standalone_domain/bsp & make 
+TRACE::2024-10-23.15:09:14::SCWMssOS::"Running Make include in microblaze_0/libsrc/bram_v4_3/src"
+
+TRACE::2024-10-23.15:09:14::SCWMssOS::make -C microblaze_0/libsrc/bram_v4_3/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILE
+TRACE::2024-10-23.15:09:14::SCWMssOS::R_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mno-xl-reorder -mno-xl-soft-mul -mxl-barrel-shift -mxl-pattern-compare" "EXTRA_CO
+TRACE::2024-10-23.15:09:14::SCWMssOS::MPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall -Wextra"
+
+TRACE::2024-10-23.15:09:15::SCWMssOS::"Running Make include in microblaze_0/libsrc/cpu_v2_10/src"
+
+TRACE::2024-10-23.15:09:15::SCWMssOS::make -C microblaze_0/libsrc/cpu_v2_10/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILE
+TRACE::2024-10-23.15:09:15::SCWMssOS::R_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mno-xl-reorder -mno-xl-soft-mul -mxl-barrel-shift -mxl-pattern-compare" "EXTRA_CO
+TRACE::2024-10-23.15:09:15::SCWMssOS::MPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall -Wextra"
+
+TRACE::2024-10-23.15:09:15::SCWMssOS::"Running Make include in microblaze_0/libsrc/gpio_v4_5/src"
+
+TRACE::2024-10-23.15:09:15::SCWMssOS::make -C microblaze_0/libsrc/gpio_v4_5/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILE
+TRACE::2024-10-23.15:09:15::SCWMssOS::R_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mno-xl-reorder -mno-xl-soft-mul -mxl-barrel-shift -mxl-pattern-compare" "EXTRA_CO
+TRACE::2024-10-23.15:09:15::SCWMssOS::MPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall -Wextra"
+
+TRACE::2024-10-23.15:09:15::SCWMssOS::"Running Make include in microblaze_0/libsrc/standalone_v7_1/src"
+
+TRACE::2024-10-23.15:09:15::SCWMssOS::make -C microblaze_0/libsrc/standalone_v7_1/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "C
+TRACE::2024-10-23.15:09:15::SCWMssOS::OMPILER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mno-xl-reorder -mno-xl-soft-mul -mxl-barrel-shift -mxl-pattern-compare" "EX
+TRACE::2024-10-23.15:09:15::SCWMssOS::TRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall -Wextra"
+
+TRACE::2024-10-23.15:09:15::SCWMssOS::"Running Make include in microblaze_0/libsrc/uartlite_v3_3/src"
+
+TRACE::2024-10-23.15:09:15::SCWMssOS::make -C microblaze_0/libsrc/uartlite_v3_3/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COM
+TRACE::2024-10-23.15:09:15::SCWMssOS::PILER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mno-xl-reorder -mno-xl-soft-mul -mxl-barrel-shift -mxl-pattern-compare" "EXTR
+TRACE::2024-10-23.15:09:15::SCWMssOS::A_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall -Wextra"
+
+TRACE::2024-10-23.15:09:16::SCWMssOS::"Running Make libs in microblaze_0/libsrc/bram_v4_3/src"
+
+TRACE::2024-10-23.15:09:16::SCWMssOS::make -C microblaze_0/libsrc/bram_v4_3/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILER_F
+TRACE::2024-10-23.15:09:16::SCWMssOS::LAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mno-xl-reorder -mno-xl-soft-mul -mxl-barrel-shift -mxl-pattern-compare" "EXTRA_COMPI
+TRACE::2024-10-23.15:09:16::SCWMssOS::LER_FLAGS=-g -ffunction-sections -fdata-sections -Wall -Wextra"
+
+TRACE::2024-10-23.15:09:16::SCWMssOS::"Compiling bram"
+
+TRACE::2024-10-23.15:09:17::SCWMssOS::"Running Make libs in microblaze_0/libsrc/cpu_v2_10/src"
+
+TRACE::2024-10-23.15:09:17::SCWMssOS::make -C microblaze_0/libsrc/cpu_v2_10/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILER_F
+TRACE::2024-10-23.15:09:17::SCWMssOS::LAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mno-xl-reorder -mno-xl-soft-mul -mxl-barrel-shift -mxl-pattern-compare" "EXTRA_COMPI
+TRACE::2024-10-23.15:09:17::SCWMssOS::LER_FLAGS=-g -ffunction-sections -fdata-sections -Wall -Wextra"
+
+TRACE::2024-10-23.15:09:17::SCWMssOS::"Compiling cpu"
+
+TRACE::2024-10-23.15:09:17::SCWMssOS::"Running Make libs in microblaze_0/libsrc/gpio_v4_5/src"
+
+TRACE::2024-10-23.15:09:17::SCWMssOS::make -C microblaze_0/libsrc/gpio_v4_5/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILER_F
+TRACE::2024-10-23.15:09:17::SCWMssOS::LAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mno-xl-reorder -mno-xl-soft-mul -mxl-barrel-shift -mxl-pattern-compare" "EXTRA_COMPI
+TRACE::2024-10-23.15:09:17::SCWMssOS::LER_FLAGS=-g -ffunction-sections -fdata-sections -Wall -Wextra"
+
+TRACE::2024-10-23.15:09:17::SCWMssOS::"Compiling gpio"
+
+TRACE::2024-10-23.15:09:19::SCWMssOS::"Running Make libs in microblaze_0/libsrc/standalone_v7_1/src"
+
+TRACE::2024-10-23.15:09:19::SCWMssOS::make -C microblaze_0/libsrc/standalone_v7_1/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMP
+TRACE::2024-10-23.15:09:19::SCWMssOS::ILER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mno-xl-reorder -mno-xl-soft-mul -mxl-barrel-shift -mxl-pattern-compare" "EXTRA
+TRACE::2024-10-23.15:09:19::SCWMssOS::_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall -Wextra"
+
+TRACE::2024-10-23.15:09:19::SCWMssOS::"Compiling standalone";
+
+TRACE::2024-10-23.15:09:25::SCWMssOS::"Running Make libs in microblaze_0/libsrc/uartlite_v3_3/src"
+
+TRACE::2024-10-23.15:09:25::SCWMssOS::make -C microblaze_0/libsrc/uartlite_v3_3/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPIL
+TRACE::2024-10-23.15:09:25::SCWMssOS::ER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mno-xl-reorder -mno-xl-soft-mul -mxl-barrel-shift -mxl-pattern-compare" "EXTRA_C
+TRACE::2024-10-23.15:09:25::SCWMssOS::OMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall -Wextra"
+
+TRACE::2024-10-23.15:09:25::SCWMssOS::"Compiling uartlite"
+
+TRACE::2024-10-23.15:09:26::SCWMssOS::'Finished building libraries'
+
+TRACE::2024-10-23.15:09:26::SCWMssOS::Copying to export directory.
+TRACE::2024-10-23.15:09:27::SCWMssOS:: Checking if to create the Supporting Applications
+TRACE::2024-10-23.15:09:27::SCWMssOS:: No Linux domain exists, trying to generate FSBL 
+LOG::2024-10-23.15:09:27::SCWSystem::Completed Processing the domain standalone_domain
+LOG::2024-10-23.15:09:27::SCWSystem::Completed Processing the sysconfig Mblaze_gpio_hw
+LOG::2024-10-23.15:09:27::SCWPlatform::Completed generating the artifacts for system configuration Mblaze_gpio_hw
+TRACE::2024-10-23.15:09:27::SCWPlatform::Started preparing the platform 
+TRACE::2024-10-23.15:09:27::SCWSystem::Writing the bif file for system config Mblaze_gpio_hw
+TRACE::2024-10-23.15:09:27::SCWSystem::dir created 
+TRACE::2024-10-23.15:09:27::SCWSystem::Writing the bif 
+TRACE::2024-10-23.15:09:27::SCWPlatform::Started writing the spfm file 
+TRACE::2024-10-23.15:09:27::SCWPlatform::Started writing the xpfm file 
+TRACE::2024-10-23.15:09:27::SCWPlatform::Completed generating the platform
+TRACE::2024-10-23.15:09:27::SCWPlatform::Trying to open the hw design at C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/hw/micro_blaze_gpio_wrapper.xsa
+TRACE::2024-10-23.15:09:27::SCWPlatform::DSA given C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/hw/micro_blaze_gpio_wrapper.xsa
+TRACE::2024-10-23.15:09:27::SCWPlatform::DSA absoulate path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/hw/micro_blaze_gpio_wrapper.xsa
+TRACE::2024-10-23.15:09:27::SCWPlatform::DSA directory C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/hw
+TRACE::2024-10-23.15:09:27::SCWPlatform:: Platform Path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/hw/micro_blaze_gpio_wrapper.xsa
+TRACE::2024-10-23.15:09:27::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2024-10-23.15:09:27::SCWPlatform::Trying to set the existing hwdb with name micro_blaze_gpio_wrapper_1
+TRACE::2024-10-23.15:09:27::SCWPlatform::Opened existing hwdb micro_blaze_gpio_wrapper_1
+TRACE::2024-10-23.15:09:27::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-10-23.15:09:27::SCWMssOS::Checking the sw design at  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-10-23.15:09:27::SCWMssOS::DEBUG:  swdes dump  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2024-10-23.15:09:27::SCWMssOS::Sw design exists and opened at  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-10-23.15:09:27::SCWWriter::formatted JSON is {
+	"platformName":	"Mblaze_gpio_hw",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"Mblaze_gpio_hw",
+	"platHandOff":	"C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/micro_blaze_gpio_wrapper.xsa",
+	"platIntHandOff":	"<platformDir>/hw/micro_blaze_gpio_wrapper.xsa",
+	"deviceType":	"FPGA",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"Mblaze_gpio_hw",
+	"systems":	[{
+			"systemName":	"Mblaze_gpio_hw",
+			"systemDesc":	"Mblaze_gpio_hw",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"Mblaze_gpio_hw",
+			"sysActiveDom":	"standalone_domain",
+			"sysDefaultDom":	"standalone_domain",
+			"domains":	[{
+					"domainName":	"standalone_domain",
+					"domainDispName":	"standalone on microblaze_0",
+					"domainDesc":	"standalone_domain",
+					"processors":	"microblaze_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"7.1",
+					"mssFile":	"",
+					"md5Digest":	"e80d70a127e3045d5544f933fd58447f",
+					"compatibleApp":	"",
+					"domType":	"mssDomain",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	[],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+KEYINFO::2024-10-23.15:09:27::SCWPlatform::updated the xpfm file.
+TRACE::2024-10-23.15:09:27::SCWPlatform::Trying to open the hw design at C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/hw/micro_blaze_gpio_wrapper.xsa
+TRACE::2024-10-23.15:09:27::SCWPlatform::DSA given C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/hw/micro_blaze_gpio_wrapper.xsa
+TRACE::2024-10-23.15:09:27::SCWPlatform::DSA absoulate path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/hw/micro_blaze_gpio_wrapper.xsa
+TRACE::2024-10-23.15:09:27::SCWPlatform::DSA directory C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/hw
+TRACE::2024-10-23.15:09:27::SCWPlatform:: Platform Path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/hw/micro_blaze_gpio_wrapper.xsa
+TRACE::2024-10-23.15:09:27::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2024-10-23.15:09:27::SCWPlatform::Trying to set the existing hwdb with name micro_blaze_gpio_wrapper_1
+TRACE::2024-10-23.15:09:27::SCWPlatform::Opened existing hwdb micro_blaze_gpio_wrapper_1
+TRACE::2024-10-23.15:09:27::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-10-23.15:09:27::SCWMssOS::Checking the sw design at  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-10-23.15:09:27::SCWMssOS::DEBUG:  swdes dump  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2024-10-23.15:09:27::SCWMssOS::Sw design exists and opened at  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_gpio_hw/microblaze_0/standalone_domain/bsp/system.mss

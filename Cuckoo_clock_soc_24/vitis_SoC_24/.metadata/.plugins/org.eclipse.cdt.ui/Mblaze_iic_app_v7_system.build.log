@@ -1,0 +1,6 @@
+17:08:39 **** Build of configuration Debug for project Mblaze_iic_app_v7_system ****
+make all 
+Skipping SD card image generation. Reason: "The system project only has applications for microblaze processors."
+
+17:08:39 Build Finished (took 217ms)
+

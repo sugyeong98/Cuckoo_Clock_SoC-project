@@ -1,0 +1,6 @@
+/*Mblaze_keypad_pwm_hw*/
+the_ROM_image:
+{
+   <bitstream> 
+   <elf> 
+}

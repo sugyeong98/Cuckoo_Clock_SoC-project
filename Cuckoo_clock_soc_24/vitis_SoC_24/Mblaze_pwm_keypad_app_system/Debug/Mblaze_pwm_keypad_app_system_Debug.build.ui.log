@@ -1,0 +1,6 @@
+2024-11-07T14:45:26.675729100255-14:45:26 **** Build of configuration Debug for project Mblaze_pwm_keypad_app_system ****
+000-make all 
+000-Skipping SD card image generation. Reason: "The system project only has applications for microblaze processors."
+00255-
+14:45:27 Build Finished (took 330ms)
+

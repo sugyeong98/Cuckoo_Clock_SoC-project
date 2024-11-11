@@ -1,0 +1,26 @@
+2024-10-25T09:42:47.182224900255-09:42:47 **** Incremental Build of configuration Debug for project Mblaze_iic_000_app ****
+000-make all 
+000-'Building file: ../src/helloworld.c'
+000-'Invoking: MicroBlaze gcc compiler'
+000-mb-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/helloworld.o" -IC:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_iic_000_hw/export/Mblaze_iic_000_hw/sw/Mblaze_iic_000_hw/standalone_domain/bspinclude/include -mno-xl-reorder -mlittle-endian -mxl-barrel-shift -mxl-pattern-compare -mcpu=v11.0 -mno-xl-soft-mul -Wl,--no-relax -ffunction-sections -fdata-sections -MMD -MP -MF"src/helloworld.d" -MT"src/helloworld.o" -o "src/helloworld.o" "../src/helloworld.c"
+000-../src/helloworld.c: In function 'main':
+000/Mblaze_iic_000_app/src/helloworld.c72-1-1implicit declaration of function 'MB_Sleep'; did you mean 'mb_sleep'? [-Wimplicit-function-declaration]1-../src/helloworld.c:72:9: warning: implicit declaration of function 'MB_Sleep'; did you mean 'mb_sleep'? [-Wimplicit-function-declaration]
+000-         MB_Sleep(1000);
+000-         ^~~~~~~~
+000-         mb_sleep
+000-'Finished building: ../src/helloworld.c'
+000-' '
+000-'Building target: Mblaze_iic_000_app.elf'
+000-'Invoking: MicroBlaze gcc linker'
+000-mb-gcc -Wl,-T -Wl,../src/lscript.ld -LC:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_iic_000_hw/export/Mblaze_iic_000_hw/sw/Mblaze_iic_000_hw/standalone_domain/bsplib/lib -mlittle-endian -mxl-barrel-shift -mxl-pattern-compare -mcpu=v11.0 -mno-xl-soft-mul -Wl,--no-relax -Wl,--gc-sections -o "Mblaze_iic_000_app.elf"  ./src/helloworld.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+000-'Finished building target: Mblaze_iic_000_app.elf'
+000-' '
+000-'Invoking: MicroBlaze Print Size'
+000-mb-size Mblaze_iic_000_app.elf  |tee "Mblaze_iic_000_app.elf.size"
+000-   text	   data	    bss	    dec	    hex	filename
+000-   3788	    288	   3212	   7288	   1c78	Mblaze_iic_000_app.elf
+000-'Finished building: Mblaze_iic_000_app.elf.size'
+000-' '
+00255-
+09:42:48 Build Finished (took 1s.169ms)
+

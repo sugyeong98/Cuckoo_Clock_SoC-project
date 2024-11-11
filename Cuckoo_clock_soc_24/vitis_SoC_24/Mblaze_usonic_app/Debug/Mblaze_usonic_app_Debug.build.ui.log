@@ -1,0 +1,33 @@
+2024-10-28T10:08:41.605381500255-10:08:41 **** Incremental Build of configuration Debug for project Mblaze_usonic_app ****
+000-make all 
+000-'Building file: ../src/helloworld.c'
+000-'Invoking: MicroBlaze gcc compiler'
+000-mb-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/helloworld.o" -IC:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_usonic_v00_hw/export/Mblaze_usonic_v00_hw/sw/Mblaze_usonic_v00_hw/standalone_domain/bspinclude/include -mno-xl-reorder -mlittle-endian -mxl-barrel-shift -mxl-pattern-compare -mcpu=v11.0 -mno-xl-soft-mul -Wl,--no-relax -ffunction-sections -fdata-sections -MMD -MP -MF"src/helloworld.d" -MT"src/helloworld.o" -o "src/helloworld.o" "../src/helloworld.c"
+000/Mblaze_usonic_app/src/helloworld.c56-1-1initialization of 'volatile unsigned int *' from 'unsigned int' makes pointer from integer without a cast [-Wint-conversion]1-../src/helloworld.c:56:42: warning: initialization of 'volatile unsigned int *' from 'unsigned int' makes pointer from integer without a cast [-Wint-conversion]
+000- volatile unsigned int *usonic_instance = (volatile unsigned int)USONIC_ADDR;
+000-                                          ^
+000-../src/helloworld.c: In function 'main':
+000/Mblaze_usonic_app/src/helloworld.c69-1-1implicit declaration of function 'MB_Sleep' [-Wimplicit-function-declaration]1-../src/helloworld.c:69:3: warning: implicit declaration of function 'MB_Sleep' [-Wimplicit-function-declaration]
+000-   MB_Sleep(1000);
+000-   ^~~~~~~~
+000-'Finished building: ../src/helloworld.c'
+000-' '
+000-'Building file: ../src/platform.c'
+000-'Invoking: MicroBlaze gcc compiler'
+000-mb-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/platform.o" -IC:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_usonic_v00_hw/export/Mblaze_usonic_v00_hw/sw/Mblaze_usonic_v00_hw/standalone_domain/bspinclude/include -mno-xl-reorder -mlittle-endian -mxl-barrel-shift -mxl-pattern-compare -mcpu=v11.0 -mno-xl-soft-mul -Wl,--no-relax -ffunction-sections -fdata-sections -MMD -MP -MF"src/platform.d" -MT"src/platform.o" -o "src/platform.o" "../src/platform.c"
+000-'Finished building: ../src/platform.c'
+000-' '
+000-'Building target: Mblaze_usonic_app.elf'
+000-'Invoking: MicroBlaze gcc linker'
+000-mb-gcc -Wl,-T -Wl,../src/lscript.ld -LC:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_usonic_v00_hw/export/Mblaze_usonic_v00_hw/sw/Mblaze_usonic_v00_hw/standalone_domain/bsplib/lib -mlittle-endian -mxl-barrel-shift -mxl-pattern-compare -mcpu=v11.0 -mno-xl-soft-mul -Wl,--no-relax -Wl,--gc-sections -o "Mblaze_usonic_app.elf"  ./src/helloworld.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+000-'Finished building target: Mblaze_usonic_app.elf'
+000-' '
+000-'Invoking: MicroBlaze Print Size'
+000-mb-size Mblaze_usonic_app.elf  |tee "Mblaze_usonic_app.elf.size"
+000-   text	   data	    bss	    dec	    hex	filename
+000-   6192	    636	   3116	   9944	   26d8	Mblaze_usonic_app.elf
+000-'Finished building: Mblaze_usonic_app.elf.size'
+000-' '
+00255-
+10:08:43 Build Finished (took 1s.580ms)
+

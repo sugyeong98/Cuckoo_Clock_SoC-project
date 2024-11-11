@@ -1,0 +1,1038 @@
+TRACE::2024-10-28.14:50:35::SCWPlatform::Trying to open the hw design at C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/hw/Micro_blaze_pwm_keypad_wrapper.xsa
+TRACE::2024-10-28.14:50:35::SCWPlatform::DSA given C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/hw/Micro_blaze_pwm_keypad_wrapper.xsa
+TRACE::2024-10-28.14:50:35::SCWPlatform::DSA absoulate path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/hw/Micro_blaze_pwm_keypad_wrapper.xsa
+TRACE::2024-10-28.14:50:40::SCWPlatform::DSA directory C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/hw
+TRACE::2024-10-28.14:50:40::SCWPlatform:: Platform Path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/hw/Micro_blaze_pwm_keypad_wrapper.xsa
+TRACE::2024-10-28.14:50:40::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2024-10-28.14:50:40::SCWPlatform::Do not have an existing db opened. 
+TRACE::2024-10-28.14:50:40::SCWPlatform::Opened new HwDB with name Micro_blaze_pwm_keypad_wrapper_0
+TRACE::2024-10-28.14:50:40::SCWWriter::formatted JSON is {
+	"platformName":	"Mblaze_pwm_keypad",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"Mblaze_pwm_keypad",
+	"platHandOff":	"C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/Micro_blaze_pwm_keypad_wrapper.xsa",
+	"platIntHandOff":	"<platformDir>/hw/Micro_blaze_pwm_keypad_wrapper.xsa",
+	"deviceType":	"FPGA",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	""
+}
+TRACE::2024-10-28.14:50:40::SCWWriter::formatted JSON is {
+	"platformName":	"Mblaze_pwm_keypad",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"Mblaze_pwm_keypad",
+	"platHandOff":	"C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/Micro_blaze_pwm_keypad_wrapper.xsa",
+	"platIntHandOff":	"<platformDir>/hw/Micro_blaze_pwm_keypad_wrapper.xsa",
+	"deviceType":	"FPGA",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"Mblaze_pwm_keypad",
+	"systems":	[{
+			"systemName":	"Mblaze_pwm_keypad",
+			"systemDesc":	"Mblaze_pwm_keypad",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"Mblaze_pwm_keypad"
+		}]
+}
+TRACE::2024-10-28.14:50:40::SCWPlatform::Boot application domains not present, creating them
+TRACE::2024-10-28.14:50:40::SCWPlatform::Pure FPGA device, no boot application will be created.
+TRACE::2024-10-28.14:50:40::SCWWriter::formatted JSON is {
+	"platformName":	"Mblaze_pwm_keypad",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"Mblaze_pwm_keypad",
+	"platHandOff":	"C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/Micro_blaze_pwm_keypad_wrapper.xsa",
+	"platIntHandOff":	"<platformDir>/hw/Micro_blaze_pwm_keypad_wrapper.xsa",
+	"deviceType":	"FPGA",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"Mblaze_pwm_keypad",
+	"systems":	[{
+			"systemName":	"Mblaze_pwm_keypad",
+			"systemDesc":	"Mblaze_pwm_keypad",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"Mblaze_pwm_keypad"
+		}]
+}
+TRACE::2024-10-28.14:50:40::SCWPlatform::Trying to open the hw design at C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/hw/Micro_blaze_pwm_keypad_wrapper.xsa
+TRACE::2024-10-28.14:50:40::SCWPlatform::DSA given C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/hw/Micro_blaze_pwm_keypad_wrapper.xsa
+TRACE::2024-10-28.14:50:40::SCWPlatform::DSA absoulate path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/hw/Micro_blaze_pwm_keypad_wrapper.xsa
+TRACE::2024-10-28.14:50:40::SCWPlatform::DSA directory C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/hw
+TRACE::2024-10-28.14:50:40::SCWPlatform:: Platform Path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/hw/Micro_blaze_pwm_keypad_wrapper.xsa
+TRACE::2024-10-28.14:50:40::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2024-10-28.14:50:40::SCWPlatform::Trying to set the existing hwdb with name Micro_blaze_pwm_keypad_wrapper_0
+TRACE::2024-10-28.14:50:40::SCWPlatform::Opened existing hwdb Micro_blaze_pwm_keypad_wrapper_0
+TRACE::2024-10-28.14:50:40::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-10-28.14:50:40::SCWDomain::checking for install qemu data   : 
+TRACE::2024-10-28.14:50:40::SCWPlatform::Trying to open the hw design at C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/hw/Micro_blaze_pwm_keypad_wrapper.xsa
+TRACE::2024-10-28.14:50:40::SCWPlatform::DSA given C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/hw/Micro_blaze_pwm_keypad_wrapper.xsa
+TRACE::2024-10-28.14:50:40::SCWPlatform::DSA absoulate path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/hw/Micro_blaze_pwm_keypad_wrapper.xsa
+TRACE::2024-10-28.14:50:40::SCWPlatform::DSA directory C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/hw
+TRACE::2024-10-28.14:50:40::SCWPlatform:: Platform Path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/hw/Micro_blaze_pwm_keypad_wrapper.xsa
+TRACE::2024-10-28.14:50:40::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2024-10-28.14:50:40::SCWPlatform::Trying to set the existing hwdb with name Micro_blaze_pwm_keypad_wrapper_0
+TRACE::2024-10-28.14:50:40::SCWPlatform::Opened existing hwdb Micro_blaze_pwm_keypad_wrapper_0
+TRACE::2024-10-28.14:50:40::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-10-28.14:50:40::SCWPlatform::Trying to open the hw design at C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/hw/Micro_blaze_pwm_keypad_wrapper.xsa
+TRACE::2024-10-28.14:50:40::SCWPlatform::DSA given C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/hw/Micro_blaze_pwm_keypad_wrapper.xsa
+TRACE::2024-10-28.14:50:40::SCWPlatform::DSA absoulate path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/hw/Micro_blaze_pwm_keypad_wrapper.xsa
+TRACE::2024-10-28.14:50:40::SCWPlatform::DSA directory C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/hw
+TRACE::2024-10-28.14:50:40::SCWPlatform:: Platform Path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/hw/Micro_blaze_pwm_keypad_wrapper.xsa
+TRACE::2024-10-28.14:50:40::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2024-10-28.14:50:40::SCWPlatform::Trying to set the existing hwdb with name Micro_blaze_pwm_keypad_wrapper_0
+TRACE::2024-10-28.14:50:40::SCWPlatform::Opened existing hwdb Micro_blaze_pwm_keypad_wrapper_0
+TRACE::2024-10-28.14:50:40::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-10-28.14:50:40::SCWMssOS::Checking the sw design at  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-10-28.14:50:40::SCWMssOS::DEBUG:  swdes dump  
+TRACE::2024-10-28.14:50:40::SCWMssOS::No sw design opened at  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-10-28.14:50:40::SCWMssOS::mss does not exists at C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-10-28.14:50:40::SCWMssOS::Creating sw design at  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-10-28.14:50:40::SCWMssOS::Adding the swdes entry, created swdb C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/microblaze_0/standalone_domain/bsp/system.mss with des name C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-10-28.14:50:40::SCWMssOS::updating the scw layer changes to swdes at   C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-10-28.14:50:40::SCWMssOS::Writing mss at C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-10-28.14:50:40::SCWMssOS::Completed writing the mss file at C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/microblaze_0/standalone_domain/bsp
+TRACE::2024-10-28.14:50:40::SCWMssOS::Picking up changes from newly written mss file into SCW Layer. 
+TRACE::2024-10-28.14:50:40::SCWMssOS::Updated the changes from newly written mss file into SCW Layer. 
+TRACE::2024-10-28.14:50:40::SCWPlatform::Trying to open the hw design at C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/hw/Micro_blaze_pwm_keypad_wrapper.xsa
+TRACE::2024-10-28.14:50:40::SCWPlatform::DSA given C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/hw/Micro_blaze_pwm_keypad_wrapper.xsa
+TRACE::2024-10-28.14:50:40::SCWPlatform::DSA absoulate path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/hw/Micro_blaze_pwm_keypad_wrapper.xsa
+TRACE::2024-10-28.14:50:40::SCWPlatform::DSA directory C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/hw
+TRACE::2024-10-28.14:50:40::SCWPlatform:: Platform Path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/hw/Micro_blaze_pwm_keypad_wrapper.xsa
+TRACE::2024-10-28.14:50:40::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2024-10-28.14:50:40::SCWPlatform::Trying to set the existing hwdb with name Micro_blaze_pwm_keypad_wrapper_0
+TRACE::2024-10-28.14:50:40::SCWPlatform::Opened existing hwdb Micro_blaze_pwm_keypad_wrapper_0
+TRACE::2024-10-28.14:50:40::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-10-28.14:50:40::SCWMssOS::Checking the sw design at  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-10-28.14:50:40::SCWMssOS::DEBUG:  swdes dump  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/microblaze_0/standalone_domain/bsp/system.mss|C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/microblaze_0/standalone_domain/bsp/system.mss||
+
+TRACE::2024-10-28.14:50:40::SCWMssOS::Sw design exists and opened at  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-10-28.14:50:40::SCWPlatform::Trying to open the hw design at C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/hw/Micro_blaze_pwm_keypad_wrapper.xsa
+TRACE::2024-10-28.14:50:40::SCWPlatform::DSA given C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/hw/Micro_blaze_pwm_keypad_wrapper.xsa
+TRACE::2024-10-28.14:50:40::SCWPlatform::DSA absoulate path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/hw/Micro_blaze_pwm_keypad_wrapper.xsa
+TRACE::2024-10-28.14:50:40::SCWPlatform::DSA directory C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/hw
+TRACE::2024-10-28.14:50:40::SCWPlatform:: Platform Path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/hw/Micro_blaze_pwm_keypad_wrapper.xsa
+TRACE::2024-10-28.14:50:40::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2024-10-28.14:50:40::SCWPlatform::Trying to set the existing hwdb with name Micro_blaze_pwm_keypad_wrapper_0
+TRACE::2024-10-28.14:50:40::SCWPlatform::Opened existing hwdb Micro_blaze_pwm_keypad_wrapper_0
+TRACE::2024-10-28.14:50:40::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-10-28.14:50:40::SCWMssOS::Checking the sw design at  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-10-28.14:50:40::SCWMssOS::DEBUG:  swdes dump  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/microblaze_0/standalone_domain/bsp/system.mss|C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/microblaze_0/standalone_domain/bsp/system.mss||
+
+TRACE::2024-10-28.14:50:40::SCWMssOS::Sw design exists and opened at  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-10-28.14:50:40::SCWPlatform::Trying to open the hw design at C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/hw/Micro_blaze_pwm_keypad_wrapper.xsa
+TRACE::2024-10-28.14:50:40::SCWPlatform::DSA given C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/hw/Micro_blaze_pwm_keypad_wrapper.xsa
+TRACE::2024-10-28.14:50:40::SCWPlatform::DSA absoulate path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/hw/Micro_blaze_pwm_keypad_wrapper.xsa
+TRACE::2024-10-28.14:50:40::SCWPlatform::DSA directory C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/hw
+TRACE::2024-10-28.14:50:40::SCWPlatform:: Platform Path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/hw/Micro_blaze_pwm_keypad_wrapper.xsa
+TRACE::2024-10-28.14:50:40::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2024-10-28.14:50:40::SCWPlatform::Trying to set the existing hwdb with name Micro_blaze_pwm_keypad_wrapper_0
+TRACE::2024-10-28.14:50:40::SCWPlatform::Opened existing hwdb Micro_blaze_pwm_keypad_wrapper_0
+TRACE::2024-10-28.14:50:40::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-10-28.14:50:40::SCWMssOS::Checking the sw design at  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-10-28.14:50:40::SCWMssOS::DEBUG:  swdes dump  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/microblaze_0/standalone_domain/bsp/system.mss|C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/microblaze_0/standalone_domain/bsp/system.mss||
+
+TRACE::2024-10-28.14:50:40::SCWMssOS::Sw design exists and opened at  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-10-28.14:50:40::SCWWriter::formatted JSON is {
+	"platformName":	"Mblaze_pwm_keypad",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"Mblaze_pwm_keypad",
+	"platHandOff":	"C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/Micro_blaze_pwm_keypad_wrapper.xsa",
+	"platIntHandOff":	"<platformDir>/hw/Micro_blaze_pwm_keypad_wrapper.xsa",
+	"deviceType":	"FPGA",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"Mblaze_pwm_keypad",
+	"systems":	[{
+			"systemName":	"Mblaze_pwm_keypad",
+			"systemDesc":	"Mblaze_pwm_keypad",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"Mblaze_pwm_keypad",
+			"sysActiveDom":	"standalone_domain",
+			"sysDefaultDom":	"standalone_domain",
+			"domains":	[{
+					"domainName":	"standalone_domain",
+					"domainDispName":	"standalone_domain",
+					"domainDesc":	"standalone_domain",
+					"processors":	"microblaze_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"7.1",
+					"mssFile":	"",
+					"md5Digest":	"",
+					"compatibleApp":	"",
+					"domType":	"mssDomain",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	[],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+TRACE::2024-10-28.14:50:40::SCWPlatform::Trying to open the hw design at C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/hw/Micro_blaze_pwm_keypad_wrapper.xsa
+TRACE::2024-10-28.14:50:40::SCWPlatform::DSA given C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/hw/Micro_blaze_pwm_keypad_wrapper.xsa
+TRACE::2024-10-28.14:50:40::SCWPlatform::DSA absoulate path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/hw/Micro_blaze_pwm_keypad_wrapper.xsa
+TRACE::2024-10-28.14:50:40::SCWPlatform::DSA directory C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/hw
+TRACE::2024-10-28.14:50:40::SCWPlatform:: Platform Path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/hw/Micro_blaze_pwm_keypad_wrapper.xsa
+TRACE::2024-10-28.14:50:40::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2024-10-28.14:50:40::SCWPlatform::Trying to set the existing hwdb with name Micro_blaze_pwm_keypad_wrapper_0
+TRACE::2024-10-28.14:50:40::SCWPlatform::Opened existing hwdb Micro_blaze_pwm_keypad_wrapper_0
+TRACE::2024-10-28.14:50:40::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-10-28.14:50:40::SCWMssOS::Checking the sw design at  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-10-28.14:50:40::SCWMssOS::DEBUG:  swdes dump  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/microblaze_0/standalone_domain/bsp/system.mss|C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/microblaze_0/standalone_domain/bsp/system.mss||
+
+TRACE::2024-10-28.14:50:40::SCWMssOS::Sw design exists and opened at  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-10-28.14:50:40::SCWMssOS::Completed writing the mss file at C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/microblaze_0/standalone_domain/bsp
+TRACE::2024-10-28.14:50:40::SCWMssOS::Forcing BSP Sources regeneration.
+LOG::2024-10-28.14:50:42::SCWPlatform::Started generating the artifacts platform Mblaze_pwm_keypad
+TRACE::2024-10-28.14:50:42::SCWPlatform::Sanity checking of platform is completed
+LOG::2024-10-28.14:50:42::SCWPlatform::Started generating the artifacts for system configuration Mblaze_pwm_keypad
+LOG::2024-10-28.14:50:42::SCWSystem::Checking the domain standalone_domain
+LOG::2024-10-28.14:50:42::SCWSystem::Not a boot domain 
+LOG::2024-10-28.14:50:42::SCWSystem::Started Processing the domain standalone_domain
+TRACE::2024-10-28.14:50:42::SCWDomain::Generating domain artifcats
+TRACE::2024-10-28.14:50:42::SCWMssOS::Generating standalone artifcats
+TRACE::2024-10-28.14:50:42::SCWMssOS:: Copying the user libraries. 
+TRACE::2024-10-28.14:50:42::SCWPlatform::Trying to open the hw design at C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/hw/Micro_blaze_pwm_keypad_wrapper.xsa
+TRACE::2024-10-28.14:50:42::SCWPlatform::DSA given C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/hw/Micro_blaze_pwm_keypad_wrapper.xsa
+TRACE::2024-10-28.14:50:42::SCWPlatform::DSA absoulate path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/hw/Micro_blaze_pwm_keypad_wrapper.xsa
+TRACE::2024-10-28.14:50:42::SCWPlatform::DSA directory C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/hw
+TRACE::2024-10-28.14:50:42::SCWPlatform:: Platform Path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/hw/Micro_blaze_pwm_keypad_wrapper.xsa
+TRACE::2024-10-28.14:50:42::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2024-10-28.14:50:42::SCWPlatform::Trying to set the existing hwdb with name Micro_blaze_pwm_keypad_wrapper_0
+TRACE::2024-10-28.14:50:42::SCWPlatform::Opened existing hwdb Micro_blaze_pwm_keypad_wrapper_0
+TRACE::2024-10-28.14:50:42::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-10-28.14:50:42::SCWMssOS::Checking the sw design at  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-10-28.14:50:42::SCWMssOS::DEBUG:  swdes dump  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/microblaze_0/standalone_domain/bsp/system.mss|C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/microblaze_0/standalone_domain/bsp/system.mss||
+
+KEYINFO::2024-10-28.14:50:42::SCWMssOS::Could not open the swdb for C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/microblaze_0/standalone_domain/bsp/system.mss
+KEYINFO::2024-10-28.14:50:42::SCWMssOS::Could not open the sw design at  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/microblaze_0/standalone_domain/bsp/system.mss
+ERROR: [Hsi 55-1558] Software Design C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/microblaze_0/standalone_domain/bsp/system.mss is not found
+
+TRACE::2024-10-28.14:50:42::SCWMssOS::Cleared the swdb table entry
+TRACE::2024-10-28.14:50:42::SCWMssOS::No sw design opened at  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-10-28.14:50:42::SCWMssOS::mss exists loading the mss file  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-10-28.14:50:42::SCWMssOS::Opened the sw design from mss  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-10-28.14:50:42::SCWMssOS::Adding the swdes entry C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/microblaze_0/standalone_domain/bsp/system.mss with des name system
+TRACE::2024-10-28.14:50:42::SCWMssOS::updating the scw layer about changes
+TRACE::2024-10-28.14:50:42::SCWMssOS::Opened the sw design.  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-10-28.14:50:42::SCWMssOS::Completed writing the mss file at C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/microblaze_0/standalone_domain/bsp
+TRACE::2024-10-28.14:50:42::SCWMssOS::Mss edits present, copying mssfile into export location C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-10-28.14:50:42::SCWMssOS::bsp generated is upto date with the mss file. Skipping bsp generation.
+TRACE::2024-10-28.14:50:42::SCWMssOS::BSP is already built. skipping the bsp build ... 
+TRACE::2024-10-28.14:50:42::SCWDomain::Skipping the build for domain :  standalone_domain
+TRACE::2024-10-28.14:50:42::SCWMssOS::skipping the bsp build ... 
+TRACE::2024-10-28.14:50:42::SCWMssOS::Copying to export directory.
+TRACE::2024-10-28.14:50:42::SCWMssOS:: Checking if to create the Supporting Applications
+TRACE::2024-10-28.14:50:42::SCWMssOS:: No Linux domain exists, trying to generate FSBL 
+LOG::2024-10-28.14:50:42::SCWSystem::Completed Processing the domain standalone_domain
+LOG::2024-10-28.14:50:42::SCWSystem::Completed Processing the sysconfig Mblaze_pwm_keypad
+LOG::2024-10-28.14:50:42::SCWPlatform::Completed generating the artifacts for system configuration Mblaze_pwm_keypad
+TRACE::2024-10-28.14:50:42::SCWPlatform::Started preparing the platform 
+TRACE::2024-10-28.14:50:42::SCWSystem::Writing the bif file for system config Mblaze_pwm_keypad
+TRACE::2024-10-28.14:50:42::SCWSystem::dir created 
+TRACE::2024-10-28.14:50:42::SCWSystem::Writing the bif 
+TRACE::2024-10-28.14:50:42::SCWPlatform::Started writing the spfm file 
+TRACE::2024-10-28.14:50:42::SCWPlatform::Started writing the xpfm file 
+TRACE::2024-10-28.14:50:42::SCWPlatform::Completed generating the platform
+TRACE::2024-10-28.14:50:42::SCWPlatform::Trying to open the hw design at C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/hw/Micro_blaze_pwm_keypad_wrapper.xsa
+TRACE::2024-10-28.14:50:42::SCWPlatform::DSA given C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/hw/Micro_blaze_pwm_keypad_wrapper.xsa
+TRACE::2024-10-28.14:50:42::SCWPlatform::DSA absoulate path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/hw/Micro_blaze_pwm_keypad_wrapper.xsa
+TRACE::2024-10-28.14:50:42::SCWPlatform::DSA directory C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/hw
+TRACE::2024-10-28.14:50:42::SCWPlatform:: Platform Path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/hw/Micro_blaze_pwm_keypad_wrapper.xsa
+TRACE::2024-10-28.14:50:42::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2024-10-28.14:50:42::SCWPlatform::Trying to set the existing hwdb with name Micro_blaze_pwm_keypad_wrapper_0
+TRACE::2024-10-28.14:50:42::SCWPlatform::Opened existing hwdb Micro_blaze_pwm_keypad_wrapper_0
+TRACE::2024-10-28.14:50:42::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-10-28.14:50:42::SCWMssOS::Checking the sw design at  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-10-28.14:50:42::SCWMssOS::DEBUG:  swdes dump  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2024-10-28.14:50:42::SCWMssOS::Sw design exists and opened at  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-10-28.14:50:42::SCWPlatform::Trying to open the hw design at C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/hw/Micro_blaze_pwm_keypad_wrapper.xsa
+TRACE::2024-10-28.14:50:42::SCWPlatform::DSA given C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/hw/Micro_blaze_pwm_keypad_wrapper.xsa
+TRACE::2024-10-28.14:50:42::SCWPlatform::DSA absoulate path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/hw/Micro_blaze_pwm_keypad_wrapper.xsa
+TRACE::2024-10-28.14:50:42::SCWPlatform::DSA directory C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/hw
+TRACE::2024-10-28.14:50:42::SCWPlatform:: Platform Path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/hw/Micro_blaze_pwm_keypad_wrapper.xsa
+TRACE::2024-10-28.14:50:42::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2024-10-28.14:50:42::SCWPlatform::Trying to set the existing hwdb with name Micro_blaze_pwm_keypad_wrapper_0
+TRACE::2024-10-28.14:50:42::SCWPlatform::Opened existing hwdb Micro_blaze_pwm_keypad_wrapper_0
+TRACE::2024-10-28.14:50:42::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-10-28.14:50:42::SCWMssOS::Checking the sw design at  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-10-28.14:50:42::SCWMssOS::DEBUG:  swdes dump  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2024-10-28.14:50:42::SCWMssOS::Sw design exists and opened at  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-10-28.14:50:42::SCWPlatform::Trying to open the hw design at C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/hw/Micro_blaze_pwm_keypad_wrapper.xsa
+TRACE::2024-10-28.14:50:42::SCWPlatform::DSA given C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/hw/Micro_blaze_pwm_keypad_wrapper.xsa
+TRACE::2024-10-28.14:50:42::SCWPlatform::DSA absoulate path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/hw/Micro_blaze_pwm_keypad_wrapper.xsa
+TRACE::2024-10-28.14:50:42::SCWPlatform::DSA directory C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/hw
+TRACE::2024-10-28.14:50:42::SCWPlatform:: Platform Path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/hw/Micro_blaze_pwm_keypad_wrapper.xsa
+TRACE::2024-10-28.14:50:42::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2024-10-28.14:50:42::SCWPlatform::Trying to set the existing hwdb with name Micro_blaze_pwm_keypad_wrapper_0
+TRACE::2024-10-28.14:50:42::SCWPlatform::Opened existing hwdb Micro_blaze_pwm_keypad_wrapper_0
+TRACE::2024-10-28.14:50:42::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-10-28.14:50:42::SCWMssOS::Checking the sw design at  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-10-28.14:50:42::SCWMssOS::DEBUG:  swdes dump  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2024-10-28.14:50:42::SCWMssOS::Sw design exists and opened at  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-10-28.14:50:42::SCWWriter::formatted JSON is {
+	"platformName":	"Mblaze_pwm_keypad",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"Mblaze_pwm_keypad",
+	"platHandOff":	"C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/Micro_blaze_pwm_keypad_wrapper.xsa",
+	"platIntHandOff":	"<platformDir>/hw/Micro_blaze_pwm_keypad_wrapper.xsa",
+	"deviceType":	"FPGA",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"Mblaze_pwm_keypad",
+	"systems":	[{
+			"systemName":	"Mblaze_pwm_keypad",
+			"systemDesc":	"Mblaze_pwm_keypad",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"Mblaze_pwm_keypad",
+			"sysActiveDom":	"standalone_domain",
+			"sysDefaultDom":	"standalone_domain",
+			"domains":	[{
+					"domainName":	"standalone_domain",
+					"domainDispName":	"standalone_domain",
+					"domainDesc":	"standalone_domain",
+					"processors":	"microblaze_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"7.1",
+					"mssFile":	"",
+					"md5Digest":	"d3e24e5ee02f6b6e7b521aeb995ff49f",
+					"compatibleApp":	"",
+					"domType":	"mssDomain",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	[],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+KEYINFO::2024-10-28.14:50:42::SCWPlatform::updated the xpfm file.
+TRACE::2024-10-28.14:50:43::SCWPlatform::Trying to open the hw design at C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/hw/Micro_blaze_pwm_keypad_wrapper.xsa
+TRACE::2024-10-28.14:50:43::SCWPlatform::DSA given C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/hw/Micro_blaze_pwm_keypad_wrapper.xsa
+TRACE::2024-10-28.14:50:43::SCWPlatform::DSA absoulate path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/hw/Micro_blaze_pwm_keypad_wrapper.xsa
+TRACE::2024-10-28.14:50:43::SCWPlatform::DSA directory C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/hw
+TRACE::2024-10-28.14:50:43::SCWPlatform:: Platform Path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/hw/Micro_blaze_pwm_keypad_wrapper.xsa
+TRACE::2024-10-28.14:50:43::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2024-10-28.14:50:43::SCWPlatform::Trying to set the existing hwdb with name Micro_blaze_pwm_keypad_wrapper_0
+TRACE::2024-10-28.14:50:43::SCWPlatform::Opened existing hwdb Micro_blaze_pwm_keypad_wrapper_0
+TRACE::2024-10-28.14:50:43::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-10-28.14:50:43::SCWMssOS::Checking the sw design at  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-10-28.14:50:43::SCWMssOS::DEBUG:  swdes dump  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2024-10-28.14:50:43::SCWMssOS::Sw design exists and opened at  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-10-28.14:50:43::SCWPlatform::Trying to open the hw design at C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/hw/Micro_blaze_pwm_keypad_wrapper.xsa
+TRACE::2024-10-28.14:50:43::SCWPlatform::DSA given C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/hw/Micro_blaze_pwm_keypad_wrapper.xsa
+TRACE::2024-10-28.14:50:43::SCWPlatform::DSA absoulate path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/hw/Micro_blaze_pwm_keypad_wrapper.xsa
+TRACE::2024-10-28.14:50:43::SCWPlatform::DSA directory C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/hw
+TRACE::2024-10-28.14:50:43::SCWPlatform:: Platform Path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/hw/Micro_blaze_pwm_keypad_wrapper.xsa
+TRACE::2024-10-28.14:50:43::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2024-10-28.14:50:43::SCWPlatform::Trying to set the existing hwdb with name Micro_blaze_pwm_keypad_wrapper_0
+TRACE::2024-10-28.14:50:43::SCWPlatform::Opened existing hwdb Micro_blaze_pwm_keypad_wrapper_0
+TRACE::2024-10-28.14:50:43::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-10-28.14:50:43::SCWMssOS::Checking the sw design at  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-10-28.14:50:43::SCWMssOS::DEBUG:  swdes dump  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2024-10-28.14:50:43::SCWMssOS::Sw design exists and opened at  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-10-28.14:50:43::SCWPlatform::Trying to open the hw design at C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/hw/Micro_blaze_pwm_keypad_wrapper.xsa
+TRACE::2024-10-28.14:50:43::SCWPlatform::DSA given C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/hw/Micro_blaze_pwm_keypad_wrapper.xsa
+TRACE::2024-10-28.14:50:43::SCWPlatform::DSA absoulate path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/hw/Micro_blaze_pwm_keypad_wrapper.xsa
+TRACE::2024-10-28.14:50:43::SCWPlatform::DSA directory C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/hw
+TRACE::2024-10-28.14:50:43::SCWPlatform:: Platform Path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/hw/Micro_blaze_pwm_keypad_wrapper.xsa
+TRACE::2024-10-28.14:50:43::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2024-10-28.14:50:43::SCWPlatform::Trying to set the existing hwdb with name Micro_blaze_pwm_keypad_wrapper_0
+TRACE::2024-10-28.14:50:43::SCWPlatform::Opened existing hwdb Micro_blaze_pwm_keypad_wrapper_0
+TRACE::2024-10-28.14:50:43::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-10-28.14:50:43::SCWMssOS::Checking the sw design at  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-10-28.14:50:43::SCWMssOS::DEBUG:  swdes dump  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2024-10-28.14:50:43::SCWMssOS::Sw design exists and opened at  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-10-28.14:50:43::SCWPlatform::Trying to open the hw design at C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/hw/Micro_blaze_pwm_keypad_wrapper.xsa
+TRACE::2024-10-28.14:50:43::SCWPlatform::DSA given C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/hw/Micro_blaze_pwm_keypad_wrapper.xsa
+TRACE::2024-10-28.14:50:43::SCWPlatform::DSA absoulate path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/hw/Micro_blaze_pwm_keypad_wrapper.xsa
+TRACE::2024-10-28.14:50:43::SCWPlatform::DSA directory C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/hw
+TRACE::2024-10-28.14:50:43::SCWPlatform:: Platform Path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/hw/Micro_blaze_pwm_keypad_wrapper.xsa
+TRACE::2024-10-28.14:50:43::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2024-10-28.14:50:43::SCWPlatform::Trying to set the existing hwdb with name Micro_blaze_pwm_keypad_wrapper_0
+TRACE::2024-10-28.14:50:43::SCWPlatform::Opened existing hwdb Micro_blaze_pwm_keypad_wrapper_0
+TRACE::2024-10-28.14:50:43::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-10-28.14:50:43::SCWMssOS::Checking the sw design at  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-10-28.14:50:43::SCWMssOS::DEBUG:  swdes dump  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2024-10-28.14:50:43::SCWMssOS::Sw design exists and opened at  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-10-28.14:50:43::SCWWriter::formatted JSON is {
+	"platformName":	"Mblaze_pwm_keypad",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"Mblaze_pwm_keypad",
+	"platHandOff":	"C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/Micro_blaze_pwm_keypad_wrapper.xsa",
+	"platIntHandOff":	"<platformDir>/hw/Micro_blaze_pwm_keypad_wrapper.xsa",
+	"deviceType":	"FPGA",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"Mblaze_pwm_keypad",
+	"systems":	[{
+			"systemName":	"Mblaze_pwm_keypad",
+			"systemDesc":	"Mblaze_pwm_keypad",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"Mblaze_pwm_keypad",
+			"sysActiveDom":	"standalone_domain",
+			"sysDefaultDom":	"standalone_domain",
+			"domains":	[{
+					"domainName":	"standalone_domain",
+					"domainDispName":	"standalone_domain",
+					"domainDesc":	"standalone_domain",
+					"processors":	"microblaze_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"7.1",
+					"mssFile":	"",
+					"md5Digest":	"d3e24e5ee02f6b6e7b521aeb995ff49f",
+					"compatibleApp":	"",
+					"domType":	"mssDomain",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	[],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+TRACE::2024-10-28.14:50:43::SCWPlatform::Trying to open the hw design at C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/hw/Micro_blaze_pwm_keypad_wrapper.xsa
+TRACE::2024-10-28.14:50:43::SCWPlatform::DSA given C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/hw/Micro_blaze_pwm_keypad_wrapper.xsa
+TRACE::2024-10-28.14:50:43::SCWPlatform::DSA absoulate path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/hw/Micro_blaze_pwm_keypad_wrapper.xsa
+TRACE::2024-10-28.14:50:43::SCWPlatform::DSA directory C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/hw
+TRACE::2024-10-28.14:50:43::SCWPlatform:: Platform Path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/hw/Micro_blaze_pwm_keypad_wrapper.xsa
+TRACE::2024-10-28.14:50:43::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2024-10-28.14:50:43::SCWPlatform::Trying to set the existing hwdb with name Micro_blaze_pwm_keypad_wrapper_0
+TRACE::2024-10-28.14:50:43::SCWPlatform::Opened existing hwdb Micro_blaze_pwm_keypad_wrapper_0
+TRACE::2024-10-28.14:50:43::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-10-28.14:50:43::SCWMssOS::Checking the sw design at  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-10-28.14:50:43::SCWMssOS::DEBUG:  swdes dump  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2024-10-28.14:50:43::SCWMssOS::Sw design exists and opened at  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-10-28.14:50:43::SCWPlatform::Trying to open the hw design at C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/hw/Micro_blaze_pwm_keypad_wrapper.xsa
+TRACE::2024-10-28.14:50:43::SCWPlatform::DSA given C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/hw/Micro_blaze_pwm_keypad_wrapper.xsa
+TRACE::2024-10-28.14:50:43::SCWPlatform::DSA absoulate path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/hw/Micro_blaze_pwm_keypad_wrapper.xsa
+TRACE::2024-10-28.14:50:43::SCWPlatform::DSA directory C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/hw
+TRACE::2024-10-28.14:50:43::SCWPlatform:: Platform Path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/hw/Micro_blaze_pwm_keypad_wrapper.xsa
+TRACE::2024-10-28.14:50:43::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2024-10-28.14:50:43::SCWPlatform::Trying to set the existing hwdb with name Micro_blaze_pwm_keypad_wrapper_0
+TRACE::2024-10-28.14:50:43::SCWPlatform::Opened existing hwdb Micro_blaze_pwm_keypad_wrapper_0
+TRACE::2024-10-28.14:50:43::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-10-28.14:50:43::SCWMssOS::Checking the sw design at  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-10-28.14:50:43::SCWMssOS::DEBUG:  swdes dump  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2024-10-28.14:50:43::SCWMssOS::Sw design exists and opened at  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-10-28.14:50:43::SCWPlatform::Trying to open the hw design at C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/hw/Micro_blaze_pwm_keypad_wrapper.xsa
+TRACE::2024-10-28.14:50:43::SCWPlatform::DSA given C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/hw/Micro_blaze_pwm_keypad_wrapper.xsa
+TRACE::2024-10-28.14:50:43::SCWPlatform::DSA absoulate path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/hw/Micro_blaze_pwm_keypad_wrapper.xsa
+TRACE::2024-10-28.14:50:43::SCWPlatform::DSA directory C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/hw
+TRACE::2024-10-28.14:50:43::SCWPlatform:: Platform Path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/hw/Micro_blaze_pwm_keypad_wrapper.xsa
+TRACE::2024-10-28.14:50:43::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2024-10-28.14:50:43::SCWPlatform::Trying to set the existing hwdb with name Micro_blaze_pwm_keypad_wrapper_0
+TRACE::2024-10-28.14:50:43::SCWPlatform::Opened existing hwdb Micro_blaze_pwm_keypad_wrapper_0
+TRACE::2024-10-28.14:50:43::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-10-28.14:50:43::SCWMssOS::Checking the sw design at  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-10-28.14:50:43::SCWMssOS::DEBUG:  swdes dump  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2024-10-28.14:50:43::SCWMssOS::Sw design exists and opened at  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-10-28.14:50:43::SCWPlatform::Trying to open the hw design at C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/hw/Micro_blaze_pwm_keypad_wrapper.xsa
+TRACE::2024-10-28.14:50:43::SCWPlatform::DSA given C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/hw/Micro_blaze_pwm_keypad_wrapper.xsa
+TRACE::2024-10-28.14:50:43::SCWPlatform::DSA absoulate path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/hw/Micro_blaze_pwm_keypad_wrapper.xsa
+TRACE::2024-10-28.14:50:43::SCWPlatform::DSA directory C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/hw
+TRACE::2024-10-28.14:50:43::SCWPlatform:: Platform Path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/hw/Micro_blaze_pwm_keypad_wrapper.xsa
+TRACE::2024-10-28.14:50:43::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2024-10-28.14:50:43::SCWPlatform::Trying to set the existing hwdb with name Micro_blaze_pwm_keypad_wrapper_0
+TRACE::2024-10-28.14:50:43::SCWPlatform::Opened existing hwdb Micro_blaze_pwm_keypad_wrapper_0
+TRACE::2024-10-28.14:50:43::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-10-28.14:50:43::SCWMssOS::Checking the sw design at  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-10-28.14:50:43::SCWMssOS::DEBUG:  swdes dump  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2024-10-28.14:50:43::SCWMssOS::Sw design exists and opened at  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-10-28.14:50:43::SCWPlatform::Trying to open the hw design at C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/hw/Micro_blaze_pwm_keypad_wrapper.xsa
+TRACE::2024-10-28.14:50:43::SCWPlatform::DSA given C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/hw/Micro_blaze_pwm_keypad_wrapper.xsa
+TRACE::2024-10-28.14:50:43::SCWPlatform::DSA absoulate path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/hw/Micro_blaze_pwm_keypad_wrapper.xsa
+TRACE::2024-10-28.14:50:43::SCWPlatform::DSA directory C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/hw
+TRACE::2024-10-28.14:50:43::SCWPlatform:: Platform Path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/hw/Micro_blaze_pwm_keypad_wrapper.xsa
+TRACE::2024-10-28.14:50:43::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2024-10-28.14:50:43::SCWPlatform::Trying to set the existing hwdb with name Micro_blaze_pwm_keypad_wrapper_0
+TRACE::2024-10-28.14:50:43::SCWPlatform::Opened existing hwdb Micro_blaze_pwm_keypad_wrapper_0
+TRACE::2024-10-28.14:50:43::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-10-28.14:50:43::SCWMssOS::Checking the sw design at  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-10-28.14:50:43::SCWMssOS::DEBUG:  swdes dump  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2024-10-28.14:50:43::SCWMssOS::Sw design exists and opened at  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-10-28.14:50:43::SCWPlatform::Trying to open the hw design at C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/hw/Micro_blaze_pwm_keypad_wrapper.xsa
+TRACE::2024-10-28.14:50:43::SCWPlatform::DSA given C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/hw/Micro_blaze_pwm_keypad_wrapper.xsa
+TRACE::2024-10-28.14:50:43::SCWPlatform::DSA absoulate path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/hw/Micro_blaze_pwm_keypad_wrapper.xsa
+TRACE::2024-10-28.14:50:43::SCWPlatform::DSA directory C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/hw
+TRACE::2024-10-28.14:50:43::SCWPlatform:: Platform Path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/hw/Micro_blaze_pwm_keypad_wrapper.xsa
+TRACE::2024-10-28.14:50:43::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2024-10-28.14:50:43::SCWPlatform::Trying to set the existing hwdb with name Micro_blaze_pwm_keypad_wrapper_0
+TRACE::2024-10-28.14:50:43::SCWPlatform::Opened existing hwdb Micro_blaze_pwm_keypad_wrapper_0
+TRACE::2024-10-28.14:50:43::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-10-28.14:50:43::SCWMssOS::Checking the sw design at  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-10-28.14:50:43::SCWMssOS::DEBUG:  swdes dump  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2024-10-28.14:50:43::SCWMssOS::Sw design exists and opened at  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-10-28.14:50:43::SCWWriter::formatted JSON is {
+	"platformName":	"Mblaze_pwm_keypad",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"Mblaze_pwm_keypad",
+	"platHandOff":	"C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/Micro_blaze_pwm_keypad_wrapper.xsa",
+	"platIntHandOff":	"<platformDir>/hw/Micro_blaze_pwm_keypad_wrapper.xsa",
+	"deviceType":	"FPGA",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"Mblaze_pwm_keypad",
+	"systems":	[{
+			"systemName":	"Mblaze_pwm_keypad",
+			"systemDesc":	"Mblaze_pwm_keypad",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"Mblaze_pwm_keypad",
+			"sysActiveDom":	"standalone_domain",
+			"sysDefaultDom":	"standalone_domain",
+			"domains":	[{
+					"domainName":	"standalone_domain",
+					"domainDispName":	"standalone on microblaze_0",
+					"domainDesc":	"standalone_domain",
+					"processors":	"microblaze_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"7.1",
+					"mssFile":	"",
+					"md5Digest":	"d3e24e5ee02f6b6e7b521aeb995ff49f",
+					"compatibleApp":	"",
+					"domType":	"mssDomain",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	[],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+TRACE::2024-10-28.14:50:43::SCWPlatform::Trying to open the hw design at C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/hw/Micro_blaze_pwm_keypad_wrapper.xsa
+TRACE::2024-10-28.14:50:43::SCWPlatform::DSA given C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/hw/Micro_blaze_pwm_keypad_wrapper.xsa
+TRACE::2024-10-28.14:50:43::SCWPlatform::DSA absoulate path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/hw/Micro_blaze_pwm_keypad_wrapper.xsa
+TRACE::2024-10-28.14:50:43::SCWPlatform::DSA directory C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/hw
+TRACE::2024-10-28.14:50:44::SCWPlatform:: Platform Path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/hw/Micro_blaze_pwm_keypad_wrapper.xsa
+TRACE::2024-10-28.14:50:44::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2024-10-28.14:50:44::SCWPlatform::Trying to set the existing hwdb with name Micro_blaze_pwm_keypad_wrapper_0
+TRACE::2024-10-28.14:50:44::SCWPlatform::Opened existing hwdb Micro_blaze_pwm_keypad_wrapper_0
+TRACE::2024-10-28.14:50:44::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-10-28.14:50:44::SCWMssOS::Checking the sw design at  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-10-28.14:50:44::SCWMssOS::DEBUG:  swdes dump  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2024-10-28.14:50:44::SCWMssOS::Sw design exists and opened at  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-10-28.14:50:44::SCWPlatform::Trying to open the hw design at C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/hw/Micro_blaze_pwm_keypad_wrapper.xsa
+TRACE::2024-10-28.14:50:44::SCWPlatform::DSA given C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/hw/Micro_blaze_pwm_keypad_wrapper.xsa
+TRACE::2024-10-28.14:50:44::SCWPlatform::DSA absoulate path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/hw/Micro_blaze_pwm_keypad_wrapper.xsa
+TRACE::2024-10-28.14:50:44::SCWPlatform::DSA directory C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/hw
+TRACE::2024-10-28.14:50:44::SCWPlatform:: Platform Path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/hw/Micro_blaze_pwm_keypad_wrapper.xsa
+TRACE::2024-10-28.14:50:44::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2024-10-28.14:50:44::SCWPlatform::Trying to set the existing hwdb with name Micro_blaze_pwm_keypad_wrapper_0
+TRACE::2024-10-28.14:50:44::SCWPlatform::Opened existing hwdb Micro_blaze_pwm_keypad_wrapper_0
+TRACE::2024-10-28.14:50:44::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-10-28.14:50:44::SCWMssOS::Checking the sw design at  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-10-28.14:50:44::SCWMssOS::DEBUG:  swdes dump  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2024-10-28.14:50:44::SCWMssOS::Sw design exists and opened at  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-10-28.14:50:44::SCWPlatform::Trying to open the hw design at C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/hw/Micro_blaze_pwm_keypad_wrapper.xsa
+TRACE::2024-10-28.14:50:44::SCWPlatform::DSA given C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/hw/Micro_blaze_pwm_keypad_wrapper.xsa
+TRACE::2024-10-28.14:50:44::SCWPlatform::DSA absoulate path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/hw/Micro_blaze_pwm_keypad_wrapper.xsa
+TRACE::2024-10-28.14:50:44::SCWPlatform::DSA directory C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/hw
+TRACE::2024-10-28.14:50:44::SCWPlatform:: Platform Path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/hw/Micro_blaze_pwm_keypad_wrapper.xsa
+TRACE::2024-10-28.14:50:44::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2024-10-28.14:50:44::SCWPlatform::Trying to set the existing hwdb with name Micro_blaze_pwm_keypad_wrapper_0
+TRACE::2024-10-28.14:50:44::SCWPlatform::Opened existing hwdb Micro_blaze_pwm_keypad_wrapper_0
+TRACE::2024-10-28.14:50:44::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-10-28.14:50:44::SCWMssOS::Checking the sw design at  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-10-28.14:50:44::SCWMssOS::DEBUG:  swdes dump  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2024-10-28.14:50:44::SCWMssOS::Sw design exists and opened at  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-10-28.14:50:44::SCWWriter::formatted JSON is {
+	"platformName":	"Mblaze_pwm_keypad",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"Mblaze_pwm_keypad",
+	"platHandOff":	"C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/Micro_blaze_pwm_keypad_wrapper.xsa",
+	"platIntHandOff":	"<platformDir>/hw/Micro_blaze_pwm_keypad_wrapper.xsa",
+	"deviceType":	"FPGA",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"Mblaze_pwm_keypad",
+	"systems":	[{
+			"systemName":	"Mblaze_pwm_keypad",
+			"systemDesc":	"Mblaze_pwm_keypad",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"Mblaze_pwm_keypad",
+			"sysActiveDom":	"standalone_domain",
+			"sysDefaultDom":	"standalone_domain",
+			"domains":	[{
+					"domainName":	"standalone_domain",
+					"domainDispName":	"standalone on microblaze_0",
+					"domainDesc":	"standalone_domain",
+					"processors":	"microblaze_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"7.1",
+					"mssFile":	"",
+					"md5Digest":	"d3e24e5ee02f6b6e7b521aeb995ff49f",
+					"compatibleApp":	"",
+					"domType":	"mssDomain",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	[],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+TRACE::2024-10-28.14:50:44::SCWPlatform::Clearing the existing platform
+TRACE::2024-10-28.14:50:44::SCWSystem::Clearing the existing sysconfig
+TRACE::2024-10-28.14:50:44::SCWMssOS::Removing the swdes entry for  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-10-28.14:50:44::SCWSystem::Clearing the domains completed.
+TRACE::2024-10-28.14:50:44::SCWPlatform::Clearing the opened hw db.
+TRACE::2024-10-28.14:50:44::SCWPlatform::DSA given C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/hw/Micro_blaze_pwm_keypad_wrapper.xsa
+TRACE::2024-10-28.14:50:44::SCWPlatform::DSA absoulate path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/hw/Micro_blaze_pwm_keypad_wrapper.xsa
+TRACE::2024-10-28.14:50:44::SCWPlatform:: Platform location is C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/hw
+TRACE::2024-10-28.14:50:44::SCWPlatform:: Platform Path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/hw/Micro_blaze_pwm_keypad_wrapper.xsa
+TRACE::2024-10-28.14:50:44::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2024-10-28.14:50:44::SCWPlatform::Removing the HwDB with name C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/hw/Micro_blaze_pwm_keypad_wrapper.xsa
+TRACE::2024-10-28.14:50:44::SCWPlatform::Trying to open the hw design at C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/hw/Micro_blaze_pwm_keypad_wrapper.xsa
+TRACE::2024-10-28.14:50:44::SCWPlatform::DSA given C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/hw/Micro_blaze_pwm_keypad_wrapper.xsa
+TRACE::2024-10-28.14:50:44::SCWPlatform::DSA absoulate path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/hw/Micro_blaze_pwm_keypad_wrapper.xsa
+TRACE::2024-10-28.14:50:44::SCWPlatform::DSA directory C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/hw
+TRACE::2024-10-28.14:50:44::SCWPlatform:: Platform Path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/hw/Micro_blaze_pwm_keypad_wrapper.xsa
+TRACE::2024-10-28.14:50:44::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2024-10-28.14:50:44::SCWPlatform::Do not have an existing db opened. 
+TRACE::2024-10-28.14:50:44::SCWPlatform::Opened new HwDB with name Micro_blaze_pwm_keypad_wrapper_1
+TRACE::2024-10-28.14:50:44::SCWReader::Active system found as  Mblaze_pwm_keypad
+TRACE::2024-10-28.14:50:44::SCWReader::Handling sysconfig Mblaze_pwm_keypad
+TRACE::2024-10-28.14:50:44::SCWDomain::checking for install qemu data   : 
+TRACE::2024-10-28.14:50:44::SCWPlatform::Trying to open the hw design at C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/hw/Micro_blaze_pwm_keypad_wrapper.xsa
+TRACE::2024-10-28.14:50:44::SCWPlatform::DSA given C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/hw/Micro_blaze_pwm_keypad_wrapper.xsa
+TRACE::2024-10-28.14:50:44::SCWPlatform::DSA absoulate path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/hw/Micro_blaze_pwm_keypad_wrapper.xsa
+TRACE::2024-10-28.14:50:44::SCWPlatform::DSA directory C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/hw
+TRACE::2024-10-28.14:50:44::SCWPlatform:: Platform Path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/hw/Micro_blaze_pwm_keypad_wrapper.xsa
+TRACE::2024-10-28.14:50:44::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2024-10-28.14:50:44::SCWPlatform::Trying to set the existing hwdb with name Micro_blaze_pwm_keypad_wrapper_1
+TRACE::2024-10-28.14:50:44::SCWPlatform::Opened existing hwdb Micro_blaze_pwm_keypad_wrapper_1
+TRACE::2024-10-28.14:50:44::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-10-28.14:50:44::SCWPlatform::Trying to open the hw design at C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/hw/Micro_blaze_pwm_keypad_wrapper.xsa
+TRACE::2024-10-28.14:50:45::SCWPlatform::DSA given C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/hw/Micro_blaze_pwm_keypad_wrapper.xsa
+TRACE::2024-10-28.14:50:45::SCWPlatform::DSA absoulate path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/hw/Micro_blaze_pwm_keypad_wrapper.xsa
+TRACE::2024-10-28.14:50:45::SCWPlatform::DSA directory C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/hw
+TRACE::2024-10-28.14:50:45::SCWPlatform:: Platform Path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/hw/Micro_blaze_pwm_keypad_wrapper.xsa
+TRACE::2024-10-28.14:50:45::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2024-10-28.14:50:45::SCWPlatform::Trying to set the existing hwdb with name Micro_blaze_pwm_keypad_wrapper_1
+TRACE::2024-10-28.14:50:45::SCWPlatform::Opened existing hwdb Micro_blaze_pwm_keypad_wrapper_1
+TRACE::2024-10-28.14:50:45::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-10-28.14:50:45::SCWPlatform::Trying to open the hw design at C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/hw/Micro_blaze_pwm_keypad_wrapper.xsa
+TRACE::2024-10-28.14:50:45::SCWPlatform::DSA given C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/hw/Micro_blaze_pwm_keypad_wrapper.xsa
+TRACE::2024-10-28.14:50:45::SCWPlatform::DSA absoulate path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/hw/Micro_blaze_pwm_keypad_wrapper.xsa
+TRACE::2024-10-28.14:50:45::SCWPlatform::DSA directory C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/hw
+TRACE::2024-10-28.14:50:45::SCWPlatform:: Platform Path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/hw/Micro_blaze_pwm_keypad_wrapper.xsa
+TRACE::2024-10-28.14:50:45::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2024-10-28.14:50:45::SCWPlatform::Trying to set the existing hwdb with name Micro_blaze_pwm_keypad_wrapper_1
+TRACE::2024-10-28.14:50:45::SCWPlatform::Opened existing hwdb Micro_blaze_pwm_keypad_wrapper_1
+TRACE::2024-10-28.14:50:45::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-10-28.14:50:45::SCWMssOS::Checking the sw design at  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-10-28.14:50:45::SCWMssOS::DEBUG:  swdes dump  
+TRACE::2024-10-28.14:50:45::SCWMssOS::No sw design opened at  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-10-28.14:50:45::SCWMssOS::mss exists loading the mss file  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-10-28.14:50:45::SCWMssOS::Opened the sw design from mss  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-10-28.14:50:45::SCWMssOS::Adding the swdes entry C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/microblaze_0/standalone_domain/bsp/system.mss with des name system
+TRACE::2024-10-28.14:50:45::SCWMssOS::updating the scw layer about changes
+TRACE::2024-10-28.14:50:45::SCWMssOS::Opened the sw design.  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-10-28.14:50:45::SCWReader::Adding prebuilt librarypaths as   
+TRACE::2024-10-28.14:50:45::SCWReader::Adding prebuilt incpaths  as   
+TRACE::2024-10-28.14:50:45::SCWPlatform::Trying to open the hw design at C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/hw/Micro_blaze_pwm_keypad_wrapper.xsa
+TRACE::2024-10-28.14:50:45::SCWPlatform::DSA given C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/hw/Micro_blaze_pwm_keypad_wrapper.xsa
+TRACE::2024-10-28.14:50:45::SCWPlatform::DSA absoulate path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/hw/Micro_blaze_pwm_keypad_wrapper.xsa
+TRACE::2024-10-28.14:50:45::SCWPlatform::DSA directory C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/hw
+TRACE::2024-10-28.14:50:45::SCWPlatform:: Platform Path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/hw/Micro_blaze_pwm_keypad_wrapper.xsa
+TRACE::2024-10-28.14:50:45::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2024-10-28.14:50:45::SCWPlatform::Trying to set the existing hwdb with name Micro_blaze_pwm_keypad_wrapper_1
+TRACE::2024-10-28.14:50:45::SCWPlatform::Opened existing hwdb Micro_blaze_pwm_keypad_wrapper_1
+TRACE::2024-10-28.14:50:45::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-10-28.14:50:45::SCWMssOS::Checking the sw design at  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-10-28.14:50:45::SCWMssOS::DEBUG:  swdes dump  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2024-10-28.14:50:45::SCWMssOS::Sw design exists and opened at  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-10-28.14:50:45::SCWReader::No isolation master present  
+TRACE::2024-10-28.14:50:45::SCWPlatform::Trying to open the hw design at C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/hw/Micro_blaze_pwm_keypad_wrapper.xsa
+TRACE::2024-10-28.14:50:45::SCWPlatform::DSA given C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/hw/Micro_blaze_pwm_keypad_wrapper.xsa
+TRACE::2024-10-28.14:50:45::SCWPlatform::DSA absoulate path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/hw/Micro_blaze_pwm_keypad_wrapper.xsa
+TRACE::2024-10-28.14:50:45::SCWPlatform::DSA directory C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/hw
+TRACE::2024-10-28.14:50:45::SCWPlatform:: Platform Path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/hw/Micro_blaze_pwm_keypad_wrapper.xsa
+TRACE::2024-10-28.14:50:45::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2024-10-28.14:50:45::SCWPlatform::Trying to set the existing hwdb with name Micro_blaze_pwm_keypad_wrapper_1
+TRACE::2024-10-28.14:50:45::SCWPlatform::Opened existing hwdb Micro_blaze_pwm_keypad_wrapper_1
+TRACE::2024-10-28.14:50:45::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-10-28.14:50:45::SCWMssOS::Checking the sw design at  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-10-28.14:50:45::SCWMssOS::DEBUG:  swdes dump  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2024-10-28.14:50:45::SCWMssOS::Sw design exists and opened at  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-10-28.14:50:46::SCWMssOS::In reload Mss file.
+TRACE::2024-10-28.14:50:46::SCWPlatform::Trying to open the hw design at C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/hw/Micro_blaze_pwm_keypad_wrapper.xsa
+TRACE::2024-10-28.14:50:46::SCWPlatform::DSA given C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/hw/Micro_blaze_pwm_keypad_wrapper.xsa
+TRACE::2024-10-28.14:50:46::SCWPlatform::DSA absoulate path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/hw/Micro_blaze_pwm_keypad_wrapper.xsa
+TRACE::2024-10-28.14:50:46::SCWPlatform::DSA directory C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/hw
+TRACE::2024-10-28.14:50:46::SCWPlatform:: Platform Path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/hw/Micro_blaze_pwm_keypad_wrapper.xsa
+TRACE::2024-10-28.14:50:46::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2024-10-28.14:50:46::SCWPlatform::Trying to set the existing hwdb with name Micro_blaze_pwm_keypad_wrapper_1
+TRACE::2024-10-28.14:50:46::SCWPlatform::Opened existing hwdb Micro_blaze_pwm_keypad_wrapper_1
+TRACE::2024-10-28.14:50:46::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-10-28.14:50:46::SCWMssOS::Checking the sw design at  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-10-28.14:50:46::SCWMssOS::DEBUG:  swdes dump  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+KEYINFO::2024-10-28.14:50:46::SCWMssOS::Could not open the swdb for system
+KEYINFO::2024-10-28.14:50:46::SCWMssOS::Could not open the sw design at  system
+ERROR: [Hsi 55-1558] Software Design system is not found
+
+TRACE::2024-10-28.14:50:46::SCWMssOS::Cleared the swdb table entry
+TRACE::2024-10-28.14:50:46::SCWMssOS::No sw design opened at  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-10-28.14:50:46::SCWMssOS::mss exists loading the mss file  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-10-28.14:50:46::SCWMssOS::Opened the sw design from mss  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-10-28.14:50:46::SCWMssOS::Adding the swdes entry C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/microblaze_0/standalone_domain/bsp/system.mss with des name system
+TRACE::2024-10-28.14:50:46::SCWMssOS::updating the scw layer about changes
+TRACE::2024-10-28.14:50:46::SCWMssOS::Opened the sw design.  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-10-28.14:50:46::SCWPlatform::Trying to open the hw design at C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/hw/Micro_blaze_pwm_keypad_wrapper.xsa
+TRACE::2024-10-28.14:50:46::SCWPlatform::DSA given C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/hw/Micro_blaze_pwm_keypad_wrapper.xsa
+TRACE::2024-10-28.14:50:46::SCWPlatform::DSA absoulate path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/hw/Micro_blaze_pwm_keypad_wrapper.xsa
+TRACE::2024-10-28.14:50:46::SCWPlatform::DSA directory C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/hw
+TRACE::2024-10-28.14:50:46::SCWPlatform:: Platform Path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/hw/Micro_blaze_pwm_keypad_wrapper.xsa
+TRACE::2024-10-28.14:50:46::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2024-10-28.14:50:46::SCWPlatform::Trying to set the existing hwdb with name Micro_blaze_pwm_keypad_wrapper_1
+TRACE::2024-10-28.14:50:46::SCWPlatform::Opened existing hwdb Micro_blaze_pwm_keypad_wrapper_1
+TRACE::2024-10-28.14:50:46::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-10-28.14:50:46::SCWMssOS::Checking the sw design at  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-10-28.14:50:46::SCWMssOS::DEBUG:  swdes dump  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2024-10-28.14:50:46::SCWMssOS::Sw design exists and opened at  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-10-28.14:50:46::SCWMssOS::Removing the swdes entry for  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/microblaze_0/standalone_domain/bsp/system.mss
+LOG::2024-10-28.14:50:53::SCWPlatform::Started generating the artifacts platform Mblaze_pwm_keypad
+TRACE::2024-10-28.14:50:53::SCWPlatform::Sanity checking of platform is completed
+LOG::2024-10-28.14:50:53::SCWPlatform::Started generating the artifacts for system configuration Mblaze_pwm_keypad
+LOG::2024-10-28.14:50:53::SCWSystem::Checking the domain standalone_domain
+LOG::2024-10-28.14:50:53::SCWSystem::Not a boot domain 
+LOG::2024-10-28.14:50:53::SCWSystem::Started Processing the domain standalone_domain
+TRACE::2024-10-28.14:50:53::SCWDomain::Generating domain artifcats
+TRACE::2024-10-28.14:50:53::SCWMssOS::Generating standalone artifcats
+TRACE::2024-10-28.14:50:53::SCWMssOS:: Copying the user libraries. 
+TRACE::2024-10-28.14:50:53::SCWPlatform::Trying to open the hw design at C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/hw/Micro_blaze_pwm_keypad_wrapper.xsa
+TRACE::2024-10-28.14:50:53::SCWPlatform::DSA given C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/hw/Micro_blaze_pwm_keypad_wrapper.xsa
+TRACE::2024-10-28.14:50:53::SCWPlatform::DSA absoulate path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/hw/Micro_blaze_pwm_keypad_wrapper.xsa
+TRACE::2024-10-28.14:50:53::SCWPlatform::DSA directory C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/hw
+TRACE::2024-10-28.14:50:53::SCWPlatform:: Platform Path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/hw/Micro_blaze_pwm_keypad_wrapper.xsa
+TRACE::2024-10-28.14:50:53::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2024-10-28.14:50:53::SCWPlatform::Trying to set the existing hwdb with name Micro_blaze_pwm_keypad_wrapper_1
+TRACE::2024-10-28.14:50:53::SCWPlatform::Opened existing hwdb Micro_blaze_pwm_keypad_wrapper_1
+TRACE::2024-10-28.14:50:53::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-10-28.14:50:53::SCWMssOS::Checking the sw design at  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-10-28.14:50:53::SCWMssOS::DEBUG:  swdes dump  
+TRACE::2024-10-28.14:50:53::SCWMssOS::No sw design opened at  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-10-28.14:50:53::SCWMssOS::mss exists loading the mss file  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-10-28.14:50:53::SCWMssOS::Opened the sw design from mss  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-10-28.14:50:53::SCWMssOS::Adding the swdes entry C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/microblaze_0/standalone_domain/bsp/system.mss with des name system
+TRACE::2024-10-28.14:50:53::SCWMssOS::updating the scw layer about changes
+TRACE::2024-10-28.14:50:53::SCWMssOS::Opened the sw design.  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-10-28.14:50:53::SCWMssOS::Completed writing the mss file at C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/microblaze_0/standalone_domain/bsp
+TRACE::2024-10-28.14:50:53::SCWMssOS::Mss edits present, copying mssfile into export location C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-10-28.14:50:53::SCWMssOS::bsp generated is upto date with the mss file. Skipping bsp generation.
+TRACE::2024-10-28.14:50:53::SCWMssOS::BSP is already built. skipping the bsp build ... 
+TRACE::2024-10-28.14:50:53::SCWDomain::Building the domain as part of full build :  standalone_domain
+TRACE::2024-10-28.14:50:53::SCWMssOS::doing bsp build ... 
+TRACE::2024-10-28.14:50:53::SCWMssOS::System Command Ran  C: & cd  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/microblaze_0/standalone_domain/bsp & make 
+TRACE::2024-10-28.14:50:53::SCWMssOS::"Running Make include in microblaze_0/libsrc/bram_v4_3/src"
+
+TRACE::2024-10-28.14:50:53::SCWMssOS::make -C microblaze_0/libsrc/bram_v4_3/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILE
+TRACE::2024-10-28.14:50:53::SCWMssOS::R_FLAGS=  -O2 -c -m64 -mcpu=v11.0 -mlittle-endian -mno-xl-reorder -mno-xl-soft-mul -mxl-barrel-shift -mxl-pattern-compare" "EXT
+TRACE::2024-10-28.14:50:53::SCWMssOS::RA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall -Wextra"
+
+TRACE::2024-10-28.14:50:53::SCWMssOS::"Running Make include in microblaze_0/libsrc/cpu_v2_10/src"
+
+TRACE::2024-10-28.14:50:53::SCWMssOS::make -C microblaze_0/libsrc/cpu_v2_10/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILE
+TRACE::2024-10-28.14:50:53::SCWMssOS::R_FLAGS=  -O2 -c -m64 -mcpu=v11.0 -mlittle-endian -mno-xl-reorder -mno-xl-soft-mul -mxl-barrel-shift -mxl-pattern-compare" "EXT
+TRACE::2024-10-28.14:50:53::SCWMssOS::RA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall -Wextra"
+
+TRACE::2024-10-28.14:50:53::SCWMssOS::"Running Make include in microblaze_0/libsrc/myip_keypad_v1_0/src"
+
+TRACE::2024-10-28.14:50:53::SCWMssOS::make -C microblaze_0/libsrc/myip_keypad_v1_0/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "
+TRACE::2024-10-28.14:50:53::SCWMssOS::COMPILER_FLAGS=  -O2 -c -m64 -mcpu=v11.0 -mlittle-endian -mno-xl-reorder -mno-xl-soft-mul -mxl-barrel-shift -mxl-pattern-compar
+TRACE::2024-10-28.14:50:53::SCWMssOS::e" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall -Wextra"
+
+TRACE::2024-10-28.14:50:53::SCWMssOS::"Running Make include in microblaze_0/libsrc/myip_pwm_v1_0/src"
+
+TRACE::2024-10-28.14:50:53::SCWMssOS::make -C microblaze_0/libsrc/myip_pwm_v1_0/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COM
+TRACE::2024-10-28.14:50:53::SCWMssOS::PILER_FLAGS=  -O2 -c -m64 -mcpu=v11.0 -mlittle-endian -mno-xl-reorder -mno-xl-soft-mul -mxl-barrel-shift -mxl-pattern-compare" 
+TRACE::2024-10-28.14:50:53::SCWMssOS::"EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall -Wextra"
+
+TRACE::2024-10-28.14:50:53::SCWMssOS::"Running Make include in microblaze_0/libsrc/standalone_v7_1/src"
+
+TRACE::2024-10-28.14:50:53::SCWMssOS::make -C microblaze_0/libsrc/standalone_v7_1/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "C
+TRACE::2024-10-28.14:50:53::SCWMssOS::OMPILER_FLAGS=  -O2 -c -m64 -mcpu=v11.0 -mlittle-endian -mno-xl-reorder -mno-xl-soft-mul -mxl-barrel-shift -mxl-pattern-compare
+TRACE::2024-10-28.14:50:53::SCWMssOS::" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall -Wextra"
+
+TRACE::2024-10-28.14:50:54::SCWMssOS::"Running Make include in microblaze_0/libsrc/uartlite_v3_3/src"
+
+TRACE::2024-10-28.14:50:54::SCWMssOS::make -C microblaze_0/libsrc/uartlite_v3_3/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COM
+TRACE::2024-10-28.14:50:54::SCWMssOS::PILER_FLAGS=  -O2 -c -m64 -mcpu=v11.0 -mlittle-endian -mno-xl-reorder -mno-xl-soft-mul -mxl-barrel-shift -mxl-pattern-compare" 
+TRACE::2024-10-28.14:50:54::SCWMssOS::"EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall -Wextra"
+
+TRACE::2024-10-28.14:50:54::SCWMssOS::"Running Make libs in microblaze_0/libsrc/bram_v4_3/src"
+
+TRACE::2024-10-28.14:50:54::SCWMssOS::make -C microblaze_0/libsrc/bram_v4_3/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILER_F
+TRACE::2024-10-28.14:50:54::SCWMssOS::LAGS=  -O2 -c -m64 -mcpu=v11.0 -mlittle-endian -mno-xl-reorder -mno-xl-soft-mul -mxl-barrel-shift -mxl-pattern-compare" "EXTRA_
+TRACE::2024-10-28.14:50:54::SCWMssOS::COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall -Wextra"
+
+TRACE::2024-10-28.14:50:54::SCWMssOS::"Compiling bram"
+
+TRACE::2024-10-28.14:50:55::SCWMssOS::"Running Make libs in microblaze_0/libsrc/cpu_v2_10/src"
+
+TRACE::2024-10-28.14:50:55::SCWMssOS::make -C microblaze_0/libsrc/cpu_v2_10/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILER_F
+TRACE::2024-10-28.14:50:55::SCWMssOS::LAGS=  -O2 -c -m64 -mcpu=v11.0 -mlittle-endian -mno-xl-reorder -mno-xl-soft-mul -mxl-barrel-shift -mxl-pattern-compare" "EXTRA_
+TRACE::2024-10-28.14:50:55::SCWMssOS::COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall -Wextra"
+
+TRACE::2024-10-28.14:50:55::SCWMssOS::"Compiling cpu"
+
+TRACE::2024-10-28.14:50:55::SCWMssOS::"Running Make libs in microblaze_0/libsrc/myip_keypad_v1_0/src"
+
+TRACE::2024-10-28.14:50:55::SCWMssOS::make -C microblaze_0/libsrc/myip_keypad_v1_0/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COM
+TRACE::2024-10-28.14:50:55::SCWMssOS::PILER_FLAGS=  -O2 -c -m64 -mcpu=v11.0 -mlittle-endian -mno-xl-reorder -mno-xl-soft-mul -mxl-barrel-shift -mxl-pattern-compare" 
+TRACE::2024-10-28.14:50:55::SCWMssOS::"EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall -Wextra"
+
+TRACE::2024-10-28.14:50:55::SCWMssOS::"Compiling myip_keypad..."
+
+TRACE::2024-10-28.14:50:56::SCWMssOS::"Running Make libs in microblaze_0/libsrc/myip_pwm_v1_0/src"
+
+TRACE::2024-10-28.14:50:56::SCWMssOS::make -C microblaze_0/libsrc/myip_pwm_v1_0/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPIL
+TRACE::2024-10-28.14:50:56::SCWMssOS::ER_FLAGS=  -O2 -c -m64 -mcpu=v11.0 -mlittle-endian -mno-xl-reorder -mno-xl-soft-mul -mxl-barrel-shift -mxl-pattern-compare" "EX
+TRACE::2024-10-28.14:50:56::SCWMssOS::TRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall -Wextra"
+
+TRACE::2024-10-28.14:50:56::SCWMssOS::"Compiling myip_pwm..."
+
+TRACE::2024-10-28.14:50:56::SCWMssOS::"Running Make libs in microblaze_0/libsrc/standalone_v7_1/src"
+
+TRACE::2024-10-28.14:50:56::SCWMssOS::make -C microblaze_0/libsrc/standalone_v7_1/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMP
+TRACE::2024-10-28.14:50:56::SCWMssOS::ILER_FLAGS=  -O2 -c -m64 -mcpu=v11.0 -mlittle-endian -mno-xl-reorder -mno-xl-soft-mul -mxl-barrel-shift -mxl-pattern-compare" "
+TRACE::2024-10-28.14:50:56::SCWMssOS::EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall -Wextra"
+
+TRACE::2024-10-28.14:50:56::SCWMssOS::"Compiling standalone";
+
+TRACE::2024-10-28.14:51:00::SCWMssOS::"Running Make libs in microblaze_0/libsrc/uartlite_v3_3/src"
+
+TRACE::2024-10-28.14:51:00::SCWMssOS::make -C microblaze_0/libsrc/uartlite_v3_3/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPIL
+TRACE::2024-10-28.14:51:00::SCWMssOS::ER_FLAGS=  -O2 -c -m64 -mcpu=v11.0 -mlittle-endian -mno-xl-reorder -mno-xl-soft-mul -mxl-barrel-shift -mxl-pattern-compare" "EX
+TRACE::2024-10-28.14:51:00::SCWMssOS::TRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall -Wextra"
+
+TRACE::2024-10-28.14:51:00::SCWMssOS::"Compiling uartlite"
+
+TRACE::2024-10-28.14:51:01::SCWMssOS::'Finished building libraries'
+
+TRACE::2024-10-28.14:51:01::SCWMssOS::Copying to export directory.
+TRACE::2024-10-28.14:51:01::SCWMssOS:: Checking if to create the Supporting Applications
+TRACE::2024-10-28.14:51:01::SCWMssOS:: No Linux domain exists, trying to generate FSBL 
+LOG::2024-10-28.14:51:01::SCWSystem::Completed Processing the domain standalone_domain
+LOG::2024-10-28.14:51:01::SCWSystem::Completed Processing the sysconfig Mblaze_pwm_keypad
+LOG::2024-10-28.14:51:01::SCWPlatform::Completed generating the artifacts for system configuration Mblaze_pwm_keypad
+TRACE::2024-10-28.14:51:01::SCWPlatform::Started preparing the platform 
+TRACE::2024-10-28.14:51:01::SCWSystem::Writing the bif file for system config Mblaze_pwm_keypad
+TRACE::2024-10-28.14:51:01::SCWSystem::dir created 
+TRACE::2024-10-28.14:51:01::SCWSystem::Writing the bif 
+TRACE::2024-10-28.14:51:01::SCWPlatform::Started writing the spfm file 
+TRACE::2024-10-28.14:51:01::SCWPlatform::Started writing the xpfm file 
+TRACE::2024-10-28.14:51:01::SCWPlatform::Completed generating the platform
+TRACE::2024-10-28.14:51:01::SCWPlatform::Trying to open the hw design at C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/hw/Micro_blaze_pwm_keypad_wrapper.xsa
+TRACE::2024-10-28.14:51:01::SCWPlatform::DSA given C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/hw/Micro_blaze_pwm_keypad_wrapper.xsa
+TRACE::2024-10-28.14:51:01::SCWPlatform::DSA absoulate path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/hw/Micro_blaze_pwm_keypad_wrapper.xsa
+TRACE::2024-10-28.14:51:01::SCWPlatform::DSA directory C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/hw
+TRACE::2024-10-28.14:51:01::SCWPlatform:: Platform Path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/hw/Micro_blaze_pwm_keypad_wrapper.xsa
+TRACE::2024-10-28.14:51:01::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2024-10-28.14:51:01::SCWPlatform::Trying to set the existing hwdb with name Micro_blaze_pwm_keypad_wrapper_1
+TRACE::2024-10-28.14:51:01::SCWPlatform::Opened existing hwdb Micro_blaze_pwm_keypad_wrapper_1
+TRACE::2024-10-28.14:51:01::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-10-28.14:51:01::SCWMssOS::Checking the sw design at  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-10-28.14:51:01::SCWMssOS::DEBUG:  swdes dump  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2024-10-28.14:51:01::SCWMssOS::Sw design exists and opened at  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-10-28.14:51:01::SCWWriter::formatted JSON is {
+	"platformName":	"Mblaze_pwm_keypad",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"Mblaze_pwm_keypad",
+	"platHandOff":	"C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/Micro_blaze_pwm_keypad_wrapper.xsa",
+	"platIntHandOff":	"<platformDir>/hw/Micro_blaze_pwm_keypad_wrapper.xsa",
+	"deviceType":	"FPGA",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"Mblaze_pwm_keypad",
+	"systems":	[{
+			"systemName":	"Mblaze_pwm_keypad",
+			"systemDesc":	"Mblaze_pwm_keypad",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"Mblaze_pwm_keypad",
+			"sysActiveDom":	"standalone_domain",
+			"sysDefaultDom":	"standalone_domain",
+			"domains":	[{
+					"domainName":	"standalone_domain",
+					"domainDispName":	"standalone on microblaze_0",
+					"domainDesc":	"standalone_domain",
+					"processors":	"microblaze_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"7.1",
+					"mssFile":	"",
+					"md5Digest":	"d3e24e5ee02f6b6e7b521aeb995ff49f",
+					"compatibleApp":	"",
+					"domType":	"mssDomain",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	[],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+KEYINFO::2024-10-28.14:51:01::SCWPlatform::updated the xpfm file.
+TRACE::2024-10-28.14:51:03::SCWPlatform::Trying to open the hw design at C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/hw/Micro_blaze_pwm_keypad_wrapper.xsa
+TRACE::2024-10-28.14:51:03::SCWPlatform::DSA given C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/hw/Micro_blaze_pwm_keypad_wrapper.xsa
+TRACE::2024-10-28.14:51:03::SCWPlatform::DSA absoulate path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/hw/Micro_blaze_pwm_keypad_wrapper.xsa
+TRACE::2024-10-28.14:51:03::SCWPlatform::DSA directory C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/hw
+TRACE::2024-10-28.14:51:03::SCWPlatform:: Platform Path C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/hw/Micro_blaze_pwm_keypad_wrapper.xsa
+TRACE::2024-10-28.14:51:03::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2024-10-28.14:51:03::SCWPlatform::Trying to set the existing hwdb with name Micro_blaze_pwm_keypad_wrapper_1
+TRACE::2024-10-28.14:51:03::SCWPlatform::Opened existing hwdb Micro_blaze_pwm_keypad_wrapper_1
+TRACE::2024-10-28.14:51:03::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-10-28.14:51:03::SCWMssOS::Checking the sw design at  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2024-10-28.14:51:03::SCWMssOS::DEBUG:  swdes dump  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2024-10-28.14:51:03::SCWMssOS::Sw design exists and opened at  C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad/microblaze_0/standalone_domain/bsp/system.mss

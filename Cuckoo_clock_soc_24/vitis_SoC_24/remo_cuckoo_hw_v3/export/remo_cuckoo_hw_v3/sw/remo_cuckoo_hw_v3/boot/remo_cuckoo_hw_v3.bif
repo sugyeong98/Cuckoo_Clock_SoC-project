@@ -1,0 +1,6 @@
+/*remo_cuckoo_hw_v3*/
+the_ROM_image:
+{
+   <bitstream> 
+   <elf> 
+}

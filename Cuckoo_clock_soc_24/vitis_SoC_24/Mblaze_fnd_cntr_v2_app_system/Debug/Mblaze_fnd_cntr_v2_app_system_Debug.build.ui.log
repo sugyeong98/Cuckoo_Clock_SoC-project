@@ -1,0 +1,6 @@
+2024-10-24T14:42:58.239034700255-14:42:58 **** Build of configuration Debug for project Mblaze_fnd_cntr_v2_app_system ****
+000-make all 
+000-Skipping SD card image generation. Reason: "The system project only has applications for microblaze processors."
+00255-
+14:42:58 Build Finished (took 262ms)
+

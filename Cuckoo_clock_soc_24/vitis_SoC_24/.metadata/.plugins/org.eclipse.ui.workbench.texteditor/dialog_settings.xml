@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.ui.texteditor.GotoLineAction$GotoLineDialog_dialogBounds">
+		<item value="932" key="DIALOG_X_ORIGIN"/>
+		<item value="497" key="DIALOG_Y_ORIGIN"/>
+	</section>
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
+		<item value="//    u32 data = 0;" key="selection"/>
+		<list key="findhistory">
+			<item value="//    u32 data = 0;"/>
+			<item value="g_ptr =XGpio_LookupConfig(SWITCH_ID);"/>
+		</list>
+	</section>
+</section>

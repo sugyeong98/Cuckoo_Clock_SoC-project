@@ -1,0 +1,6 @@
+2024-10-23T11:08:39.684434400255-11:08:39 **** Incremental Build of configuration Debug for project Mblaze_fnd_app_system ****
+000-make all 
+000-Skipping SD card image generation. Reason: "The system project only has applications for microblaze processors."
+00255-
+11:08:40 Build Finished (took 358ms)
+

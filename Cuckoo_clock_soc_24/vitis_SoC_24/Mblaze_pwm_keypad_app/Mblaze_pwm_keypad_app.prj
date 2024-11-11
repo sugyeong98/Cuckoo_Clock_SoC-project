@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="ASCII"?>
+<sdkproject:SdkProject xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:sdkproject="http://www.xilinx.com/sdkproject" name="Mblaze_pwm_keypad_app" location="C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_pwm_keypad_app" platform="C:/Users/SUJIN/Desktop/sg_workspace/SoC_soc_24/vitis_SoC_24/Mblaze_keypad_pwm_hw_v2/export/Mblaze_keypad_pwm_hw_v2/Mblaze_keypad_pwm_hw_v2.xpfm" platformUID="xilinx:basys3::0.0(custom)" systemProject="Mblaze_pwm_keypad_app_system" sysConfig="Mblaze_keypad_pwm_hw_v2" runtime="C/C++" cpu="standalone_domain" cpuInstance="microblaze_0" os="standalone" dimmRepoPath="" mssSignature="d5bf110a8524372994c50623288d3911">
+  <configuration name="Debug" id="xilinx.gnu.mb.exe.debug.1569649760">
+    <configBuildOptions xsi:type="sdkproject:SdkOptions"/>
+    <lastBuildOptions xsi:type="sdkproject:SdkOptions"/>
+  </configuration>
+  <configuration name="Release" id="xilinx.gnu.mb.exe.release.1716366769" dirty="true">
+    <configBuildOptions xsi:type="sdkproject:SdkOptions"/>
+  </configuration>
+  <template appTemplateName="hello_world"/>
+</sdkproject:SdkProject>

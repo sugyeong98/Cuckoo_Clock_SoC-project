@@ -1,0 +1,6 @@
+/*Mblaze_iic_00_hw*/
+the_ROM_image:
+{
+   <bitstream> 
+   <elf> 
+}

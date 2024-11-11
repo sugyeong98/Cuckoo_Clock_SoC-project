@@ -1,0 +1,12 @@
+vhdl xil_defaultlib  \
+"../../../bd/Micro_blaze_iic/ip/Micro_blaze_iic_microblaze_0_0/sim/Micro_blaze_iic_microblaze_0_0.vhd" \
+"../../../bd/Micro_blaze_iic/ip/Micro_blaze_iic_dlmb_v10_0/sim/Micro_blaze_iic_dlmb_v10_0.vhd" \
+"../../../bd/Micro_blaze_iic/ip/Micro_blaze_iic_ilmb_v10_0/sim/Micro_blaze_iic_ilmb_v10_0.vhd" \
+"../../../bd/Micro_blaze_iic/ip/Micro_blaze_iic_dlmb_bram_if_cntlr_0/sim/Micro_blaze_iic_dlmb_bram_if_cntlr_0.vhd" \
+"../../../bd/Micro_blaze_iic/ip/Micro_blaze_iic_ilmb_bram_if_cntlr_0/sim/Micro_blaze_iic_ilmb_bram_if_cntlr_0.vhd" \
+"../../../bd/Micro_blaze_iic/ip/Micro_blaze_iic_mdm_1_0/sim/Micro_blaze_iic_mdm_1_0.vhd" \
+"../../../bd/Micro_blaze_iic/ip/Micro_blaze_iic_rst_clk_wiz_0_100M_0/sim/Micro_blaze_iic_rst_clk_wiz_0_100M_0.vhd" \
+"../../../bd/Micro_blaze_iic/ip/Micro_blaze_iic_axi_uartlite_0_0/sim/Micro_blaze_iic_axi_uartlite_0_0.vhd" \
+"../../../bd/Micro_blaze_iic/ip/Micro_blaze_iic_axi_iic_0_0/sim/Micro_blaze_iic_axi_iic_0_0.vhd" \
+
+nosort

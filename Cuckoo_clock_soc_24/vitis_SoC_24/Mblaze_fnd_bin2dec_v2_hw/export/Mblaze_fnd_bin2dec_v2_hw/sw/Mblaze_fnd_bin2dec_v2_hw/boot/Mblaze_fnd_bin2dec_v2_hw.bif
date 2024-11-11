@@ -1,0 +1,6 @@
+/*Mblaze_fnd_bin2dec_v2_hw*/
+the_ROM_image:
+{
+   <bitstream> 
+   <elf> 
+}
