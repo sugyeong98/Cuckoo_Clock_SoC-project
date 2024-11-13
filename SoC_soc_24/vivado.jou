@@ -1,0 +1,557 @@
+#-----------------------------------------------------------
+# Vivado v2019.2 (64-bit)
+# SW Build 2708876 on Wed Nov  6 21:40:23 MST 2019
+# IP Build 2700528 on Thu Nov  7 00:09:20 MST 2019
+# Start of session at: Mon Nov 11 14:48:42 2024
+# Process ID: 38876
+# Current directory: C:/Users/hama5/Desktop/sg_workspace/SoC_soc_24
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent26276 C:\Users\hama5\Desktop\sg_workspace\SoC_soc_24\SoC_soc_24.xpr
+# Log file: C:/Users/hama5/Desktop/sg_workspace/SoC_soc_24/vivado.log
+# Journal file: C:/Users/hama5/Desktop/sg_workspace/SoC_soc_24\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project C:/Users/hama5/Desktop/sg_workspace/SoC_soc_24/SoC_soc_24.xpr
+update_compile_order -fileset sources_1
+open_bd_design {C:/Users/hama5/Desktop/sg_workspace/SoC_soc_24/SoC_soc_24.srcs/sources_1/bd/Remo_cuckoo/Remo_cuckoo.bd}
+ipx::edit_ip_in_project -upgrade true -name myip_clock_timer_v1_0_project -directory C:/Users/hama5/Desktop/sg_workspace/SoC_soc_24/SoC_soc_24.tmp/myip_clock_timer_v1_0_project c:/Users/hama5/Desktop/sg_workspace/ip_repo/myip_clock_timer_1.0/component.xml
+update_compile_order -fileset sources_1
+ipx::merge_project_changes files [ipx::current_core]
+ipx::update_checksums [ipx::current_core]
+ipx::save_core [ipx::current_core]
+set_property core_revision 4 [ipx::current_core]
+ipx::update_source_project_archive -component [ipx::current_core]
+ipx::create_xgui_files [ipx::current_core]
+ipx::update_checksums [ipx::current_core]
+ipx::save_core [ipx::current_core]
+ipx::move_temp_component_back -component [ipx::current_core]
+close_project -delete
+update_ip_catalog -rebuild -repo_path c:/Users/hama5/Desktop/sg_workspace/ip_repo/myip_clock_timer_1.0
+report_ip_status -name ip_status 
+upgrade_ip -vlnv xilinx.com:user:myip_clock_timer:1.0 [get_ips  Remo_cuckoo_myip_clock_timer_0_0] -log ip_upgrade.log
+export_ip_user_files -of_objects [get_ips Remo_cuckoo_myip_clock_timer_0_0] -no_script -sync -force -quiet
+generate_target all [get_files  C:/Users/hama5/Desktop/sg_workspace/SoC_soc_24/SoC_soc_24.srcs/sources_1/bd/Remo_cuckoo/Remo_cuckoo.bd]
+export_ip_user_files -of_objects [get_files C:/Users/hama5/Desktop/sg_workspace/SoC_soc_24/SoC_soc_24.srcs/sources_1/bd/Remo_cuckoo/Remo_cuckoo.bd] -no_script -sync -force -quiet
+export_simulation -of_objects [get_files C:/Users/hama5/Desktop/sg_workspace/SoC_soc_24/SoC_soc_24.srcs/sources_1/bd/Remo_cuckoo/Remo_cuckoo.bd] -directory C:/Users/hama5/Desktop/sg_workspace/SoC_soc_24/SoC_soc_24.ip_user_files/sim_scripts -ip_user_files_dir C:/Users/hama5/Desktop/sg_workspace/SoC_soc_24/SoC_soc_24.ip_user_files -ipstatic_source_dir C:/Users/hama5/Desktop/sg_workspace/SoC_soc_24/SoC_soc_24.ip_user_files/ipstatic -lib_map_path [list {modelsim=C:/Users/hama5/Desktop/sg_workspace/SoC_soc_24/SoC_soc_24.cache/compile_simlib/modelsim} {questa=C:/Users/hama5/Desktop/sg_workspace/SoC_soc_24/SoC_soc_24.cache/compile_simlib/questa} {riviera=C:/Users/hama5/Desktop/sg_workspace/SoC_soc_24/SoC_soc_24.cache/compile_simlib/riviera} {activehdl=C:/Users/hama5/Desktop/sg_workspace/SoC_soc_24/SoC_soc_24.cache/compile_simlib/activehdl}] -use_ip_compiled_libs -force -quiet
+report_ip_status -name ip_status 
+make_wrapper -files [get_files C:/Users/hama5/Desktop/sg_workspace/SoC_soc_24/SoC_soc_24.srcs/sources_1/bd/Remo_cuckoo/Remo_cuckoo.bd] -top
+reset_run synth_1
+reset_run Micro_blaze_iic_v0_lmb_bram_0_synth_1
+launch_runs impl_1 -to_step write_bitstream -jobs 24
+wait_on_run impl_1
+open_bd_design {C:/Users/hama5/Desktop/sg_workspace/SoC_soc_24/SoC_soc_24.srcs/sources_1/bd/Remo_cuckoo/Remo_cuckoo.bd}
+ipx::edit_ip_in_project -upgrade true -name myip_clock_timer_v1_0_project -directory C:/Users/hama5/Desktop/sg_workspace/SoC_soc_24/SoC_soc_24.tmp/myip_clock_timer_v1_0_project c:/Users/hama5/Desktop/sg_workspace/ip_repo/myip_clock_timer_1.0/component.xml
+update_compile_order -fileset sources_1
+current_project SoC_soc_24
+open_bd_design {C:/Users/hama5/Desktop/sg_workspace/SoC_soc_24/SoC_soc_24.srcs/sources_1/bd/Remo_cuckoo/Remo_cuckoo.bd}
+current_project myip_clock_timer_v1_0_project
+set_property core_revision 5 [ipx::current_core]
+ipx::update_source_project_archive -component [ipx::current_core]
+ipx::create_xgui_files [ipx::current_core]
+ipx::update_checksums [ipx::current_core]
+ipx::save_core [ipx::current_core]
+ipx::move_temp_component_back -component [ipx::current_core]
+close_project -delete
+update_ip_catalog -rebuild -repo_path c:/Users/hama5/Desktop/sg_workspace/ip_repo/myip_clock_timer_1.0
+report_ip_status -name ip_status 
+upgrade_ip -vlnv xilinx.com:user:myip_clock_timer:1.0 [get_ips  Remo_cuckoo_myip_clock_timer_0_0] -log ip_upgrade.log
+export_ip_user_files -of_objects [get_ips Remo_cuckoo_myip_clock_timer_0_0] -no_script -sync -force -quiet
+generate_target all [get_files  C:/Users/hama5/Desktop/sg_workspace/SoC_soc_24/SoC_soc_24.srcs/sources_1/bd/Remo_cuckoo/Remo_cuckoo.bd]
+export_ip_user_files -of_objects [get_files C:/Users/hama5/Desktop/sg_workspace/SoC_soc_24/SoC_soc_24.srcs/sources_1/bd/Remo_cuckoo/Remo_cuckoo.bd] -no_script -sync -force -quiet
+export_simulation -of_objects [get_files C:/Users/hama5/Desktop/sg_workspace/SoC_soc_24/SoC_soc_24.srcs/sources_1/bd/Remo_cuckoo/Remo_cuckoo.bd] -directory C:/Users/hama5/Desktop/sg_workspace/SoC_soc_24/SoC_soc_24.ip_user_files/sim_scripts -ip_user_files_dir C:/Users/hama5/Desktop/sg_workspace/SoC_soc_24/SoC_soc_24.ip_user_files -ipstatic_source_dir C:/Users/hama5/Desktop/sg_workspace/SoC_soc_24/SoC_soc_24.ip_user_files/ipstatic -lib_map_path [list {modelsim=C:/Users/hama5/Desktop/sg_workspace/SoC_soc_24/SoC_soc_24.cache/compile_simlib/modelsim} {questa=C:/Users/hama5/Desktop/sg_workspace/SoC_soc_24/SoC_soc_24.cache/compile_simlib/questa} {riviera=C:/Users/hama5/Desktop/sg_workspace/SoC_soc_24/SoC_soc_24.cache/compile_simlib/riviera} {activehdl=C:/Users/hama5/Desktop/sg_workspace/SoC_soc_24/SoC_soc_24.cache/compile_simlib/activehdl}] -use_ip_compiled_libs -force -quiet
+make_wrapper -files [get_files C:/Users/hama5/Desktop/sg_workspace/SoC_soc_24/SoC_soc_24.srcs/sources_1/bd/Remo_cuckoo/Remo_cuckoo.bd] -top
+open_bd_design {C:/Users/hama5/Desktop/sg_workspace/SoC_soc_24/SoC_soc_24.srcs/sources_1/bd/Remo_cuckoo/Remo_cuckoo.bd}
+report_ip_status -name ip_status 
+reset_run synth_1
+reset_run Micro_blaze_iic_v0_lmb_bram_0_synth_1
+launch_runs impl_1 -to_step write_bitstream -jobs 24
+wait_on_run impl_1
+open_bd_design {C:/Users/hama5/Desktop/sg_workspace/SoC_soc_24/SoC_soc_24.srcs/sources_1/bd/Remo_cuckoo/Remo_cuckoo.bd}
+ipx::edit_ip_in_project -upgrade true -name myip_clock_timer_v1_0_project -directory C:/Users/hama5/Desktop/sg_workspace/SoC_soc_24/SoC_soc_24.tmp/myip_clock_timer_v1_0_project c:/Users/hama5/Desktop/sg_workspace/ip_repo/myip_clock_timer_1.0/component.xml
+update_compile_order -fileset sources_1
+current_project SoC_soc_24
+ipx::edit_ip_in_project -upgrade true -name myip_clock_timer_v1_0_project -directory C:/Users/hama5/Desktop/sg_workspace/SoC_soc_24/SoC_soc_24.tmp/myip_clock_timer_v1_0_project c:/Users/hama5/Desktop/sg_workspace/ip_repo/myip_clock_timer_1.0/component.xml
+current_project myip_clock_timer_v1_0_project
+current_project SoC_soc_24
+open_bd_design {C:/Users/hama5/Desktop/sg_workspace/SoC_soc_24/SoC_soc_24.srcs/sources_1/bd/Remo_cuckoo/Remo_cuckoo.bd}
+delete_bd_objs [get_bd_intf_nets microblaze_0_axi_periph_M02_AXI] [get_bd_cells myip_clock_timer_0]
+startgroup
+create_bd_cell -type ip -vlnv xilinx.com:user:myip_clock_timer:1.0 myip_clock_timer_0
+endgroup
+apply_bd_automation -rule xilinx.com:bd_rule:axi4 -config { Clk_master {/clk_wiz_0/clk_out1 (100 MHz)} Clk_slave {Auto} Clk_xbar {/clk_wiz_0/clk_out1 (100 MHz)} Master {/microblaze_0 (Periph)} Slave {/myip_clock_timer_0/S00_AXI} ddr_seg {Auto} intc_ip {/microblaze_0_axi_periph} master_apm {0}}  [get_bd_intf_pins myip_clock_timer_0/S00_AXI]
+regenerate_bd_layout
+validate_bd_design
+save_bd_design
+make_wrapper -files [get_files C:/Users/hama5/Desktop/sg_workspace/SoC_soc_24/SoC_soc_24.srcs/sources_1/bd/Remo_cuckoo/Remo_cuckoo.bd] -top
+reset_run synth_1
+launch_runs impl_1 -to_step write_bitstream -jobs 24
+wait_on_run impl_1
+write_hw_platform -fixed -force  -include_bit -file C:/Users/hama5/Desktop/sg_workspace/SoC_soc_24/Remo_cuckoo_wrapper.xsa
+current_project myip_clock_timer_v1_0_project
+close_project
+ipx::edit_ip_in_project -upgrade true -name myip_clock_timer_v1_0_project -directory C:/Users/hama5/Desktop/sg_workspace/SoC_soc_24/SoC_soc_24.tmp/myip_clock_timer_v1_0_project c:/Users/hama5/Desktop/sg_workspace/ip_repo/myip_clock_timer_1.0/component.xml
+update_compile_order -fileset sources_1
+close_project
+ipx::edit_ip_in_project -upgrade true -name myip_clock_timer_v1_0_project -directory C:/Users/hama5/Desktop/sg_workspace/SoC_soc_24/SoC_soc_24.tmp/myip_clock_timer_v1_0_project c:/Users/hama5/Desktop/sg_workspace/ip_repo/myip_clock_timer_1.0/component.xml
+update_compile_order -fileset sources_1
+current_project SoC_soc_24
+ipx::edit_ip_in_project -upgrade true -name myip_bluetooth_v1_0_project -directory C:/Users/hama5/Desktop/sg_workspace/SoC_soc_24/SoC_soc_24.tmp/myip_bluetooth_v1_0_project c:/Users/hama5/Desktop/sg_workspace/ip_repo/myip_bluetooth_1.0/component.xml
+update_compile_order -fileset sources_1
+current_project myip_clock_timer_v1_0_project
+close_project
+current_project SoC_soc_24
+ipx::edit_ip_in_project -upgrade true -name myip_clock_timer_v1_0_project -directory C:/Users/hama5/Desktop/sg_workspace/SoC_soc_24/SoC_soc_24.tmp/myip_clock_timer_v1_0_project c:/Users/hama5/Desktop/sg_workspace/ip_repo/myip_clock_timer_1.0/component.xml
+update_compile_order -fileset sources_1
+close_project
+ipx::merge_project_changes files [ipx::current_core]
+ipx::update_checksums [ipx::current_core]
+ipx::save_core [ipx::current_core]
+set_property core_revision 6 [ipx::current_core]
+ipx::update_source_project_archive -component [ipx::current_core]
+ipx::create_xgui_files [ipx::current_core]
+ipx::update_checksums [ipx::current_core]
+ipx::save_core [ipx::current_core]
+ipx::move_temp_component_back -component [ipx::current_core]
+close_project -delete
+update_ip_catalog -rebuild -repo_path c:/Users/hama5/Desktop/sg_workspace/ip_repo/myip_bluetooth_1.0
+report_ip_status -name ip_status 
+upgrade_ip -vlnv xilinx.com:user:myip_bluetooth:1.0 [get_ips  Remo_cuckoo_myip_bluetooth_0_0] -log ip_upgrade.log
+export_ip_user_files -of_objects [get_ips Remo_cuckoo_myip_bluetooth_0_0] -no_script -sync -force -quiet
+generate_target all [get_files  C:/Users/hama5/Desktop/sg_workspace/SoC_soc_24/SoC_soc_24.srcs/sources_1/bd/Remo_cuckoo/Remo_cuckoo.bd]
+export_ip_user_files -of_objects [get_files C:/Users/hama5/Desktop/sg_workspace/SoC_soc_24/SoC_soc_24.srcs/sources_1/bd/Remo_cuckoo/Remo_cuckoo.bd] -no_script -sync -force -quiet
+export_simulation -of_objects [get_files C:/Users/hama5/Desktop/sg_workspace/SoC_soc_24/SoC_soc_24.srcs/sources_1/bd/Remo_cuckoo/Remo_cuckoo.bd] -directory C:/Users/hama5/Desktop/sg_workspace/SoC_soc_24/SoC_soc_24.ip_user_files/sim_scripts -ip_user_files_dir C:/Users/hama5/Desktop/sg_workspace/SoC_soc_24/SoC_soc_24.ip_user_files -ipstatic_source_dir C:/Users/hama5/Desktop/sg_workspace/SoC_soc_24/SoC_soc_24.ip_user_files/ipstatic -lib_map_path [list {modelsim=C:/Users/hama5/Desktop/sg_workspace/SoC_soc_24/SoC_soc_24.cache/compile_simlib/modelsim} {questa=C:/Users/hama5/Desktop/sg_workspace/SoC_soc_24/SoC_soc_24.cache/compile_simlib/questa} {riviera=C:/Users/hama5/Desktop/sg_workspace/SoC_soc_24/SoC_soc_24.cache/compile_simlib/riviera} {activehdl=C:/Users/hama5/Desktop/sg_workspace/SoC_soc_24/SoC_soc_24.cache/compile_simlib/activehdl}] -use_ip_compiled_libs -force -quiet
+report_ip_status -name ip_status 
+delete_bd_objs [get_bd_nets rx_0_1] [get_bd_nets myip_bluetooth_0_tx] [get_bd_intf_nets microblaze_0_axi_periph_M05_AXI] [get_bd_cells myip_bluetooth_0]
+startgroup
+create_bd_cell -type ip -vlnv xilinx.com:user:myip_bluetooth:1.0 myip_bluetooth_0
+endgroup
+set_property location {6 1720 818} [get_bd_cells myip_bluetooth_0]
+set_property location {1938 824} [get_bd_ports tx_0]
+apply_bd_automation -rule xilinx.com:bd_rule:axi4 -config { Clk_master {/clk_wiz_0/clk_out1 (100 MHz)} Clk_slave {Auto} Clk_xbar {/clk_wiz_0/clk_out1 (100 MHz)} Master {/microblaze_0 (Periph)} Slave {/myip_bluetooth_0/S00_AXI} ddr_seg {Auto} intc_ip {/microblaze_0_axi_periph} master_apm {0}}  [get_bd_intf_pins myip_bluetooth_0/S00_AXI]
+startgroup
+make_bd_pins_external  [get_bd_cells myip_bluetooth_0]
+make_bd_intf_pins_external  [get_bd_cells myip_bluetooth_0]
+endgroup
+delete_bd_objs [get_bd_nets myip_bluetooth_0_tx] [get_bd_ports tx_1]
+startgroup
+make_bd_pins_external  [get_bd_cells myip_bluetooth_0]
+make_bd_intf_pins_external  [get_bd_cells myip_bluetooth_0]
+endgroup
+delete_bd_objs [get_bd_ports tx_0]
+delete_bd_objs [get_bd_ports rx_0]
+delete_bd_objs [get_bd_nets rx_1_1] [get_bd_ports rx_1]
+delete_bd_objs [get_bd_nets myip_bluetooth_0_tx] [get_bd_ports tx_1]
+startgroup
+make_bd_pins_external  [get_bd_cells myip_bluetooth_0]
+make_bd_intf_pins_external  [get_bd_cells myip_bluetooth_0]
+endgroup
+report_ip_status -name ip_status 
+generate_target all [get_files  C:/Users/hama5/Desktop/sg_workspace/SoC_soc_24/SoC_soc_24.srcs/sources_1/bd/Remo_cuckoo/Remo_cuckoo.bd]
+export_ip_user_files -of_objects [get_files C:/Users/hama5/Desktop/sg_workspace/SoC_soc_24/SoC_soc_24.srcs/sources_1/bd/Remo_cuckoo/Remo_cuckoo.bd] -no_script -sync -force -quiet
+export_simulation -of_objects [get_files C:/Users/hama5/Desktop/sg_workspace/SoC_soc_24/SoC_soc_24.srcs/sources_1/bd/Remo_cuckoo/Remo_cuckoo.bd] -directory C:/Users/hama5/Desktop/sg_workspace/SoC_soc_24/SoC_soc_24.ip_user_files/sim_scripts -ip_user_files_dir C:/Users/hama5/Desktop/sg_workspace/SoC_soc_24/SoC_soc_24.ip_user_files -ipstatic_source_dir C:/Users/hama5/Desktop/sg_workspace/SoC_soc_24/SoC_soc_24.ip_user_files/ipstatic -lib_map_path [list {modelsim=C:/Users/hama5/Desktop/sg_workspace/SoC_soc_24/SoC_soc_24.cache/compile_simlib/modelsim} {questa=C:/Users/hama5/Desktop/sg_workspace/SoC_soc_24/SoC_soc_24.cache/compile_simlib/questa} {riviera=C:/Users/hama5/Desktop/sg_workspace/SoC_soc_24/SoC_soc_24.cache/compile_simlib/riviera} {activehdl=C:/Users/hama5/Desktop/sg_workspace/SoC_soc_24/SoC_soc_24.cache/compile_simlib/activehdl}] -use_ip_compiled_libs -force -quiet
+report_ip_status -name ip_status 
+reset_run synth_1
+reset_run Micro_blaze_iic_v0_lmb_bram_0_synth_1
+make_wrapper -files [get_files C:/Users/hama5/Desktop/sg_workspace/SoC_soc_24/SoC_soc_24.srcs/sources_1/bd/Remo_cuckoo/Remo_cuckoo.bd] -top
+launch_runs impl_1 -to_step write_bitstream -jobs 24
+wait_on_run impl_1
+open_bd_design {C:/Users/hama5/Desktop/sg_workspace/SoC_soc_24/SoC_soc_24.srcs/sources_1/bd/Remo_cuckoo/Remo_cuckoo.bd}
+delete_bd_objs [get_bd_intf_nets microblaze_0_axi_periph_M02_AXI] [get_bd_cells myip_clock_timer_0]
+startgroup
+create_bd_cell -type ip -vlnv xilinx.com:user:myip_clock_timer:1.0 myip_clock_timer_0
+endgroup
+apply_bd_automation -rule xilinx.com:bd_rule:axi4 -config { Clk_master {/clk_wiz_0/clk_out1 (100 MHz)} Clk_slave {Auto} Clk_xbar {/clk_wiz_0/clk_out1 (100 MHz)} Master {/microblaze_0 (Periph)} Slave {/myip_clock_timer_0/S00_AXI} ddr_seg {Auto} intc_ip {/microblaze_0_axi_periph} master_apm {0}}  [get_bd_intf_pins myip_clock_timer_0/S00_AXI]
+regenerate_bd_layout
+validate_bd_design
+save_bd_design
+reset_run synth_1
+make_wrapper -files [get_files C:/Users/hama5/Desktop/sg_workspace/SoC_soc_24/SoC_soc_24.srcs/sources_1/bd/Remo_cuckoo/Remo_cuckoo.bd] -top
+generate_target all [get_files  C:/Users/hama5/Desktop/sg_workspace/SoC_soc_24/SoC_soc_24.srcs/sources_1/bd/Remo_cuckoo/Remo_cuckoo.bd]
+export_ip_user_files -of_objects [get_files C:/Users/hama5/Desktop/sg_workspace/SoC_soc_24/SoC_soc_24.srcs/sources_1/bd/Remo_cuckoo/Remo_cuckoo.bd] -no_script -sync -force -quiet
+export_simulation -of_objects [get_files C:/Users/hama5/Desktop/sg_workspace/SoC_soc_24/SoC_soc_24.srcs/sources_1/bd/Remo_cuckoo/Remo_cuckoo.bd] -directory C:/Users/hama5/Desktop/sg_workspace/SoC_soc_24/SoC_soc_24.ip_user_files/sim_scripts -ip_user_files_dir C:/Users/hama5/Desktop/sg_workspace/SoC_soc_24/SoC_soc_24.ip_user_files -ipstatic_source_dir C:/Users/hama5/Desktop/sg_workspace/SoC_soc_24/SoC_soc_24.ip_user_files/ipstatic -lib_map_path [list {modelsim=C:/Users/hama5/Desktop/sg_workspace/SoC_soc_24/SoC_soc_24.cache/compile_simlib/modelsim} {questa=C:/Users/hama5/Desktop/sg_workspace/SoC_soc_24/SoC_soc_24.cache/compile_simlib/questa} {riviera=C:/Users/hama5/Desktop/sg_workspace/SoC_soc_24/SoC_soc_24.cache/compile_simlib/riviera} {activehdl=C:/Users/hama5/Desktop/sg_workspace/SoC_soc_24/SoC_soc_24.cache/compile_simlib/activehdl}] -use_ip_compiled_libs -force -quiet
+reset_run Micro_blaze_iic_v0_lmb_bram_0_synth_1
+launch_runs impl_1 -to_step write_bitstream -jobs 24
+wait_on_run impl_1
+write_hw_platform -fixed -force  -include_bit -file C:/Users/hama5/Desktop/sg_workspace/SoC_soc_24/Remo_cuckoo_wrapper.xsa
+ipx::edit_ip_in_project -upgrade true -name myip_bluetooth_v1_0_project -directory C:/Users/hama5/Desktop/sg_workspace/SoC_soc_24/SoC_soc_24.tmp/myip_bluetooth_v1_0_project c:/Users/hama5/Desktop/sg_workspace/ip_repo/myip_bluetooth_1.0/component.xml
+update_compile_order -fileset sources_1
+ipx::merge_project_changes files [ipx::current_core]
+ipx::update_checksums [ipx::current_core]
+ipx::save_core [ipx::current_core]
+set_property core_revision 7 [ipx::current_core]
+ipx::update_source_project_archive -component [ipx::current_core]
+ipx::create_xgui_files [ipx::current_core]
+ipx::update_checksums [ipx::current_core]
+ipx::save_core [ipx::current_core]
+ipx::move_temp_component_back -component [ipx::current_core]
+close_project -delete
+update_ip_catalog -rebuild -repo_path c:/Users/hama5/Desktop/sg_workspace/ip_repo/myip_bluetooth_1.0
+report_ip_status -name ip_status 
+upgrade_ip -vlnv xilinx.com:user:myip_bluetooth:1.0 [get_ips  Remo_cuckoo_myip_bluetooth_0_1] -log ip_upgrade.log
+export_ip_user_files -of_objects [get_ips Remo_cuckoo_myip_bluetooth_0_1] -no_script -sync -force -quiet
+generate_target all [get_files  C:/Users/hama5/Desktop/sg_workspace/SoC_soc_24/SoC_soc_24.srcs/sources_1/bd/Remo_cuckoo/Remo_cuckoo.bd]
+export_ip_user_files -of_objects [get_files C:/Users/hama5/Desktop/sg_workspace/SoC_soc_24/SoC_soc_24.srcs/sources_1/bd/Remo_cuckoo/Remo_cuckoo.bd] -no_script -sync -force -quiet
+export_simulation -of_objects [get_files C:/Users/hama5/Desktop/sg_workspace/SoC_soc_24/SoC_soc_24.srcs/sources_1/bd/Remo_cuckoo/Remo_cuckoo.bd] -directory C:/Users/hama5/Desktop/sg_workspace/SoC_soc_24/SoC_soc_24.ip_user_files/sim_scripts -ip_user_files_dir C:/Users/hama5/Desktop/sg_workspace/SoC_soc_24/SoC_soc_24.ip_user_files -ipstatic_source_dir C:/Users/hama5/Desktop/sg_workspace/SoC_soc_24/SoC_soc_24.ip_user_files/ipstatic -lib_map_path [list {modelsim=C:/Users/hama5/Desktop/sg_workspace/SoC_soc_24/SoC_soc_24.cache/compile_simlib/modelsim} {questa=C:/Users/hama5/Desktop/sg_workspace/SoC_soc_24/SoC_soc_24.cache/compile_simlib/questa} {riviera=C:/Users/hama5/Desktop/sg_workspace/SoC_soc_24/SoC_soc_24.cache/compile_simlib/riviera} {activehdl=C:/Users/hama5/Desktop/sg_workspace/SoC_soc_24/SoC_soc_24.cache/compile_simlib/activehdl}] -use_ip_compiled_libs -force -quiet
+report_ip_status -name ip_status 
+make_wrapper -files [get_files C:/Users/hama5/Desktop/sg_workspace/SoC_soc_24/SoC_soc_24.srcs/sources_1/bd/Remo_cuckoo/Remo_cuckoo.bd] -top
+reset_run synth_1
+reset_run Micro_blaze_iic_v0_lmb_bram_0_synth_1
+launch_runs impl_1 -to_step write_bitstream -jobs 24
+wait_on_run impl_1
+write_hw_platform -fixed -force  -include_bit -file C:/Users/hama5/Desktop/sg_workspace/SoC_soc_24/Remo_cuckoo_wrapper.xsa
+ipx::edit_ip_in_project -upgrade true -name myip_bluetooth_v1_0_project -directory C:/Users/hama5/Desktop/sg_workspace/SoC_soc_24/SoC_soc_24.tmp/myip_bluetooth_v1_0_project c:/Users/hama5/Desktop/sg_workspace/ip_repo/myip_bluetooth_1.0/component.xml
+update_compile_order -fileset sources_1
+ipx::merge_project_changes files [ipx::current_core]
+ipx::update_checksums [ipx::current_core]
+ipx::save_core [ipx::current_core]
+set_property core_revision 8 [ipx::current_core]
+ipx::update_source_project_archive -component [ipx::current_core]
+ipx::create_xgui_files [ipx::current_core]
+ipx::update_checksums [ipx::current_core]
+ipx::save_core [ipx::current_core]
+ipx::move_temp_component_back -component [ipx::current_core]
+close_project -delete
+update_ip_catalog -rebuild -repo_path c:/Users/hama5/Desktop/sg_workspace/ip_repo/myip_bluetooth_1.0
+report_ip_status -name ip_status 
+upgrade_ip -vlnv xilinx.com:user:myip_bluetooth:1.0 [get_ips  Remo_cuckoo_myip_bluetooth_0_1] -log ip_upgrade.log
+export_ip_user_files -of_objects [get_ips Remo_cuckoo_myip_bluetooth_0_1] -no_script -sync -force -quiet
+generate_target all [get_files  C:/Users/hama5/Desktop/sg_workspace/SoC_soc_24/SoC_soc_24.srcs/sources_1/bd/Remo_cuckoo/Remo_cuckoo.bd]
+export_ip_user_files -of_objects [get_files C:/Users/hama5/Desktop/sg_workspace/SoC_soc_24/SoC_soc_24.srcs/sources_1/bd/Remo_cuckoo/Remo_cuckoo.bd] -no_script -sync -force -quiet
+export_simulation -of_objects [get_files C:/Users/hama5/Desktop/sg_workspace/SoC_soc_24/SoC_soc_24.srcs/sources_1/bd/Remo_cuckoo/Remo_cuckoo.bd] -directory C:/Users/hama5/Desktop/sg_workspace/SoC_soc_24/SoC_soc_24.ip_user_files/sim_scripts -ip_user_files_dir C:/Users/hama5/Desktop/sg_workspace/SoC_soc_24/SoC_soc_24.ip_user_files -ipstatic_source_dir C:/Users/hama5/Desktop/sg_workspace/SoC_soc_24/SoC_soc_24.ip_user_files/ipstatic -lib_map_path [list {modelsim=C:/Users/hama5/Desktop/sg_workspace/SoC_soc_24/SoC_soc_24.cache/compile_simlib/modelsim} {questa=C:/Users/hama5/Desktop/sg_workspace/SoC_soc_24/SoC_soc_24.cache/compile_simlib/questa} {riviera=C:/Users/hama5/Desktop/sg_workspace/SoC_soc_24/SoC_soc_24.cache/compile_simlib/riviera} {activehdl=C:/Users/hama5/Desktop/sg_workspace/SoC_soc_24/SoC_soc_24.cache/compile_simlib/activehdl}] -use_ip_compiled_libs -force -quiet
+report_ip_status -name ip_status 
+delete_bd_objs [get_bd_intf_nets microblaze_0_axi_periph_M02_AXI] [get_bd_cells myip_clock_timer_0]
+startgroup
+create_bd_cell -type ip -vlnv xilinx.com:user:myip_clock_timer:1.0 myip_clock_timer_0
+endgroup
+apply_bd_automation -rule xilinx.com:bd_rule:axi4 -config { Clk_master {/clk_wiz_0/clk_out1 (100 MHz)} Clk_slave {Auto} Clk_xbar {/clk_wiz_0/clk_out1 (100 MHz)} Master {/microblaze_0 (Periph)} Slave {/myip_clock_timer_0/S00_AXI} ddr_seg {Auto} intc_ip {/microblaze_0_axi_periph} master_apm {0}}  [get_bd_intf_pins myip_clock_timer_0/S00_AXI]
+regenerate_bd_layout
+validate_bd_design
+report_ip_status -name ip_status 
+save_bd_design
+make_wrapper -files [get_files C:/Users/hama5/Desktop/sg_workspace/SoC_soc_24/SoC_soc_24.srcs/sources_1/bd/Remo_cuckoo/Remo_cuckoo.bd] -top
+report_ip_status -name ip_status 
+reset_run synth_1
+reset_run Micro_blaze_iic_v0_lmb_bram_0_synth_1
+launch_runs impl_1 -to_step write_bitstream -jobs 24
+wait_on_run impl_1
+write_hw_platform -fixed -force  -include_bit -file C:/Users/hama5/Desktop/sg_workspace/SoC_soc_24/Remo_cuckoo_wrapper.xsa
+ipx::edit_ip_in_project -upgrade true -name myip_clock_timer_v1_0_project -directory C:/Users/hama5/Desktop/sg_workspace/SoC_soc_24/SoC_soc_24.tmp/myip_clock_timer_v1_0_project c:/Users/hama5/Desktop/sg_workspace/ip_repo/myip_clock_timer_1.0/component.xml
+update_compile_order -fileset sources_1
+current_project SoC_soc_24
+current_project myip_clock_timer_v1_0_project
+ipx::merge_project_changes files [ipx::current_core]
+ipx::update_checksums [ipx::current_core]
+ipx::save_core [ipx::current_core]
+set_property core_revision 6 [ipx::current_core]
+ipx::update_source_project_archive -component [ipx::current_core]
+ipx::create_xgui_files [ipx::current_core]
+ipx::update_checksums [ipx::current_core]
+ipx::save_core [ipx::current_core]
+ipx::move_temp_component_back -component [ipx::current_core]
+close_project -delete
+update_ip_catalog -rebuild -repo_path c:/Users/hama5/Desktop/sg_workspace/ip_repo/myip_clock_timer_1.0
+report_ip_status -name ip_status 
+upgrade_ip -vlnv xilinx.com:user:myip_clock_timer:1.0 [get_ips  Remo_cuckoo_myip_clock_timer_0_3] -log ip_upgrade.log
+export_ip_user_files -of_objects [get_ips Remo_cuckoo_myip_clock_timer_0_3] -no_script -sync -force -quiet
+delete_bd_objs [get_bd_intf_nets microblaze_0_axi_periph_M02_AXI] [get_bd_cells myip_clock_timer_0]
+update_ip_catalog -rebuild -scan_changes
+report_ip_status -name ip_status
+startgroup
+create_bd_cell -type ip -vlnv xilinx.com:user:myip_clock_timer:1.0 myip_clock_timer_0
+endgroup
+apply_bd_automation -rule xilinx.com:bd_rule:axi4 -config { Clk_master {/clk_wiz_0/clk_out1 (100 MHz)} Clk_slave {Auto} Clk_xbar {/clk_wiz_0/clk_out1 (100 MHz)} Master {/microblaze_0 (Periph)} Slave {/myip_clock_timer_0/S00_AXI} ddr_seg {Auto} intc_ip {/microblaze_0_axi_periph} master_apm {0}}  [get_bd_intf_pins myip_clock_timer_0/S00_AXI]
+regenerate_bd_layout
+report_ip_status -name ip_status 
+generate_target all [get_files  C:/Users/hama5/Desktop/sg_workspace/SoC_soc_24/SoC_soc_24.srcs/sources_1/bd/Remo_cuckoo/Remo_cuckoo.bd]
+export_ip_user_files -of_objects [get_files C:/Users/hama5/Desktop/sg_workspace/SoC_soc_24/SoC_soc_24.srcs/sources_1/bd/Remo_cuckoo/Remo_cuckoo.bd] -no_script -sync -force -quiet
+export_simulation -of_objects [get_files C:/Users/hama5/Desktop/sg_workspace/SoC_soc_24/SoC_soc_24.srcs/sources_1/bd/Remo_cuckoo/Remo_cuckoo.bd] -directory C:/Users/hama5/Desktop/sg_workspace/SoC_soc_24/SoC_soc_24.ip_user_files/sim_scripts -ip_user_files_dir C:/Users/hama5/Desktop/sg_workspace/SoC_soc_24/SoC_soc_24.ip_user_files -ipstatic_source_dir C:/Users/hama5/Desktop/sg_workspace/SoC_soc_24/SoC_soc_24.ip_user_files/ipstatic -lib_map_path [list {modelsim=C:/Users/hama5/Desktop/sg_workspace/SoC_soc_24/SoC_soc_24.cache/compile_simlib/modelsim} {questa=C:/Users/hama5/Desktop/sg_workspace/SoC_soc_24/SoC_soc_24.cache/compile_simlib/questa} {riviera=C:/Users/hama5/Desktop/sg_workspace/SoC_soc_24/SoC_soc_24.cache/compile_simlib/riviera} {activehdl=C:/Users/hama5/Desktop/sg_workspace/SoC_soc_24/SoC_soc_24.cache/compile_simlib/activehdl}] -use_ip_compiled_libs -force -quiet
+ipx::edit_ip_in_project -upgrade true -name myip_bluetooth_v1_0_project -directory C:/Users/hama5/Desktop/sg_workspace/SoC_soc_24/SoC_soc_24.tmp/myip_bluetooth_v1_0_project c:/Users/hama5/Desktop/sg_workspace/ip_repo/myip_bluetooth_1.0/component.xml
+update_compile_order -fileset sources_1
+current_project SoC_soc_24
+ipx::edit_ip_in_project -upgrade true -name myip_clock_timer_v1_0_project -directory C:/Users/hama5/Desktop/sg_workspace/SoC_soc_24/SoC_soc_24.tmp/myip_clock_timer_v1_0_project c:/Users/hama5/Desktop/sg_workspace/ip_repo/myip_clock_timer_1.0/component.xml
+update_compile_order -fileset sources_1
+current_project myip_bluetooth_v1_0_project
+close_project
+set_property core_revision 7 [ipx::current_core]
+ipx::update_source_project_archive -component [ipx::current_core]
+ipx::create_xgui_files [ipx::current_core]
+ipx::update_checksums [ipx::current_core]
+ipx::save_core [ipx::current_core]
+ipx::move_temp_component_back -component [ipx::current_core]
+close_project -delete
+update_ip_catalog -rebuild -repo_path c:/Users/hama5/Desktop/sg_workspace/ip_repo/myip_clock_timer_1.0
+report_ip_status -name ip_status 
+upgrade_ip -vlnv xilinx.com:user:myip_clock_timer:1.0 [get_ips  Remo_cuckoo_myip_clock_timer_0_4] -log ip_upgrade.log
+export_ip_user_files -of_objects [get_ips Remo_cuckoo_myip_clock_timer_0_4] -no_script -sync -force -quiet
+generate_target all [get_files  C:/Users/hama5/Desktop/sg_workspace/SoC_soc_24/SoC_soc_24.srcs/sources_1/bd/Remo_cuckoo/Remo_cuckoo.bd]
+export_ip_user_files -of_objects [get_files C:/Users/hama5/Desktop/sg_workspace/SoC_soc_24/SoC_soc_24.srcs/sources_1/bd/Remo_cuckoo/Remo_cuckoo.bd] -no_script -sync -force -quiet
+export_simulation -of_objects [get_files C:/Users/hama5/Desktop/sg_workspace/SoC_soc_24/SoC_soc_24.srcs/sources_1/bd/Remo_cuckoo/Remo_cuckoo.bd] -directory C:/Users/hama5/Desktop/sg_workspace/SoC_soc_24/SoC_soc_24.ip_user_files/sim_scripts -ip_user_files_dir C:/Users/hama5/Desktop/sg_workspace/SoC_soc_24/SoC_soc_24.ip_user_files -ipstatic_source_dir C:/Users/hama5/Desktop/sg_workspace/SoC_soc_24/SoC_soc_24.ip_user_files/ipstatic -lib_map_path [list {modelsim=C:/Users/hama5/Desktop/sg_workspace/SoC_soc_24/SoC_soc_24.cache/compile_simlib/modelsim} {questa=C:/Users/hama5/Desktop/sg_workspace/SoC_soc_24/SoC_soc_24.cache/compile_simlib/questa} {riviera=C:/Users/hama5/Desktop/sg_workspace/SoC_soc_24/SoC_soc_24.cache/compile_simlib/riviera} {activehdl=C:/Users/hama5/Desktop/sg_workspace/SoC_soc_24/SoC_soc_24.cache/compile_simlib/activehdl}] -use_ip_compiled_libs -force -quiet
+report_ip_status -name ip_status 
+make_wrapper -files [get_files C:/Users/hama5/Desktop/sg_workspace/SoC_soc_24/SoC_soc_24.srcs/sources_1/bd/Remo_cuckoo/Remo_cuckoo.bd] -top
+reset_run synth_1
+reset_run Micro_blaze_iic_v0_lmb_bram_0_synth_1
+launch_runs impl_1 -to_step write_bitstream -jobs 24
+wait_on_run impl_1
+write_hw_platform -fixed -force  -include_bit -file C:/Users/hama5/Desktop/sg_workspace/SoC_soc_24/Remo_cuckoo_wrapper.xsa
+ipx::edit_ip_in_project -upgrade true -name myip_clock_timer_v1_0_project -directory C:/Users/hama5/Desktop/sg_workspace/SoC_soc_24/SoC_soc_24.tmp/myip_clock_timer_v1_0_project c:/Users/hama5/Desktop/sg_workspace/ip_repo/myip_clock_timer_1.0/component.xml
+update_compile_order -fileset sources_1
+ipx::merge_project_changes files [ipx::current_core]
+ipx::update_checksums [ipx::current_core]
+ipx::save_core [ipx::current_core]
+set_property core_revision 8 [ipx::current_core]
+ipx::update_source_project_archive -component [ipx::current_core]
+ipx::create_xgui_files [ipx::current_core]
+ipx::update_checksums [ipx::current_core]
+ipx::save_core [ipx::current_core]
+ipx::move_temp_component_back -component [ipx::current_core]
+close_project -delete
+update_ip_catalog -rebuild -repo_path c:/Users/hama5/Desktop/sg_workspace/ip_repo/myip_clock_timer_1.0
+report_ip_status -name ip_status 
+upgrade_ip -vlnv xilinx.com:user:myip_clock_timer:1.0 [get_ips  Remo_cuckoo_myip_clock_timer_0_4] -log ip_upgrade.log
+export_ip_user_files -of_objects [get_ips Remo_cuckoo_myip_clock_timer_0_4] -no_script -sync -force -quiet
+generate_target all [get_files  C:/Users/hama5/Desktop/sg_workspace/SoC_soc_24/SoC_soc_24.srcs/sources_1/bd/Remo_cuckoo/Remo_cuckoo.bd]
+export_ip_user_files -of_objects [get_files C:/Users/hama5/Desktop/sg_workspace/SoC_soc_24/SoC_soc_24.srcs/sources_1/bd/Remo_cuckoo/Remo_cuckoo.bd] -no_script -sync -force -quiet
+export_simulation -of_objects [get_files C:/Users/hama5/Desktop/sg_workspace/SoC_soc_24/SoC_soc_24.srcs/sources_1/bd/Remo_cuckoo/Remo_cuckoo.bd] -directory C:/Users/hama5/Desktop/sg_workspace/SoC_soc_24/SoC_soc_24.ip_user_files/sim_scripts -ip_user_files_dir C:/Users/hama5/Desktop/sg_workspace/SoC_soc_24/SoC_soc_24.ip_user_files -ipstatic_source_dir C:/Users/hama5/Desktop/sg_workspace/SoC_soc_24/SoC_soc_24.ip_user_files/ipstatic -lib_map_path [list {modelsim=C:/Users/hama5/Desktop/sg_workspace/SoC_soc_24/SoC_soc_24.cache/compile_simlib/modelsim} {questa=C:/Users/hama5/Desktop/sg_workspace/SoC_soc_24/SoC_soc_24.cache/compile_simlib/questa} {riviera=C:/Users/hama5/Desktop/sg_workspace/SoC_soc_24/SoC_soc_24.cache/compile_simlib/riviera} {activehdl=C:/Users/hama5/Desktop/sg_workspace/SoC_soc_24/SoC_soc_24.cache/compile_simlib/activehdl}] -use_ip_compiled_libs -force -quiet
+report_ip_status -name ip_status 
+make_wrapper -files [get_files C:/Users/hama5/Desktop/sg_workspace/SoC_soc_24/SoC_soc_24.srcs/sources_1/bd/Remo_cuckoo/Remo_cuckoo.bd] -top
+reset_run synth_1
+reset_run Micro_blaze_iic_v0_lmb_bram_0_synth_1
+launch_runs impl_1 -to_step write_bitstream -jobs 24
+wait_on_run impl_1
+write_hw_platform -fixed -force  -include_bit -file C:/Users/hama5/Desktop/sg_workspace/SoC_soc_24/Remo_cuckoo_wrapper.xsa
+ipx::edit_ip_in_project -upgrade true -name myip_clock_timer_v1_0_project -directory C:/Users/hama5/Desktop/sg_workspace/SoC_soc_24/SoC_soc_24.tmp/myip_clock_timer_v1_0_project c:/Users/hama5/Desktop/sg_workspace/ip_repo/myip_clock_timer_1.0/component.xml
+update_compile_order -fileset sources_1
+current_project SoC_soc_24
+ipx::edit_ip_in_project -upgrade true -name myip_bluetooth_v1_0_project -directory C:/Users/hama5/Desktop/sg_workspace/SoC_soc_24/SoC_soc_24.tmp/myip_bluetooth_v1_0_project c:/Users/hama5/Desktop/sg_workspace/ip_repo/myip_bluetooth_1.0/component.xml
+update_compile_order -fileset sources_1
+ipx::edit_ip_in_project -upgrade true -name myip_bluetooth_v1_0_project -directory c:/users/hama5/desktop/sg_workspace/soc_soc_24/soc_soc_24.tmp/myip_bluetooth_v1_0_project/myip_bluetooth_v1_0_project.tmp/myip_bluetooth_v1_0_project c:/Users/hama5/Desktop/sg_workspace/ip_repo/myip_bluetooth_1.0/component.xml
+ipx::merge_project_changes files [ipx::current_core]
+ipx::update_checksums [ipx::current_core]
+ipx::save_core [ipx::current_core]
+set_property core_revision 9 [ipx::current_core]
+ipx::update_source_project_archive -component [ipx::current_core]
+ipx::create_xgui_files [ipx::current_core]
+ipx::update_checksums [ipx::current_core]
+ipx::save_core [ipx::current_core]
+ipx::move_temp_component_back -component [ipx::current_core]
+close_project -delete
+update_ip_catalog -rebuild -repo_path c:/Users/hama5/Desktop/sg_workspace/ip_repo/myip_bluetooth_1.0
+ipx::merge_project_changes files [ipx::current_core]
+ipx::update_checksums [ipx::current_core]
+ipx::save_core [ipx::current_core]
+set_property core_revision 9 [ipx::current_core]
+ipx::update_source_project_archive -component [ipx::current_core]
+ipx::create_xgui_files [ipx::current_core]
+ipx::update_checksums [ipx::current_core]
+ipx::save_core [ipx::current_core]
+ipx::move_temp_component_back -component [ipx::current_core]
+close_project -delete
+update_ip_catalog -rebuild -repo_path c:/Users/hama5/Desktop/sg_workspace/ip_repo/myip_clock_timer_1.0
+report_ip_status -name ip_status 
+upgrade_ip [get_ips  {Remo_cuckoo_myip_clock_timer_0_4 Remo_cuckoo_myip_bluetooth_0_1}] -log ip_upgrade.log
+export_ip_user_files -of_objects [get_ips {Remo_cuckoo_myip_clock_timer_0_4 Remo_cuckoo_myip_bluetooth_0_1}] -no_script -sync -force -quiet
+generate_target all [get_files  C:/Users/hama5/Desktop/sg_workspace/SoC_soc_24/SoC_soc_24.srcs/sources_1/bd/Remo_cuckoo/Remo_cuckoo.bd]
+export_ip_user_files -of_objects [get_files C:/Users/hama5/Desktop/sg_workspace/SoC_soc_24/SoC_soc_24.srcs/sources_1/bd/Remo_cuckoo/Remo_cuckoo.bd] -no_script -sync -force -quiet
+export_simulation -of_objects [get_files C:/Users/hama5/Desktop/sg_workspace/SoC_soc_24/SoC_soc_24.srcs/sources_1/bd/Remo_cuckoo/Remo_cuckoo.bd] -directory C:/Users/hama5/Desktop/sg_workspace/SoC_soc_24/SoC_soc_24.ip_user_files/sim_scripts -ip_user_files_dir C:/Users/hama5/Desktop/sg_workspace/SoC_soc_24/SoC_soc_24.ip_user_files -ipstatic_source_dir C:/Users/hama5/Desktop/sg_workspace/SoC_soc_24/SoC_soc_24.ip_user_files/ipstatic -lib_map_path [list {modelsim=C:/Users/hama5/Desktop/sg_workspace/SoC_soc_24/SoC_soc_24.cache/compile_simlib/modelsim} {questa=C:/Users/hama5/Desktop/sg_workspace/SoC_soc_24/SoC_soc_24.cache/compile_simlib/questa} {riviera=C:/Users/hama5/Desktop/sg_workspace/SoC_soc_24/SoC_soc_24.cache/compile_simlib/riviera} {activehdl=C:/Users/hama5/Desktop/sg_workspace/SoC_soc_24/SoC_soc_24.cache/compile_simlib/activehdl}] -use_ip_compiled_libs -force -quiet
+report_ip_status -name ip_status 
+make_wrapper -files [get_files C:/Users/hama5/Desktop/sg_workspace/SoC_soc_24/SoC_soc_24.srcs/sources_1/bd/Remo_cuckoo/Remo_cuckoo.bd] -top
+reset_run synth_1
+reset_run Micro_blaze_iic_v0_lmb_bram_0_synth_1
+launch_runs impl_1 -to_step write_bitstream -jobs 24
+wait_on_run impl_1
+write_hw_platform -fixed -force  -include_bit -file C:/Users/hama5/Desktop/sg_workspace/SoC_soc_24/Remo_cuckoo_wrapper.xsa
+write_hw_platform -fixed -force  -include_bit -file C:/Users/hama5/Desktop/sg_workspace/SoC_soc_24/Remo_cuckoo_wrapper.xsa
+ipx::edit_ip_in_project -upgrade true -name myip_clock_timer_v1_0_project -directory C:/Users/hama5/Desktop/sg_workspace/SoC_soc_24/SoC_soc_24.tmp/myip_clock_timer_v1_0_project c:/Users/hama5/Desktop/sg_workspace/ip_repo/myip_clock_timer_1.0/component.xml
+update_compile_order -fileset sources_1
+close_project
+ipx::edit_ip_in_project -upgrade true -name myip_bluetooth_v1_0_project -directory C:/Users/hama5/Desktop/sg_workspace/SoC_soc_24/SoC_soc_24.tmp/myip_bluetooth_v1_0_project c:/Users/hama5/Desktop/sg_workspace/ip_repo/myip_bluetooth_1.0/component.xml
+update_compile_order -fileset sources_1
+ipx::merge_project_changes files [ipx::current_core]
+ipx::update_checksums [ipx::current_core]
+ipx::save_core [ipx::current_core]
+set_property core_revision 10 [ipx::current_core]
+ipx::update_source_project_archive -component [ipx::current_core]
+ipx::create_xgui_files [ipx::current_core]
+ipx::update_checksums [ipx::current_core]
+ipx::save_core [ipx::current_core]
+ipx::move_temp_component_back -component [ipx::current_core]
+close_project -delete
+update_ip_catalog -rebuild -repo_path c:/Users/hama5/Desktop/sg_workspace/ip_repo/myip_bluetooth_1.0
+ipx::edit_ip_in_project -upgrade true -name myip_clock_timer_v1_0_project -directory C:/Users/hama5/Desktop/sg_workspace/SoC_soc_24/SoC_soc_24.tmp/myip_clock_timer_v1_0_project c:/Users/hama5/Desktop/sg_workspace/ip_repo/myip_clock_timer_1.0/component.xml
+update_compile_order -fileset sources_1
+update_compile_order -fileset sources_1
+ipx::merge_project_changes files [ipx::current_core]
+ipx::update_checksums [ipx::current_core]
+ipx::save_core [ipx::current_core]
+set_property core_revision 10 [ipx::current_core]
+ipx::update_source_project_archive -component [ipx::current_core]
+ipx::create_xgui_files [ipx::current_core]
+ipx::update_checksums [ipx::current_core]
+ipx::save_core [ipx::current_core]
+ipx::move_temp_component_back -component [ipx::current_core]
+close_project -delete
+update_ip_catalog -rebuild -repo_path c:/Users/hama5/Desktop/sg_workspace/ip_repo/myip_clock_timer_1.0
+ipx::edit_ip_in_project -upgrade true -name myip_bluetooth_v1_0_project -directory C:/Users/hama5/Desktop/sg_workspace/SoC_soc_24/SoC_soc_24.tmp/myip_bluetooth_v1_0_project c:/Users/hama5/Desktop/sg_workspace/ip_repo/myip_bluetooth_1.0/component.xml
+update_compile_order -fileset sources_1
+ipx::merge_project_changes files [ipx::current_core]
+set_property core_revision 11 [ipx::current_core]
+ipx::update_source_project_archive -component [ipx::current_core]
+ipx::create_xgui_files [ipx::current_core]
+ipx::update_checksums [ipx::current_core]
+ipx::save_core [ipx::current_core]
+ipx::move_temp_component_back -component [ipx::current_core]
+close_project -delete
+update_ip_catalog -rebuild -repo_path c:/Users/hama5/Desktop/sg_workspace/ip_repo/myip_bluetooth_1.0
+ipx::edit_ip_in_project -upgrade true -name myip_clock_timer_v1_0_project -directory C:/Users/hama5/Desktop/sg_workspace/SoC_soc_24/SoC_soc_24.tmp/myip_clock_timer_v1_0_project c:/Users/hama5/Desktop/sg_workspace/ip_repo/myip_clock_timer_1.0/component.xml
+update_compile_order -fileset sources_1
+ipx::merge_project_changes files [ipx::current_core]
+ipx::update_checksums [ipx::current_core]
+ipx::save_core [ipx::current_core]
+set_property core_revision 11 [ipx::current_core]
+ipx::update_source_project_archive -component [ipx::current_core]
+ipx::create_xgui_files [ipx::current_core]
+ipx::update_checksums [ipx::current_core]
+ipx::save_core [ipx::current_core]
+ipx::move_temp_component_back -component [ipx::current_core]
+close_project -delete
+update_ip_catalog -rebuild -repo_path c:/Users/hama5/Desktop/sg_workspace/ip_repo/myip_clock_timer_1.0
+report_ip_status -name ip_status 
+upgrade_ip [get_ips  {Remo_cuckoo_myip_clock_timer_0_4 Remo_cuckoo_myip_bluetooth_0_1}] -log ip_upgrade.log
+export_ip_user_files -of_objects [get_ips {Remo_cuckoo_myip_clock_timer_0_4 Remo_cuckoo_myip_bluetooth_0_1}] -no_script -sync -force -quiet
+generate_target all [get_files  C:/Users/hama5/Desktop/sg_workspace/SoC_soc_24/SoC_soc_24.srcs/sources_1/bd/Remo_cuckoo/Remo_cuckoo.bd]
+export_ip_user_files -of_objects [get_files C:/Users/hama5/Desktop/sg_workspace/SoC_soc_24/SoC_soc_24.srcs/sources_1/bd/Remo_cuckoo/Remo_cuckoo.bd] -no_script -sync -force -quiet
+export_simulation -of_objects [get_files C:/Users/hama5/Desktop/sg_workspace/SoC_soc_24/SoC_soc_24.srcs/sources_1/bd/Remo_cuckoo/Remo_cuckoo.bd] -directory C:/Users/hama5/Desktop/sg_workspace/SoC_soc_24/SoC_soc_24.ip_user_files/sim_scripts -ip_user_files_dir C:/Users/hama5/Desktop/sg_workspace/SoC_soc_24/SoC_soc_24.ip_user_files -ipstatic_source_dir C:/Users/hama5/Desktop/sg_workspace/SoC_soc_24/SoC_soc_24.ip_user_files/ipstatic -lib_map_path [list {modelsim=C:/Users/hama5/Desktop/sg_workspace/SoC_soc_24/SoC_soc_24.cache/compile_simlib/modelsim} {questa=C:/Users/hama5/Desktop/sg_workspace/SoC_soc_24/SoC_soc_24.cache/compile_simlib/questa} {riviera=C:/Users/hama5/Desktop/sg_workspace/SoC_soc_24/SoC_soc_24.cache/compile_simlib/riviera} {activehdl=C:/Users/hama5/Desktop/sg_workspace/SoC_soc_24/SoC_soc_24.cache/compile_simlib/activehdl}] -use_ip_compiled_libs -force -quiet
+ipx::edit_ip_in_project -upgrade true -name myip_clock_timer_v1_0_project -directory C:/Users/hama5/Desktop/sg_workspace/SoC_soc_24/SoC_soc_24.tmp/myip_clock_timer_v1_0_project c:/Users/hama5/Desktop/sg_workspace/ip_repo/myip_clock_timer_1.0/component.xml
+update_compile_order -fileset sources_1
+close_project
+reset_run synth_1
+reset_run Micro_blaze_iic_v0_lmb_bram_0_synth_1
+launch_runs impl_1 -to_step write_bitstream -jobs 24
+wait_on_run impl_1
+write_hw_platform -fixed -force  -include_bit -file C:/Users/hama5/Desktop/sg_workspace/SoC_soc_24/Remo_cuckoo_wrapper.xsa
+ipx::edit_ip_in_project -upgrade true -name myip_bluetooth_v1_0_project -directory C:/Users/hama5/Desktop/sg_workspace/SoC_soc_24/SoC_soc_24.tmp/myip_bluetooth_v1_0_project c:/Users/hama5/Desktop/sg_workspace/ip_repo/myip_bluetooth_1.0/component.xml
+update_compile_order -fileset sources_1
+close_project
+delete_bd_objs [get_bd_intf_nets microblaze_0_axi_periph_M02_AXI] [get_bd_cells myip_clock_timer_0]
+delete_bd_objs [get_bd_nets myip_bluetooth_0_tx] [get_bd_ports tx_0]
+delete_bd_objs [get_bd_intf_nets microblaze_0_axi_periph_M05_AXI] [get_bd_nets rx_0_1] [get_bd_cells myip_bluetooth_0]
+delete_bd_objs [get_bd_ports rx_0]
+startgroup
+create_bd_cell -type ip -vlnv xilinx.com:user:myip_bluetooth:1.0 myip_bluetooth_0
+endgroup
+startgroup
+create_bd_cell -type ip -vlnv xilinx.com:user:myip_clock_timer:1.0 myip_clock_timer_0
+endgroup
+startgroup
+apply_bd_automation -rule xilinx.com:bd_rule:axi4 -config { Clk_master {/clk_wiz_0/clk_out1 (100 MHz)} Clk_slave {Auto} Clk_xbar {/clk_wiz_0/clk_out1 (100 MHz)} Master {/microblaze_0 (Periph)} Slave {/myip_bluetooth_0/S00_AXI} ddr_seg {Auto} intc_ip {/microblaze_0_axi_periph} master_apm {0}}  [get_bd_intf_pins myip_bluetooth_0/S00_AXI]
+apply_bd_automation -rule xilinx.com:bd_rule:axi4 -config { Clk_master {/clk_wiz_0/clk_out1 (100 MHz)} Clk_slave {Auto} Clk_xbar {/clk_wiz_0/clk_out1 (100 MHz)} Master {/microblaze_0 (Periph)} Slave {/myip_clock_timer_0/S00_AXI} ddr_seg {Auto} intc_ip {/microblaze_0_axi_periph} master_apm {0}}  [get_bd_intf_pins myip_clock_timer_0/S00_AXI]
+endgroup
+regenerate_bd_layout
+regenerate_bd_layout
+validate_bd_design
+startgroup
+make_bd_pins_external  [get_bd_cells myip_bluetooth_0]
+make_bd_intf_pins_external  [get_bd_cells myip_bluetooth_0]
+endgroup
+regenerate_bd_layout
+regenerate_bd_layout
+validate_bd_design
+ipx::edit_ip_in_project -upgrade true -name myip_bluetooth_v1_0_project -directory C:/Users/hama5/Desktop/sg_workspace/SoC_soc_24/SoC_soc_24.tmp/myip_bluetooth_v1_0_project c:/Users/hama5/Desktop/sg_workspace/ip_repo/myip_bluetooth_1.0/component.xml
+update_compile_order -fileset sources_1
+ipx::merge_project_changes files [ipx::current_core]
+ipx::update_checksums [ipx::current_core]
+ipx::save_core [ipx::current_core]
+set_property core_revision 12 [ipx::current_core]
+ipx::update_source_project_archive -component [ipx::current_core]
+ipx::create_xgui_files [ipx::current_core]
+ipx::update_checksums [ipx::current_core]
+ipx::save_core [ipx::current_core]
+ipx::move_temp_component_back -component [ipx::current_core]
+close_project -delete
+update_ip_catalog -rebuild -repo_path c:/Users/hama5/Desktop/sg_workspace/ip_repo/myip_bluetooth_1.0
+report_ip_status -name ip_status 
+upgrade_ip [get_ips  Remo_cuckoo_myip_bluetooth_0_2] -log ip_upgrade.log
+export_ip_user_files -of_objects [get_ips Remo_cuckoo_myip_bluetooth_0_2] -no_script -sync -force -quiet
+ipx::edit_ip_in_project -upgrade true -name myip_clock_timer_v1_0_project -directory C:/Users/hama5/Desktop/sg_workspace/SoC_soc_24/SoC_soc_24.tmp/myip_clock_timer_v1_0_project c:/Users/hama5/Desktop/sg_workspace/ip_repo/myip_clock_timer_1.0/component.xml
+update_compile_order -fileset sources_1
+close_project
+report_ip_status -name ip_status 
+generate_target all [get_files  C:/Users/hama5/Desktop/sg_workspace/SoC_soc_24/SoC_soc_24.srcs/sources_1/bd/Remo_cuckoo/Remo_cuckoo.bd]
+export_ip_user_files -of_objects [get_files C:/Users/hama5/Desktop/sg_workspace/SoC_soc_24/SoC_soc_24.srcs/sources_1/bd/Remo_cuckoo/Remo_cuckoo.bd] -no_script -sync -force -quiet
+export_simulation -of_objects [get_files C:/Users/hama5/Desktop/sg_workspace/SoC_soc_24/SoC_soc_24.srcs/sources_1/bd/Remo_cuckoo/Remo_cuckoo.bd] -directory C:/Users/hama5/Desktop/sg_workspace/SoC_soc_24/SoC_soc_24.ip_user_files/sim_scripts -ip_user_files_dir C:/Users/hama5/Desktop/sg_workspace/SoC_soc_24/SoC_soc_24.ip_user_files -ipstatic_source_dir C:/Users/hama5/Desktop/sg_workspace/SoC_soc_24/SoC_soc_24.ip_user_files/ipstatic -lib_map_path [list {modelsim=C:/Users/hama5/Desktop/sg_workspace/SoC_soc_24/SoC_soc_24.cache/compile_simlib/modelsim} {questa=C:/Users/hama5/Desktop/sg_workspace/SoC_soc_24/SoC_soc_24.cache/compile_simlib/questa} {riviera=C:/Users/hama5/Desktop/sg_workspace/SoC_soc_24/SoC_soc_24.cache/compile_simlib/riviera} {activehdl=C:/Users/hama5/Desktop/sg_workspace/SoC_soc_24/SoC_soc_24.cache/compile_simlib/activehdl}] -use_ip_compiled_libs -force -quiet
+ipx::edit_ip_in_project -upgrade true -name myip_bluetooth_v1_0_project -directory C:/Users/hama5/Desktop/sg_workspace/SoC_soc_24/SoC_soc_24.tmp/myip_bluetooth_v1_0_project c:/Users/hama5/Desktop/sg_workspace/ip_repo/myip_bluetooth_1.0/component.xml
+update_compile_order -fileset sources_1
+close_project
+reset_run synth_1
+reset_run Micro_blaze_iic_v0_lmb_bram_0_synth_1
+report_ip_status -name ip_status 
+launch_runs impl_1 -to_step write_bitstream -jobs 24
+wait_on_run impl_1
+write_hw_platform -fixed -force  -include_bit -file C:/Users/hama5/Desktop/sg_workspace/SoC_soc_24/Remo_cuckoo_wrapper.xsa
+ipx::edit_ip_in_project -upgrade true -name myip_clock_timer_v1_0_project -directory C:/Users/hama5/Desktop/sg_workspace/SoC_soc_24/SoC_soc_24.tmp/myip_clock_timer_v1_0_project c:/Users/hama5/Desktop/sg_workspace/ip_repo/myip_clock_timer_1.0/component.xml
+update_compile_order -fileset sources_1
+current_project SoC_soc_24
+ipx::edit_ip_in_project -upgrade true -name myip_bluetooth_v1_0_project -directory C:/Users/hama5/Desktop/sg_workspace/SoC_soc_24/SoC_soc_24.tmp/myip_bluetooth_v1_0_project c:/Users/hama5/Desktop/sg_workspace/ip_repo/myip_bluetooth_1.0/component.xml
+update_compile_order -fileset sources_1
+ipx::merge_project_changes files [ipx::current_core]
+ipx::update_checksums [ipx::current_core]
+ipx::save_core [ipx::current_core]
+set_property core_revision 13 [ipx::current_core]
+ipx::update_source_project_archive -component [ipx::current_core]
+ipx::create_xgui_files [ipx::current_core]
+ipx::update_checksums [ipx::current_core]
+ipx::save_core [ipx::current_core]
+ipx::move_temp_component_back -component [ipx::current_core]
+close_project -delete
+update_ip_catalog -rebuild -repo_path c:/Users/hama5/Desktop/sg_workspace/ip_repo/myip_bluetooth_1.0
+current_project SoC_soc_24
+update_ip_catalog -rebuild -scan_changes
+report_ip_status -name ip_status
+current_project myip_clock_timer_v1_0_project
+current_project SoC_soc_24
+upgrade_ip -vlnv xilinx.com:user:myip_bluetooth:1.0 [get_ips  Remo_cuckoo_myip_bluetooth_0_2] -log ip_upgrade.log
+export_ip_user_files -of_objects [get_ips Remo_cuckoo_myip_bluetooth_0_2] -no_script -sync -force -quiet
+generate_target all [get_files  C:/Users/hama5/Desktop/sg_workspace/SoC_soc_24/SoC_soc_24.srcs/sources_1/bd/Remo_cuckoo/Remo_cuckoo.bd]
+export_ip_user_files -of_objects [get_files C:/Users/hama5/Desktop/sg_workspace/SoC_soc_24/SoC_soc_24.srcs/sources_1/bd/Remo_cuckoo/Remo_cuckoo.bd] -no_script -sync -force -quiet
+export_simulation -of_objects [get_files C:/Users/hama5/Desktop/sg_workspace/SoC_soc_24/SoC_soc_24.srcs/sources_1/bd/Remo_cuckoo/Remo_cuckoo.bd] -directory C:/Users/hama5/Desktop/sg_workspace/SoC_soc_24/SoC_soc_24.ip_user_files/sim_scripts -ip_user_files_dir C:/Users/hama5/Desktop/sg_workspace/SoC_soc_24/SoC_soc_24.ip_user_files -ipstatic_source_dir C:/Users/hama5/Desktop/sg_workspace/SoC_soc_24/SoC_soc_24.ip_user_files/ipstatic -lib_map_path [list {modelsim=C:/Users/hama5/Desktop/sg_workspace/SoC_soc_24/SoC_soc_24.cache/compile_simlib/modelsim} {questa=C:/Users/hama5/Desktop/sg_workspace/SoC_soc_24/SoC_soc_24.cache/compile_simlib/questa} {riviera=C:/Users/hama5/Desktop/sg_workspace/SoC_soc_24/SoC_soc_24.cache/compile_simlib/riviera} {activehdl=C:/Users/hama5/Desktop/sg_workspace/SoC_soc_24/SoC_soc_24.cache/compile_simlib/activehdl}] -use_ip_compiled_libs -force -quiet
+ipx::edit_ip_in_project -upgrade true -name myip_bluetooth_v1_0_project -directory C:/Users/hama5/Desktop/sg_workspace/SoC_soc_24/SoC_soc_24.tmp/myip_bluetooth_v1_0_project c:/Users/hama5/Desktop/sg_workspace/ip_repo/myip_bluetooth_1.0/component.xml
+update_compile_order -fileset sources_1
+close_project
+current_project SoC_soc_24
+make_wrapper -files [get_files C:/Users/hama5/Desktop/sg_workspace/SoC_soc_24/SoC_soc_24.srcs/sources_1/bd/Remo_cuckoo/Remo_cuckoo.bd] -top
+make_wrapper -files [get_files C:/Users/hama5/Desktop/sg_workspace/SoC_soc_24/SoC_soc_24.srcs/sources_1/bd/Remo_cuckoo/Remo_cuckoo.bd] -top
+reset_run synth_1
+reset_run Micro_blaze_iic_v0_lmb_bram_0_synth_1
+launch_runs impl_1 -to_step write_bitstream -jobs 24
+wait_on_run impl_1
+write_hw_platform -fixed -force  -include_bit -file C:/Users/hama5/Desktop/sg_workspace/SoC_soc_24/Remo_cuckoo_wrapper.xsa
+report_ip_status -name ip_status 
+current_project myip_clock_timer_v1_0_project
+ipx::merge_project_changes files [ipx::current_core]
+ipx::update_checksums [ipx::current_core]
+ipx::save_core [ipx::current_core]
+set_property core_revision 12 [ipx::current_core]
+ipx::update_source_project_archive -component [ipx::current_core]
+ipx::create_xgui_files [ipx::current_core]
+ipx::update_checksums [ipx::current_core]
+ipx::save_core [ipx::current_core]
+ipx::move_temp_component_back -component [ipx::current_core]
+close_project -delete
+update_ip_catalog -rebuild -repo_path c:/Users/hama5/Desktop/sg_workspace/ip_repo/myip_clock_timer_1.0
+report_ip_status -name ip_status 
+upgrade_ip -vlnv xilinx.com:user:myip_clock_timer:1.0 [get_ips  Remo_cuckoo_myip_clock_timer_0_5] -log ip_upgrade.log
+export_ip_user_files -of_objects [get_ips Remo_cuckoo_myip_clock_timer_0_5] -no_script -sync -force -quiet
+generate_target all [get_files  C:/Users/hama5/Desktop/sg_workspace/SoC_soc_24/SoC_soc_24.srcs/sources_1/bd/Remo_cuckoo/Remo_cuckoo.bd]
+export_ip_user_files -of_objects [get_files C:/Users/hama5/Desktop/sg_workspace/SoC_soc_24/SoC_soc_24.srcs/sources_1/bd/Remo_cuckoo/Remo_cuckoo.bd] -no_script -sync -force -quiet
+export_simulation -of_objects [get_files C:/Users/hama5/Desktop/sg_workspace/SoC_soc_24/SoC_soc_24.srcs/sources_1/bd/Remo_cuckoo/Remo_cuckoo.bd] -directory C:/Users/hama5/Desktop/sg_workspace/SoC_soc_24/SoC_soc_24.ip_user_files/sim_scripts -ip_user_files_dir C:/Users/hama5/Desktop/sg_workspace/SoC_soc_24/SoC_soc_24.ip_user_files -ipstatic_source_dir C:/Users/hama5/Desktop/sg_workspace/SoC_soc_24/SoC_soc_24.ip_user_files/ipstatic -lib_map_path [list {modelsim=C:/Users/hama5/Desktop/sg_workspace/SoC_soc_24/SoC_soc_24.cache/compile_simlib/modelsim} {questa=C:/Users/hama5/Desktop/sg_workspace/SoC_soc_24/SoC_soc_24.cache/compile_simlib/questa} {riviera=C:/Users/hama5/Desktop/sg_workspace/SoC_soc_24/SoC_soc_24.cache/compile_simlib/riviera} {activehdl=C:/Users/hama5/Desktop/sg_workspace/SoC_soc_24/SoC_soc_24.cache/compile_simlib/activehdl}] -use_ip_compiled_libs -force -quiet
+make_wrapper -files [get_files C:/Users/hama5/Desktop/sg_workspace/SoC_soc_24/SoC_soc_24.srcs/sources_1/bd/Remo_cuckoo/Remo_cuckoo.bd] -top
+report_ip_status -name ip_status 
+write_hw_platform -fixed -force  -include_bit -file C:/Users/hama5/Desktop/sg_workspace/SoC_soc_24/Remo_cuckoo_wrapper.xsa
+ipx::edit_ip_in_project -upgrade true -name myip_clock_timer_v1_0_project -directory C:/Users/hama5/Desktop/sg_workspace/SoC_soc_24/SoC_soc_24.tmp/myip_clock_timer_v1_0_project c:/Users/hama5/Desktop/sg_workspace/ip_repo/myip_clock_timer_1.0/component.xml
+update_compile_order -fileset sources_1
+close_project
+make_wrapper -files [get_files C:/Users/hama5/Desktop/sg_workspace/SoC_soc_24/SoC_soc_24.srcs/sources_1/bd/Remo_cuckoo/Remo_cuckoo.bd] -top
+reset_run synth_1
+reset_run Micro_blaze_iic_v0_lmb_bram_0_synth_1
+launch_runs impl_1 -to_step write_bitstream -jobs 24
+wait_on_run impl_1
+write_hw_platform -fixed -force  -include_bit -file C:/Users/hama5/Desktop/sg_workspace/SoC_soc_24/Remo_cuckoo_wrapper.xsa

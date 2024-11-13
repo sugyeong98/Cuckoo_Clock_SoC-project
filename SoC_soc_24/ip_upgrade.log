@@ -1,0 +1,37 @@
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.2 (win64) Build 2708876 Wed Nov  6 21:40:23 MST 2019
+| Date         : Wed Nov 13 09:59:25 2024
+| Host         : SDY_NoteBook running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7a35tcpg236-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'Remo_cuckoo_myip_clock_timer_0_5'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of Remo_cuckoo_myip_clock_timer_0_5 (xilinx.com:user:myip_clock_timer:1.0) from (Rev. 11) to (Rev. 12)
+
+
+
+
+
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.2 (win64) Build 2708876 Wed Nov  6 21:40:23 MST 2019
+| Date         : Tue Nov 12 20:40:30 2024
+| Host         : SDY_NoteBook running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7a35tcpg236-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'Remo_cuckoo_myip_bluetooth_0_2'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of Remo_cuckoo_myip_bluetooth_0_2 (xilinx.com:user:myip_bluetooth:1.0) from (Rev. 12) to (Rev. 13)
+
